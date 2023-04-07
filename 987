@@ -113,7 +113,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
-http://45.179.164.9:8000/play/a039/index.m3u8
+http://45.176.116.56:8088/play/a03z
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
 http://45.162.132.145:8850/play/a01n/index.m3u8
 
@@ -216,7 +216,7 @@ http://181.176.148.142:8000/play/a02m
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278578
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
-http://200.116.232.66:9001/play/a04u/index.m3u8
+http://45.161.115.26:50000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2392
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
@@ -229,7 +229,7 @@ http://tvstarlife.com:25461/cesar/cesar123/110
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://190.61.102.67:8000/play/a02b
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
-
+http://45.5.119.202:54321/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278756
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
@@ -369,7 +369,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2122
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2215
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
-http://45.179.164.9:8000/play/a06g/index.m3u8
+http://45.5.119.202:54321/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
 http://170.83.242.15:5350/play/a005
 
@@ -399,7 +399,7 @@ http://190.83.116.230:9010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
 http://50.7.66.234:8080/moontools/6548@89787/4011
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS FUNNY" tvg-logo="" group-title="TV | Internacional",TBS FUNNY
-http://200.116.232.66:9001/play/a08u/index.m3u8
+http://45.161.115.26:50000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://200.41.79.165:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
@@ -407,9 +407,9 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2382
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1787
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
-
+http://200.24.141.2:4000/play/a2ld/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://45.179.164.9:8000/play/a053/index.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
@@ -1060,6 +1060,8 @@ https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
 https://archive.org/download/01_20220423_20220423_1740/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom " tvg-logo="" group-title="VOD | Peliculas",Venom 
 http://tvstarlife.com:25461/movie/cesar/cesar123/49829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/373466.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 http://51.81.208.167/gmedia/premier/Space.Jam.A.New.Legacy.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
@@ -1097,7 +1099,7 @@ http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
 http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie 2" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie 2
-
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/478653.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
 http://vod.tuxchannel.mx/peliculas/720/world%20war%20z%202013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
@@ -1117,13 +1119,13 @@ https://archive.org/download/01_20220718_20220718_2113/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",La cima
 
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
-
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/483566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
 http://51.81.208.167/movie/Coco.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 https://ia802809.us.archive.org/11/items/AlvasaaMiNombreEsKhanRoman/alvasaa-Mi%20Nombre%20Es%20Khan%20roman%28.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
-
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/478153.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
 https://archive.org/download/01_20221022_20221022_1429/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
@@ -1131,7 +1133,7 @@ http://tvstarlife.com:25461/movie/cesar/cesar123/184007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="" group-title="VOD | Peliculas",No manches Frida
 http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133250.mp4
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/483946.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
 http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
@@ -1139,31 +1141,31 @@ http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
-http://higherpro.xyz:8080/movie/557842228429/266467448992/152719.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-http://higherpro.xyz:8080/movie/557842228429/266467448992/152720.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-http://higherpro.xyz:8080/movie/557842228429/266467448992/152721.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
 https://archive.org/download/01_20220902_20220902_1529/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
 
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133177.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 2" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 2
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133261.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",donde estan las rubias
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133144.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
 http://tvstarlife.com:25461/movie/cesar/cesar123/49618.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
-http://higherpro.xyz:8080/movie/557842228429/266467448992/140983.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator, salvacion" tvg-logo="" group-title="VOD | Peliculas",Terminator, salvacion
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://higherpro.xyz:8080/movie/557842228429/266467448992/129971.mp4
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/373293.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-http://higherpro.xyz:8080/movie/557842228429/266467448992/131722.mkv
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/373294.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
@@ -1175,9 +1177,11 @@ http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Viejos
 http://tvstarlife.com:25461/movie/cesar/cesar123/45978.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133309.mkv
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/479465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 1" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 1
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/482058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
-
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/482059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
 
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
@@ -1192,8 +1196,6 @@ https://vod.lamtv.tv/ene/20220414027.mp4
 http://144.217.180.205/Peliculas/Accion/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Latino%20HD%20-%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar, el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar, el sentido del agua
 http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jose y los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose y los sueños del faraon
-
 #EXTINF:-1 tvg-id="" tvg-name="Jacob" tvg-logo="" group-title="VOD | Peliculas",Jacob
 https://vod.lamtv.tv/ene/20220412021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
@@ -1203,9 +1205,9 @@ https://vod.lamtv.tv/ene/20220414018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
 
 #EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 1" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 1
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133311.mkv
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/482207.avi
 #EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 2" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 2
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133312.mkv
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/493947.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Solo amigos
 
 #EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Lugar equivocado
@@ -1215,21 +1217,21 @@ http://higherpro.xyz:8080/movie/557842228429/266467448992/133312.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",Fiesta en la casa
 
 #EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas",El asesino perfecto
-http://higherpro.xyz:8080/movie/557842228429/266467448992/155508.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133196.mp4
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/495020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133198.mp4
+http://tvstarlife.com:25461/movie/cesar/cesar123/44966.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
-http://higherpro.xyz:8080/movie/557842228429/266467448992/133211.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",La visita
-http://higherpro.xyz:8080/movie/557842228429/266467448992/132266.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Al filo del abismo
 
 #EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Imperio de luz
 http://tvstarlife.com:25461/movie/cesar/cesar123/196529.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/500487.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",Junge
 
 #EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",Narvik
