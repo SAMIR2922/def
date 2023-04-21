@@ -811,6 +811,8 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2797
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092605
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",DEXERY
+https://rds.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SPAnWSWMCfs0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU1BBbldTV01DZnMwIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4MjA0MTMzNH0.aQxh04qpwOjfzHCgGHkxxkSy1ECf5GFzSCpAJAv0A7ePpMDqTeUx4KkUlT0F2Q7S0fmbvqc5UDfQWKrr5w7UQKkushWBmYr6BsMU7KIesaksT9nzUiImBjWwpGNuPora
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
 http://tvstarlife.com:25461/cesar/cesar123/26780
