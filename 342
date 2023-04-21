@@ -808,7 +808,7 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-http://177.234.230.226:8010/play/a01m/index.m3u8
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2797
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092605
 
