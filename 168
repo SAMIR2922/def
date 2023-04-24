@@ -748,7 +748,7 @@ http://168.228.194.32:58001/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11024
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://disfruta.net/kikeledesma/dFvFKDYx57/18910
+https://rds.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SPAnWSWMCfs0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU1BBbldTV01DZnMwIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4MjI5OTM3N30.0Am8BW7F5DRTFYpM0p3BradFGBqmNTxlxBMXaoIoqm64BOwskZ8nBn8u91VRfg8rQYy5a2Z24qxuRgct6WCGZe5wSZeQsNZvuW0KPJC4i7c9GuAj5Y0CYUmKEfh9Krm3
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
