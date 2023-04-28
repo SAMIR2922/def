@@ -54,7 +54,7 @@ http://177.234.230.226:8010/play/a02c/index.m3u8
 http://186.5.31.251:8000/play/a0d7/index.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| MULTICANAL " tvg-logo="" group-title="TV | Ecuador",MULTICANAL
-https://multicanal.streamseguro.com/hls/streaming.m3u8
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
 
@@ -68,7 +68,7 @@ http://177.234.230.226:8010/play/a029/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",TELERAMA
-https://envivo.telerama.ec/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -105,13 +105,13 @@ http://190.83.116.230:9010/play/a0b8/index.m3u8
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NARANJAL TV "  tvg-logo="" group-title="TV | Ecuador",NARANJAL TV
-http://177.234.230.226:8010/play/a005/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TV LEGISLATIVA "  tvg-logo="" group-title="TV | Ecuador",TV LEGISLATIVA
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",CAPRICHO TV
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
@@ -215,7 +215,7 @@ http://181.189.243.254:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://181.78.21.60:16123/play/ch50
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-http://160.20.165.246:8000/play/a00d/index.m3u8
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 http://181.78.21.60:16123/play/ch48
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -322,7 +322,7 @@ http://181.78.27.190:5350/play/a037
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
 http://181.224.161.138:1010/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
-http://89.187.173.138:39001/tomyat07/gVV5WaS16t/26901
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092589
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
@@ -368,7 +368,7 @@ http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
-http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1318
+
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
@@ -448,7 +448,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1787
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://181.78.11.238:6837/play/a00n
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10869
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
@@ -497,7 +497,7 @@ http://45.176.232.74:8000/play/a00h
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| BITME" tvg-logo="" group-title="TV | Internacional",BITME
 http://tvstarlife.com:25461/cesar/cesar123/27751
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA" tvg-logo="" group-title="TV | Internacional",DE PELICULA
-http://181.78.11.238:6837/play/a02a
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA PLUS" tvg-logo="" group-title="TV | Internacional",DE PELICULA PLUS
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
@@ -505,7 +505,7 @@ http://200.41.79.165:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
-http://181.78.11.238:6837/play/a006
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155171
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
@@ -558,7 +558,7 @@ http://190.149.66.90:16000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2100720
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
-http://190.5.200.52:8000/play/a00f/index.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/87108
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
 http://170.83.242.15:5350/play/a00n
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
@@ -611,9 +611,9 @@ http://177.234.230.226:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
-http://181.78.11.238:6837/play/a02p
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PREMIER KIDS" tvg-logo="" group-title="TV | Infantiles",PREMIER KIDS
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ANIME ZONE" tvg-logo="" group-title="TV | Infantiles",ANIME ZONE
 
 
@@ -628,13 +628,13 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1191
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181047
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://200.41.79.165:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
-http://177.234.230.226:8010/play/a001/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-http://181.176.148.142:8000/play/a02d
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN BRASIL" tvg-logo="" group-title="TV | Deportes",ESPN BRASIL
@@ -648,13 +648,13 @@ http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 http://200.41.79.165:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
-http://177.234.230.226:8010/play/a007/index.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://186.5.31.251:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-http://190.5.200.52:8000/play/a00k/index.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121680
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 http://190.5.200.52:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
@@ -667,15 +667,15 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/4802
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
-http://170.83.242.15:5350/play/a00v
+
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
 http://45.162.132.145:8850/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
 http://181.175.41.170:200/play/a042
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
-http://170.83.242.30:5350/play/a00v
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/180461
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
-http://181.78.27.190:5350/play/a00v
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/180469
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
@@ -686,7 +686,7 @@ http://177.234.230.226:8010/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
-http://89.187.173.138:39001/tomyat07/gVV5WaS16t/23301
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/25361
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
@@ -695,7 +695,7 @@ http://50.7.66.234:8080/monicaferraz/518260/1155814
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 http://45.162.132.145:8850/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121688
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 http://45.162.132.145:8850/play/a02g/index.m3u8
@@ -744,11 +744,11 @@ http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-http://168.228.194.32:58001/play/a0ba/index.m3u8
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11024
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-https://rds.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SPAnWSWMCfs0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU1BBbldTV01DZnMwIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4MjI5OTM3N30.0Am8BW7F5DRTFYpM0p3BradFGBqmNTxlxBMXaoIoqm64BOwskZ8nBn8u91VRfg8rQYy5a2Z24qxuRgct6WCGZe5wSZeQsNZvuW0KPJC4i7c9GuAj5Y0CYUmKEfh9Krm3
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
@@ -838,7 +838,7 @@ http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TUDN MEX" tvg-logo="" group-title="TV | Deportes",TUDN MEX
 http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
-https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2797
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
