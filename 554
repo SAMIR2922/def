@@ -8,15 +8,17 @@ http://177.234.230.226:8010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/121619
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/7680
+http://50.7.66.234:8080/monicaferraz/518260/53455
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://177.234.230.226:8010/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/518
+#EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/155354
+
+
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/512
+http://50.7.66.234:8080/monicaferraz/518260/53457
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1103
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="" group-title="TV | Ecuador",RTS SD
@@ -25,28 +27,30 @@ http://177.234.230.226:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://50.7.66.234:8080/monicaferraz/518260/7533
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/11136
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/174612
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://177.234.230.226:8010/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://177.234.230.226:8010/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://186.101.70.92:25501/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1101
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://177.234.230.226:8010/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/509
+http://50.7.66.234:8080/monicaferraz/518260/53456
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/174608
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 http://177.234.230.226:8010/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/516
+http://50.7.66.234:8080/monicaferraz/518260/53459
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://177.234.230.226:8010/play/a02c/index.m3u8
@@ -132,13 +136,13 @@ http://186.67.226.14:8088/play/a039
 http://187.102.210.164:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="TV | Internacional",A&E
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2077
+http://50.7.66.234:8080/monicaferraz/518260/4041
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://177.234.230.226:8010/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
 http://177.234.230.226:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES SUR"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES SUR
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1767
+http://181.78.24.67:8010/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
 http://177.234.230.226:8010/play/a00g/index.m3u8
@@ -146,13 +150,13 @@ http://177.234.230.226:8010/play/a00g/index.m3u8
 http://190.61.102.67:8000/play/a04p
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2220
+http://181.78.24.67:8010/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://187.102.210.164:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
 http://170.83.242.30:5350/play/a001
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2236
+http://181.78.24.67:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
 http://tvstarlife.com:25461/cesar/cesar123/88
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
@@ -168,13 +172,13 @@ http://170.83.242.156:5350/play/a02r
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
 http://200.41.79.165:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/5155
+http://181.78.24.67:8010/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://170.83.242.156:5350/play/a02p
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
 http://200.41.79.165:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2229
+http://50.7.66.234:8080/monicaferraz/518260/4003
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://187.102.210.164:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
@@ -182,18 +186,18 @@ http://200.41.79.165:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://170.83.242.156:5350/play/a02q
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2238
+http://50.7.66.234:8080/monicaferraz/518260/1143815
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
-
+http://50.7.66.234:8080/monicaferraz/518260/1155796
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT 
-http://190.131.228.59:8000/play/a04a/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/4103
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
 http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://187.102.210.164:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1791
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 http://186.67.73.110:5054/play/a01k
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
@@ -207,7 +211,7 @@ http://177.234.230.226:8010/play/a00c/index.m3u8
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2379
+http://50.7.66.234:8080/monicaferraz/518260/1155797
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.189.243.254:8000/play/a0sb/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
@@ -215,7 +219,7 @@ http://181.189.243.254:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://181.78.21.60:16123/play/ch50
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-
+http://181.78.12.119:16123/play/ch50/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 http://181.78.21.60:16123/play/ch48
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -241,13 +245,13 @@ http://181.189.243.254:8000/play/a0sr/index.m3u8
 http://181.189.243.254:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
-http://45.161.115.26:50000/play/a00r/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/4097
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://200.41.79.165:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1065
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-
+http://tvstarlife.com:25461/cesar/cesar123/218
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
 http://181.189.243.254:8000/play/a0rh/index.m3u8
@@ -268,9 +272,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
 http://tvstarlife.com:25461/cesar/cesar123/28
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2198
+http://50.7.66.234:8080/monicaferraz/518260/1148196
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
-http://168.228.194.32:58001/play/a00z/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/1148844
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
@@ -316,7 +320,7 @@ http://181.175.41.170:8000/play/a0fg
 http://181.175.41.170:8000/play/a0f6
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2068
+http://50.7.66.234:8080/monicaferraz/518260/4022
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
 http://181.78.27.190:5350/play/a037
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
@@ -352,7 +356,7 @@ http://45.5.119.202:54321/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",KUMBIA TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| ZONA LATINA" tvg-logo="" group-title="TV | Internacional",ZONA LATINA
-http://190.131.228.59:8000/play/a043/index.m3u8
+http://186.3.76.238:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
 http://181.189.243.254:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| METAL TV" tvg-logo="" group-title="TV | Internacional",METAL TV
@@ -362,7 +366,7 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
-
+http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
@@ -402,7 +406,7 @@ http://50.7.66.234:8080/monicaferraz/518260/1153332
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
 http://200.41.79.165:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2122
+http://181.78.21.60:16123/play/ch33
 
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
@@ -417,13 +421,13 @@ http://147.135.124.6:26649/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
 http://181.189.243.254:8000/play/a0q8/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1788
+
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://190.186.159.19:58002/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/117214
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1781
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
@@ -438,25 +442,25 @@ http://190.83.116.230:9010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS FUNNY" tvg-logo="" group-title="TV | Internacional",TBS FUNNY
-http://45.161.115.26:50000/play/a01s/index.m3u8
+http://181.78.12.119:16123/play/ch12/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://200.41.79.165:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2382
+http://50.7.66.234:8080/monicaferraz/518260/1155820
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1787
+http://181.78.27.186:5350/play/a038
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
 http://tvstarlife.com:25461/cesar/cesar123/15
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://177.234.230.226:8010/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://186.67.73.110:5054/play/a014
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
-http://190.131.228.59:8000/play/a04g/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/4110
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://200.41.79.165:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX ACTION" tvg-logo="" group-title="TV | Internacional",CINEMAX ACTION
@@ -466,7 +470,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/29664
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1930
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ ENCORE" tvg-logo="" group-title="TV | Internacional",STARZ ENCORE
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1930
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
 http://200.41.79.165:8000/play/a0hw/index.m3u8
@@ -477,7 +481,7 @@ http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
-http://190.131.228.59:8000/play/a00g/index.m3u8
+http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
 http://177.234.230.226:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
@@ -538,7 +542,7 @@ http://177.234.230.226:8010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1771
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES 2 ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES 2 ESPAÑA
@@ -550,9 +554,9 @@ http://200.41.79.165:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR " tvg-logo="" group-title="TV | Infantiles",NICK JR 
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2155
+http://50.7.66.234:8080/monicaferraz/518260/1155856
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
-http://168.228.194.32:58001/play/a08a/index.m3u8
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
@@ -562,9 +566,9 @@ http://tvstarlife.com:25461/cesar/cesar123/192
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
 http://170.83.242.15:5350/play/a00n
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
-http://190.131.228.59:8000/play/a05m/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/4004
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1869
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
 http://170.83.242.15:5350/play/a02s
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JR" tvg-logo="" group-title="TV | Infantiles",DISNEY JR
@@ -587,7 +591,7 @@ http://181.189.243.254:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
 http://190.83.116.230:9010/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
-http://168.228.194.32:58001/play/a04x/index.m3u8
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://177.234.230.226:8010/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
@@ -619,14 +623,14 @@ http://177.234.230.226:8010/play/a00o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
-http://168.228.194.32:58001/play/a004/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/1155904
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1191
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/156256
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/965
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://tvstarlife.com:25461/cesar/cesar123/27303
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
@@ -634,7 +638,7 @@ http://200.41.79.165:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/215071
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN BRASIL" tvg-logo="" group-title="TV | Deportes",ESPN BRASIL
@@ -642,7 +646,7 @@ http://45.162.132.145:8850/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
 http://200.41.79.165:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1084
+http://50.7.66.234:8080/monicaferraz/518260/43637
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
@@ -654,18 +658,18 @@ http://tvstarlife.com:25461/cesar/cesar123/27918
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1525
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/69719
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1091
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://50.7.66.234:8080/monicaferraz/518260/4193
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1544
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/4802
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
@@ -675,11 +679,11 @@ http://181.175.41.170:200/play/a042
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://tvstarlife.com:25461/cesar/cesar123/25975
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
-http://50.7.66.234:8080/monicaferraz/518260/7471
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1098
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1099
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1213
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV 1" tvg-logo="" group-title="TV | Deportes",GOLTV 1
 http://177.234.230.226:8010/play/a003/index.m3u8
 
@@ -702,23 +706,23 @@ http://45.162.132.145:8850/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/3180
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT MEX
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1074
+http://50.7.66.234:8080/monicaferraz/518260/1156755
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1093
+http://50.7.66.234:8080/monicaferraz/518260/1095232
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 http://tvstarlife.com:25461/cesar/cesar123/27253
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
-http://190.131.228.59:8000/play/a0j3/index.m3u8
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/141445
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
 http://177.234.230.226:8010/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
 http://181.189.243.254:8000/play/a0sp/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1094
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1526
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
 http://181.189.243.254:8000/play/a0rc/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1076
+http://50.7.66.234:8080/monicaferraz/518260/1156756
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://177.234.230.226:8010/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
@@ -726,11 +730,11 @@ http://204.157.255.135:20001/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX DEPORTES" tvg-logo="" group-title="TV | Deportes",FOX DEPORTES
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/14363
+
 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://50.7.66.234:8080/monicaferraz/518260/1092640
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
@@ -750,7 +754,7 @@ http://tvstarlife.com:25461/cesar/cesar123/1301
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://50.7.66.234:8080/monicaferraz/518260/23239
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/990
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://tvstarlife.com:25461/cesar/cesar123/51804
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
@@ -760,16 +764,16 @@ http://190.119.178.46:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 http://tvstarlife.com:25461/cesar/cesar123/51801
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1382
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/215073
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1194
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/4672
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1383
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/990
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
@@ -779,9 +783,9 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/121703
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://190.119.178.46:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/4674
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/20143
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
@@ -790,7 +794,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/20143
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
-
+http://50.7.66.234:8080/monicaferraz/518260/53372
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
@@ -798,14 +802,14 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
-http://168.228.194.32:58001/play/a031/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVISION SPORT" tvg-logo="" group-title="TV | Deportes",UNIVISION SPORT
 
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1813
+http://tvstarlife.com:25461/cesar/cesar123/421
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| BARCA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png" group-title="TV | Deportes",BARCA TV
-http://168.228.194.32:58001/play/a0bg/index.m3u8
+http://tvstarlife.com:25461/cesar/cesar123/26053
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER CITY" tvg-logo="" group-title="TV | Deportes",MANCHESTER CITY TV
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
@@ -814,16 +818,16 @@ http://168.228.194.32:58001/play/a0bg/index.m3u8
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://45.5.118.226:8000/play/a051/index.m3u8
+http://tvstarlife.com:25461/cesar/cesar123/194102
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-
+http://tvstarlife.com:25461/cesar/cesar123/441
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
-http://168.228.194.32:58001/play/z002/index.m3u8
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
-
+http://tvstarlife.com:25461/cesar/cesar123/27453
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
 
@@ -834,26 +838,26 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 BOL
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN SPORT PLUS" tvg-logo="" group-title="TV | Deportes",WIN SPORT PLUS
-http://190.131.228.59:8000/play/a04m/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TUDN MEX" tvg-logo="" group-title="TV | Deportes",TUDN MEX
-http://45.182.21.251:33334/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2797
+http://50.7.66.234:8080/monicaferraz/518260/8247
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
-
+http://50.7.66.234:8080/monicaferraz/518260/1151425
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",DEXERY
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
 http://tvstarlife.com:25461/cesar/cesar123/26780
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-
+http://tvstarlife.com:25461/cesar/cesar123/26010
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1810
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
@@ -879,126 +883,126 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E01
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E02
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E03
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E04
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E05
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E06
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E07
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E08
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E09
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E01
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E02
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E03
 https://archive.org/download/03_20220909_20220909_1426/03.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E04
 https://archive.org/download/04_20220916_20220916/04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E05
 https://archive.org/download/05_20220923_20220923_1924/05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E06
 https://archive.org/download/06_20220930/06.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E07
 https://archive.org/download/07_20221007_20221007/07.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E08
 https://archive.org/download/08_20221014/08.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
+#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES",La casa del dragon E01
 http://89.187.173.138:39001/series/tomyat07/gVV5WaS16t/155954.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E02
+#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES",La casa del dragon E02
 http://89.187.173.138:39001/series/tomyat07/gVV5WaS16t/156147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E03
+#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES",La casa del dragon E03
 http://89.187.173.138:39001/series/tomyat07/gVV5WaS16t/156254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E04
+#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES",La casa del dragon E04
 http://89.187.173.138:39001/series/tomyat07/gVV5WaS16t/156759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E05
+#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES",La casa del dragon E05
 http://89.187.173.138:39001/series/tomyat07/gVV5WaS16t/156949.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E06
+#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES",La casa del dragon E06
 https://archive.org/download/06_20220926/06.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E07
+#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES",La casa del dragon E07
 https://archive.org/download/07_20221003/07.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E08
+#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES",La casa del dragon E08
 https://archive.org/download/08_20221010_20221010/08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E09
+#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES",La casa del dragon E09
 https://archive.org/download/09_20221017_20221017/09.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E10
+#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES",La casa del dragon E10
 https://archive.org/download/10_20221024/10.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E01
+#EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES",Estamos muertos E01
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E02
+#EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES",Estamos muertos E02
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E03
+#EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES",Estamos muertos E03
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E04
+#EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES",Estamos muertos E04
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E05
+#EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES",Estamos muertos E05
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E06
+#EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES",Estamos muertos E06
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E07
+#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES",Estamos muertos E07
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E08
+#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES",Estamos muertos E08
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E09
+#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES",Estamos muertos E09
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E10
+#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES",Estamos muertos E10
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E11
+#EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="SERIES",Estamos muertos E11
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E12
+#EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES",Estamos muertos E12
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2012.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E01
+#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Ella Hulk E01
 https://archive.org/download/1_20220818_20220818_2308/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E02
+#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES",Ella Hulk E02
 https://archive.org/download/02_20220825_202208/02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E03
+#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES",Ella Hulk E03
 https://archive.org/download/3_20220901_20220901_2328/3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E04
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES",Ella Hulk E04
 https://archive.org/download/01_20220908_20220908_1601/01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E05
+#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES",Ella Hulk E05
 https://archive.org/download/05_20220915_202209/05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E06
+#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES",Ella Hulk E06
 https://archive.org/download/06_20220923/06.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E07
+#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES",Ella Hulk E07
 https://archive.org/download/07_20220929_202209/07.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E08
+#EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Ella Hulk E08
 https://archive.org/download/08_20221014_202210/08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E9" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E09
+#EXTINF:-1 tvg-id="" tvg-name="E9" tvg-logo="" group-title="SERIES",Ella Hulk E09
 https://archive.org/download/09_20221014/09.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Merlina E01
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Merlina E02
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Merlina E03
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Merlina E04
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Merlina E05
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Merlina E06
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Merlina E07
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Merlina E08
-http://disfruta.net:80/series/kikeledesma/dFvFKDYx57/17337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Merlina E01
+
+#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES",Merlina E02
+
+#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES",Merlina E03
+
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES",Merlina E04
+
+#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES",Merlina E05
+
+#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES",Merlina E06
+
+#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES",Merlina E07
+
+#EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Merlina E08
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
@@ -1008,7 +1012,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37761
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37765
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Cantinflas
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1020
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/49284
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
 
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
@@ -1016,7 +1020,7 @@ https://tinyurl.com/y976r32k
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37830
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37792
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37847
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Manual de supervivencia
@@ -1030,12 +1034,15 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37779
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
 https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1058
+http://tvstarlife.com:25461/cesar/cesar123/10627
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/119556
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37754
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
+http://tvstarlife.com:25461/cesar/cesar123/10608
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37817
@@ -1049,7 +1056,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/37774
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
 http://tvstarlife.com:25461/cesar/cesar123/10661
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37815
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXPONIENDO INFIELES" tvg-logo="" group-title="24/7 | 24/7",EXPONIENDO INFIELES
@@ -1059,7 +1066,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/144553
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1056
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/144548
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
@@ -1215,13 +1222,13 @@ http://51.81.208.167/movies/Legalmente_Rubia_2_(2003).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
 http://tvstarlife.com:25461/movie/cesar/cesar123/49618.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
-http://45.179.164.59:8181/Peliculas/Rampage.2018.1080p-dual-lat-cinecalidad.to.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator, salvacion" tvg-logo="" group-title="VOD | Peliculas",Terminator, salvacion
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://45.179.164.59:8181/Peliculas%20Infantiles/The.Croods.2013.bluray.720p-latino-e-ingles-subt.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-http://45.179.164.59:8181/Peliculas%20Infantiles/CROODS.2.1080p.LAT.Www.Hackstore.Net.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
@@ -1250,10 +1257,9 @@ https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%
 
 #EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
 http://144.217.180.205/Peliculas/Accion/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Latino%20HD%20-%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar, el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar, el sentido del agua
-http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jacob" tvg-logo="" group-title="VOD | Peliculas",Jacob
 
+#EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar el sentido del agua
+http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
@@ -1299,9 +1305,14 @@ http://tvstarlife.com:25461/movie/cesar/cesar123/196534.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 http://50.7.66.234:8080/movie/monicaferraz/518260/1158437.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
-http://45.179.164.59:8181/Peliculas/London.has.fallen.2016.1080p-dual-lat.mp4
+http://tv.multitv.live:39001/movie/henrydcruz/EBUIhmWzrI/203179.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
 http://51.81.208.167/cine/Angel.has.fallen.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Power Rangers
+http://tv.multitv.live:39001/movie/henrydcruz/EBUIhmWzrI/216582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Alicia atraves del espejo
+http://50.7.66.234:8080/movie/monicaferraz/518260/1096023.mkv
+
 
 
 
