@@ -471,7 +471,11 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/29664
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1930
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ ENCORE" tvg-logo="" group-title="TV | Internacional",STARZ ENCORE
-
+http://50.7.66.234:8080/monicaferraz/518260/8128
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| OUTERMAX" tvg-logo="" group-title="TV | Internacional",OUTERMAX
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1196
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| MOVIEMAX" tvg-logo="" group-title="TV | Internacional",MOVIEMAX
+http://50.7.66.234:8080/monicaferraz/518260/8144
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
 http://200.41.79.165:8000/play/a0hw/index.m3u8
