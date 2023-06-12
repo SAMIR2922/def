@@ -28,7 +28,7 @@ http://177.234.230.226:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1106
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/11136
+http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/53458
 
@@ -119,7 +119,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
-
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
@@ -742,13 +742,13 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/14363
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-
+http://50.7.66.234:8080/monicaferraz/518260/1092640
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://playhispano.org:8080/davidcliente/david44/86549
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-http://186.101.70.92:25501/play/a0ac/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
@@ -756,7 +756,7 @@ http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/217294
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-
+http://50.7.66.234:8080/monicaferraz/518260/1091366
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
@@ -798,7 +798,7 @@ http://89.187.173.138:39001/tomyat07/gVV5WaS16t/20143
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-
+http://50.7.66.234:8080/monicaferraz/518260/53372
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
 
 
@@ -1118,6 +1118,25 @@ http://tvstarlife.com:25461/cesar/cesar123/107375
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformer el despertar de las bestias" tvg-logo="" group-title="VOD | Peliculas",Transformer el despertar de las bestias
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman cruzando el multiverso
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black warrant" tvg-logo="" group-title="VOD | Peliculas",Black warrant
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",El ultimo vagon
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",La princesa cisne
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Crater un viaje inolvidable
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",El exorcista del papa
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clock" tvg-logo="" group-title="VOD | Peliculas",Clock
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grito 6" tvg-logo="" group-title="VOD | Peliculas",Grito 6
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19334.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1163471.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam la furia de los dioses
@@ -1125,7 +1144,7 @@ http://playhispano.org:8080/movie/Casjahj/Jhajsac/208740.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",Extraviada
 http://playhispano.org:8080/movie/Casjahj/Jhajsac/197030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
-
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/19737.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
 http://playhispano.org:8080/movie/Casjahj/Jhajsac/228632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del zodiaco" tvg-logo="" group-title="VOD | Peliculas",Los Caballeros del Zodiaco
@@ -1274,7 +1293,7 @@ http://tvstarlife.com:25461/movie/cesar/cesar123/49618.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-
+http://disfruta.net:80/movie/kikeledesma/dFvFKDYx57/7034.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
