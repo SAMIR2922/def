@@ -1120,6 +1120,8 @@ http://tvstarlife.com:25461/cesar/cesar123/107375
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
+http://tvstarlife.live:25461/movie/cesar/cesar123/65712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
 http://89.187.173.138:43201/movie/tomyat07/gVV5WaS16t/224636.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
