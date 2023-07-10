@@ -62,7 +62,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/502
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-
+http://daleplay.club:8080/leonelalay/promotvbox2098/50395
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
 http://177.234.230.226:8010/play/a029/index.m3u8
 
@@ -128,6 +128,8 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4093
 http://190.83.116.230:9010/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
 http://200.116.232.66:9001/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156163
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
 http://playhispano.org:8080/davidcliente/david44/86213
@@ -135,11 +137,15 @@ http://playhispano.org:8080/davidcliente/david44/86213
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4005
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
 http://190.83.116.230:9010/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156162
 
-#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="TV | Internacional",A&E
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 http://190.83.116.230:9010/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://187.102.210.164:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156118
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
 http://187.102.210.164:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES SUR"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES SUR
@@ -149,43 +155,57 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/3961
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1155867
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 http://playhispano.org:8080/davidcliente/david44/86977
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251023
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4112
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://187.102.210.164:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 http://playhispano.org:8080/davidcliente/david44/87022
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251034
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/8246
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
 http://playhispano.org:8080/davidcliente/david44/87016
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/47445
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156160
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
 http://playhispano.org:8080/davidcliente/david44/87023
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 http://187.102.210.164:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://190.83.116.230:9010/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251037
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://playhispano.org:8080/davidcliente/david44/87024
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
 http://190.83.116.230:9010/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4017
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156157
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://playhispano.org:8080/davidcliente/david44/87026
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4109
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
 http://190.83.116.230:9010/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251035
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://187.102.210.164:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 http://190.83.116.230:9010/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://playhispano.org:8080/davidcliente/david44/87028
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251036
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
 http://playhispano.org:8080/davidcliente/david44/87025
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
@@ -197,12 +217,16 @@ http://playhispano.org:8080/davidcliente/david44/87108
 http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://187.102.210.164:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156184
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 http://playhispano.org:8080/davidcliente/david44/87107
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
 http://181.189.243.254:8000/play/a0ta/index.m3u8
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156186
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1155785
@@ -210,11 +234,15 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1155785
 http://177.234.230.226:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2206
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156127
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
 http://playhispano.org:8080/davidcliente/david44/86187
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.189.243.254:8000/play/a0sb/index.m3u8
+#EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156121
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
 http://181.189.243.254:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
@@ -232,6 +260,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/19538
 http://181.189.243.254:8000/play/a0tb/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
 http://181.78.21.60:16123/play/ch25
+#EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156130
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/119734
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
@@ -242,15 +272,21 @@ http://playhispano.org:8080/davidcliente/david44/87074
 http://181.189.243.254:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION "  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION
 http://181.189.243.254:8000/play/a0tf/index.m3u8
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251021
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
 http://181.189.243.254:8000/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
 http://181.189.243.254:8000/play/a0tc/index.m3u8
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156134
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4097
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://181.78.21.60:16123/play/ch30
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156173
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1065
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
@@ -274,6 +310,8 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
 http://playhispano.org:8080/davidcliente/david44/87570
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156155
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
 http://playhispano.org:8080/davidcliente/david44/87572
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
@@ -287,6 +325,8 @@ http://187.102.210.164:8000/play/a028/index.m3u8
 http://177.234.230.226:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT SD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT SD
 http://181.189.243.254:8000/play/a0t9/index.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT FHD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251041
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://playhispano.org:8080/davidcliente/david44/131129
@@ -294,6 +334,8 @@ http://playhispano.org:8080/davidcliente/david44/131129
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1515
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER HD" tvg-logo="" group-title="TV | Internacional",WARNER HD
 http://181.189.243.254:8000/play/a0tk/index.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER FHD" tvg-logo="" group-title="TV | Internacional",WARNER FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156191
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2099
@@ -315,12 +357,14 @@ http://177.234.230.226:8010/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
 http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
-http://190.83.116.230:9010/play/a04i/index.m3u8
+http://daleplay.club:8080/leonelalay/promotvbox2098/156179
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
 http://181.175.41.170:8000/play/a0fg
 
-#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="https://img1.freepng.es/20180406/wdw/kisspng-universal-pictures-studio-universal-television-cha-studio-5ac73ebabe2eb2.543294791523007162779.jpg" group-title="TV | Internacional",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://181.175.41.170:8000/play/a0f6
+#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156190
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4022
@@ -330,6 +374,8 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4121
 http://181.224.161.138:1010/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2070
+#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156176
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
@@ -345,7 +391,7 @@ http://181.189.243.254:8000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
 http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/19707
+http://daleplay.club:8080/leonelalay/promotvbox2098/156125
 
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
@@ -387,13 +433,15 @@ http://playhispano.org:8080/davidcliente/david44/159903
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1285
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
-
+http://daleplay.club:8080/leonelalay/promotvbox2098/251058
 
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2125
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4046
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV FHD" tvg-logo="" group-title="TV | Internacional",HOLA TV FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251038
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
 http://181.189.243.254:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
@@ -420,14 +468,16 @@ http://45.5.119.202:54321/play/a06h/index.m3u8
 http://playhispano.org:8080/davidcliente/david44/87006
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
 http://181.78.12.119:16123/play/ch200/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156180
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
-http://89.187.173.138:43201/tomyat07/gVV5WaS16t/116476
+http://daleplay.club:8080/leonelalay/promotvbox2098/251008
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
-http://181.189.243.254:8000/play/a0q8/index.m3u8
+http://daleplay.club:8080/leonelalay/promotvbox2098/156117
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1788
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
-http://190.186.159.19:58002/play/a069/index.m3u8
+http://daleplay.club:8080/leonelalay/promotvbox2098/156119
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1780
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
@@ -460,15 +510,15 @@ http://playhispano.org:8080/davidcliente/david44/87007
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
-http://177.234.230.226:8010/play/a01c/index.m3u8
+http://daleplay.club:8080/leonelalay/promotvbox2098/156129
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4110
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1444
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://playhispano.org:8080/davidcliente/david44/90175
-#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX ACTION" tvg-logo="" group-title="TV | Internacional",CINEMAX ACTION
-http://playhispano.org:8080/davidcliente/david44/86974
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156128
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
 http://89.187.173.138:39001/tomyat07/gVV5WaS16t/29664
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
@@ -574,7 +624,7 @@ http://playhispano.org:8080/davidcliente/david44/86874
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4004
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
-http://playhispano.org:8080/davidcliente/david44/86398
+http://daleplay.club:8080/leonelalay/promotvbox2098/156135
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2163
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
@@ -584,9 +634,9 @@ http://playhispano.org:8080/davidcliente/david44/86397
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| WALT DISNEY" tvg-logo="" group-title="TV | Infantiles",WALT DISNEY
 http://playhispano.org:8080/davidcliente/david44/128005
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
-http://playhispano.org:8080/davidcliente/david44/86873
+http://daleplay.club:8080/leonelalay/promotvbox2098/156132
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
-http://187.102.210.164:8000/play/a027/index.m3u8
+http://daleplay.club:8080/leonelalay/promotvbox2098/156126
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
 http://playhispano.org:8080/davidcliente/david44/86872
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://i.ibb.co/ZgZx1My/natgeo-kids.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
@@ -655,20 +705,30 @@ http://89.187.173.138:43201/tomyat07/gVV5WaS16t/136228
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/136228
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 http://177.234.230.226:8010/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156137
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156138
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/63209
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://177.234.230.226:8010/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156140
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/11910
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://playhispano.org:8080/davidcliente/david44/192668
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156141
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1090
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1089
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156142
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/154049
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
@@ -717,6 +777,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1093
 http://playhispano.org:8080/davidcliente/david44/156606
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 http://89.187.173.138:43201/tomyat07/gVV5WaS16t/998
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156151
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
@@ -733,12 +795,16 @@ http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1526
 http://playhispano.org:8080/davidcliente/david44/119645
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 http://playhispano.org:8080/davidcliente/david44/119645
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/156148
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://177.234.230.226:8010/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 http://playhispano.org:8080/davidcliente/david44/119646
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
 http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 FHD
+http://daleplay.club:8080/leonelalay/promotvbox2098/251028
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX 
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/14363
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX DEPORTES" tvg-logo="" group-title="TV | Deportes",FOX DEPORTES
@@ -829,7 +895,7 @@ http://playhispano.org:8080/davidcliente/david44/88127
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1687
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1682
+http://daleplay.club:8080/leonelalay/promotvbox2098/156172
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
 http://playhispano.org:8080/davidcliente/david44/129716
@@ -879,7 +945,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1694
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1 HD" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1 HD
-
+http://daleplay.club:8080/leonelalay/promotvbox2098/125366
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://181.189.243.254:8000/play/a0rd/index.m3u8
 
@@ -1182,7 +1248,7 @@ http://playhispano.org:8080/davidcliente/david44/114281
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
 http://tvstarlife.live:25461/movie/cesar/cesar123/65712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/249331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
 http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJj1LzOls0Gh4vBdA6RoUGk
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
@@ -1190,7 +1256,7 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKxUAnuyyFrnxF7bqJn13WU
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Quien esta ahi
 
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/249332.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",Demonio negro
 
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Día de la madre
@@ -1232,7 +1298,7 @@ http://playhispano.org:8080/movie/Casjahj/Jhajsac/239267.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
 http://playhispano.org:8080/movie/Casjahj/Jhajsac/230104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 10
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/248628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Alicia atraves del espejo
 
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Power Rangers
@@ -1245,7 +1311,7 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAFp7lbuyUbKNcqrcdYtWt9M
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
 http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAHDOyuE9TPu6F3qD-SxSFGk
 #EXTINF:-1 tvg-id="" tvg-name="La biblia en el inicio" tvg-logo="" group-title="VOD | Peliculas",La biblia en el inicio
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/229516.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Deadpool
@@ -1267,7 +1333,7 @@ http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1095956.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 https://lh3.googleusercontent.com/HwSEjZ-lEnOkjQQDNw7ZrPTXRCsDB93Nw90aMYxlirIbnTwKc4f_TtSAo9-d3RNj7STIM4GBvMt30S1NXC0ylqyFLV9qOgguUYWAUXe3pXnr4aWve_l4EdhDfG-1bXPt57iEUsC-52c=m37
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/181641.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
 http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJkgPPljzAal4zuzVwSkMYM
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
@@ -1303,7 +1369,7 @@ http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
 http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie 2" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie 2
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/228574.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
 http://vod.tuxchannel.mx/peliculas/720/world%20war%20z%202013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
@@ -1403,7 +1469,7 @@ https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
 
 #EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose: los sueños del faraon
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/229499.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
 
 
@@ -1455,7 +1521,7 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKKQtqfVjwJBh35LnFRqlL0
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
 http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAFDr0_ZOG9-j2B-zbKjDMow
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
-
+http://daleplay.club:8080/movie/leonelalay/promotvbox2098/183133.mkv
 
 
 
