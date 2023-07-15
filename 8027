@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
-
+https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1455827409.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
 http://177.234.230.226:8010/play/a02b/index.m3u8
@@ -35,7 +35,7 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/53458
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://daleplay.club:8080/leonelalay/promotvbox2098/303
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2167
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 http://160.20.165.246:8000/play/a00t/index.m3u8
 
@@ -156,7 +156,7 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1155867
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 http://playhispano.org:8080/davidcliente/david44/86977
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1867
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86977
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4112
@@ -197,7 +197,7 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4109
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
 http://190.83.116.230:9010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1882
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86861
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://187.102.210.164:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
@@ -214,7 +214,7 @@ http://playhispano.org:8080/davidcliente/david44/87027
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT 
 http://playhispano.org:8080/davidcliente/david44/87108
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1909
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86866
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://187.102.210.164:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
@@ -224,7 +224,7 @@ http://daleplay.club:8080/leonelalay/promotvbox2098/156184
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 http://playhispano.org:8080/davidcliente/david44/87107
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1910
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86867
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
 http://daleplay.club:8080/leonelalay/promotvbox2098/156186
 
@@ -265,7 +265,7 @@ http://181.78.21.60:16123/play/ch25
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
 http://daleplay.club:8080/leonelalay/promotvbox2098/156130
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1947
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86195
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
 http://181.78.21.60:16123/play/ch24
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
@@ -292,7 +292,7 @@ http://181.78.21.60:16123/play/ch30
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 http://daleplay.club:8080/leonelalay/promotvbox2098/156173
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1960
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1816
 
@@ -305,7 +305,7 @@ http://190.83.116.230:9010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://45.5.119.202:54321/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1875
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86993
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
 http://playhispano.org:8080/davidcliente/david44/86993
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
@@ -335,7 +335,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2257
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://playhispano.org:8080/davidcliente/david44/131129
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1911
+
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER HD" tvg-logo="" group-title="TV | Internacional",WARNER HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2074
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER FHD" tvg-logo="" group-title="TV | Internacional",WARNER FHD
@@ -407,7 +407,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2133
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2136
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1981
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
 http://45.5.119.202:54321/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",KUMBIA TV
@@ -427,7 +427,7 @@ http://181.78.21.60:16123/play/ch55
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
-https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
 http://playhispano.org:8080/davidcliente/david44/87009
 
