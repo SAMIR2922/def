@@ -244,7 +244,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2379
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
 http://daleplay.club:8080/leonelalay/promotvbox2098/156121
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/2401
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/88220
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://187.102.210.164:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
@@ -1243,7 +1243,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/4703
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",COMEDIA
 http://playhispano.org:8080/davidcliente/david44/87738
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS
-http://tvstarlife.com:25461/cesar/cesar123/107375
+
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",Busqueda implacable
@@ -1265,7 +1265,7 @@ http://playhispano.org:8080/davidcliente/david44/114281
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
-http://tvstarlife.live:25461/movie/cesar/cesar123/65712.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
 http://daleplay.club:8080/movie/leonelalay/promotvbox2098/249331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
@@ -1275,7 +1275,7 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKxUAnuyyFrnxF7bqJn13WU
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Quien esta ahi
 
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
-http://daleplay.club:8080/movie/leonelalay/promotvbox2098/249332.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",Demonio negro
 
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Día de la madre
@@ -1382,7 +1382,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20transporter%202.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
 http://vod.tuxchannel.mx/peliculas/720/transporter%203.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
-http://tvstarlife.com:25461/movie/cesar/cesar123/93172.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
 http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
