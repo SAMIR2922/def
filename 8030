@@ -1264,10 +1264,18 @@ http://playhispano.org:8080/davidcliente/david44/114281
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
+http://disfruta.net/movie/kikeledesma/dFvFKDYx57/20055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
+http://disfruta.net/movie/kikeledesma/dFvFKDYx57/20054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
+http://disfruta.net/movie/kikeledesma/dFvFKDYx57/20053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
+http://disfruta.net/movie/kikeledesma/dFvFKDYx57/20056.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
 
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
-http://daleplay.club:8080/movie/leonelalay/promotvbox2098/249331.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
 http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJj1LzOls0Gh4vBdA6RoUGk
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
