@@ -129,7 +129,7 @@ http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/4093
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://190.83.116.230:9010/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1958
+http://svtv.xyz:8080/sandra30abril/CQNFV/197030
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
@@ -183,7 +183,7 @@ https://v3.playerlatino.live/stream/m3u8/300
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://190.83.116.230:9010/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
-http://89.187.173.138:43201/tomyat07/gVV5WaS16t/52876
+http://svtv.xyz:8080/sandra30abril/CQNFV/30968
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://playhispano.org:8080/davidcliente/david44/87024
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
@@ -294,7 +294,7 @@ http://181.78.21.60:16123/play/ch30
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1961
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1960
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86219
 
@@ -354,7 +354,7 @@ http://playhispano.org:8080/davidcliente/david44/128015
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA HD"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA HD
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://playhispano.org:8080/davidcliente/david44/128012
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1119202
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
@@ -365,7 +365,7 @@ http://playhispano.org:8080/davidcliente/david44/128013
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
 http://177.234.230.226:8010/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
-http://89.187.173.138:39001/tomyat07/gVV5WaS16t/1929
+http://svtv.xyz:8080/sandra30abril/CQNFV/287958
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
 http://tv.fullytv.com:8080/karyfuchs@hotmail.com/628724/4048
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
@@ -433,7 +433,7 @@ http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
-http://playhispano.org:8080/davidcliente/david44/87009
+
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
@@ -441,7 +441,7 @@ http://playhispano.org:8080/davidcliente/david44/87009
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2010
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2123
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
 http://playhispano.org:8080/davidcliente/david44/163338
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
@@ -469,7 +469,7 @@ http://playhispano.org:8080/davidcliente/david44/124477
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MUNDO Y SABOR" tvg-logo="" group-title="TV | Internacional",MUNDO Y SABOR
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
-http://playhispano.org:8080/davidcliente/david44/87021
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC
 http://177.234.230.226:8010/play/a01x/index.m3u8
 
@@ -730,7 +730,7 @@ http://playhispano.org:8080/davidcliente/david44/131152
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
 http://playhispano.org:8080/davidcliente/david44/86979
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1919
+http://svtv.xyz:8080/sandra30abril/CQNFV/296545
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://177.234.230.226:8010/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
@@ -742,9 +742,9 @@ https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-
+http://svtv.xyz:8080/sandra30abril/CQNFV/34241
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1921
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 https://v3.playerlatino.live/stream/m3u8/37
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
@@ -804,7 +804,7 @@ http://playhispano.org:8080/davidcliente/david44/86988
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1060558515&_cdn_timestamp=1692240485&_cdn_token=c52289993c4d1aeaf01c70fd656a5fe3f24efde1
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 http://tv.fullytv.com:8080/karyfuchs@hotmail.com/628724/1090741
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
