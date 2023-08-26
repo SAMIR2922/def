@@ -44,7 +44,7 @@ http://playhispano.org:8080/streamtvjh/li0cOlwGLg/129480
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
-http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/53456
+http://lista.deluxeprime.net:8080/us47485672/sU4r5v7fA36P/216755
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://playhispano.org:8080/davidcliente/david44/129477
@@ -118,7 +118,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",CAPRICHO TV
-h
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -201,7 +201,7 @@ http://190.83.116.230:9010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
 http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86861
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-http://89.187.173.138:43201/tomyat07/gVV5WaS16t/1458
+http://lista.deluxeprime.net:8080/us47485672/sU4r5v7fA36P/182119
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 http://190.83.116.230:9010/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
