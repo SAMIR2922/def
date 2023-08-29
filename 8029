@@ -64,7 +64,7 @@ http://playhispano.org:8080/streamtvjh/li0cOlwGLg/129483
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
 http://177.234.230.226:8010/play/a029/index.m3u8
 
@@ -75,7 +75,7 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",TELERAMA
-
+https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -86,7 +86,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
-
+https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
@@ -98,13 +98,13 @@ https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",PARAISO TV DIGITAL
-
+https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL NETWORK TV "  tvg-logo="" group-title="TV | Ecuador",EL SOL NETWORK TV
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
-
+https://plataformavideo.com/live/nortvision.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
 
@@ -118,7 +118,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",CAPRICHO TV
-
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -668,7 +668,7 @@ http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86402
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
 http://190.83.116.230:9010/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
-
+http://45.5.117.182:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://177.234.230.226:8010/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
