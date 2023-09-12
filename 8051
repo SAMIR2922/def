@@ -28,7 +28,7 @@ http://177.234.230.226:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://50.7.66.234:8080/Seba3027/3027/7533
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
-http://177.234.230.226:8010/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/53458
 
@@ -256,7 +256,7 @@ http://181.78.12.119:16123/play/ch50/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
 http://181.78.24.67:8010/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| OUTDOOR" tvg-logo="" group-title="TV | Internacional",OUTDOOR
-http://playhispano.org:8080/davidcliente/david44/87113
+
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="https://img1.freepng.es/20180607/jaz/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1663cf1.1765839215283731534188.jpg" group-title="TV | Internacional",DISCOVERY CHANNEL 
 http://50.7.66.234:8080/Seba3027/3027/4069
@@ -479,7 +479,7 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1891
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
 http://50.7.66.234:8080/Seba3027/3027/4099
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
-http://playhispano.org:8080/davidcliente/david44/87006
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
 http://lista.deluxeprime.net:8080/us47485672/sU4r5v7fA36P/182078
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
@@ -520,7 +520,7 @@ http://177.53.153.21:8001/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://playhispano.org:8080/davidcliente/david44/87007
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 http://svtv.xyz:8080/sandra30abril/CQNFV/67581
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
@@ -684,7 +684,7 @@ http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DIOS TV KIDS" tvg-logo="" group-title="TV | Internacional",DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
-http://playhispano.org:8080/davidcliente/david44/86970
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 http://177.234.230.226:8010/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
@@ -708,7 +708,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN
 http://181.78.12.119:16123/play/ch16/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
-http://45.181.122.145:8000/play/a01c/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1922
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
@@ -740,7 +740,7 @@ http://playhispano.org:8080/davidcliente/david44/86980
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/1155890
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
-http://181.177.255.253:8000/play/a01b/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
@@ -860,7 +860,7 @@ http://50.7.66.234:8080/Seba3027/3027/23239
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2154
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-http://181.177.255.253:8000/play/a075/index.m3u8
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://179.51.168.13:4000/play/a06w
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
@@ -881,17 +881,17 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1913
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
-http://181.177.255.253:8000/play/a076/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://tv.fullytv.com:8080/karyfuchs@hotmail.com/628724/53490
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://181.177.255.253:8000/play/a078/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
-http://181.177.255.253:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpnAuuMguAOZcix6_6CiDGHgWTRfjVErERIBusEmoYQmf/ts
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
@@ -1328,9 +1328,9 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/291635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1165628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJj1LzOls0Gh4vBdA6RoUGk
+
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKxUAnuyyFrnxF7bqJn13WU
+
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Quien esta ahi
 
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
@@ -1340,7 +1340,7 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/271440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Día de la madre
 
 #EXTINF:-1 tvg-id="" tvg-name="Transformer el despertar de las bestias" tvg-logo="" group-title="VOD | Peliculas",Transformer el despertar de las bestias
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAEaw-eSizDzQ4bsFw63w60c
+
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman cruzando el multiverso
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1164244.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black warrant" tvg-logo="" group-title="VOD | Peliculas",Black warrant
@@ -1384,10 +1384,10 @@ http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1159372.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1158437.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAFp7lbuyUbKNcqrcdYtWt9M
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAHDOyuE9TPu6F3qD-SxSFGk
+
 #EXTINF:-1 tvg-id="" tvg-name="La biblia en el inicio" tvg-logo="" group-title="VOD | Peliculas",La biblia en el inicio
 
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
@@ -1413,7 +1413,7 @@ https://lh3.googleusercontent.com/HwSEjZ-lEnOkjQQDNw7ZrPTXRCsDB93Nw90aMYxlirIbnT
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJkgPPljzAal4zuzVwSkMYM
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
 http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
@@ -1469,7 +1469,7 @@ https://archive.org/download/01_20220718_20220718_2113/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKVQybAxeUfGFQYpJ4qAnvE
+
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 https://ia802809.us.archive.org/11/items/AlvasaaMiNombreEsKhanRoman/alvasaa-Mi%20Nombre%20Es%20Khan%20roman%28.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
@@ -1487,7 +1487,7 @@ http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
 
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAAKaSZv1jR73rw01qO4rqMg
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1095061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
@@ -1503,23 +1503,23 @@ https://archive.org/download/01_20220902_20220902_1529/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 2" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",donde estan las rubias
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xANlmlDamk71dZM59dE9R63I
+
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1095587.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAG9Yk-y0emDRuw_P-HUTU6s
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 1" tvg-logo="" group-title="VOD | Peliculas",Terminator 1
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAFt_HJO59jvjPG8pJwtB8Rs
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 2" tvg-logo="" group-title="VOD | Peliculas",Terminator 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 3" tvg-logo="" group-title="VOD | Peliculas",Terminator 3
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAFjFQ_IebEHW0PqTqFeoABA
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 4" tvg-logo="" group-title="VOD | Peliculas",Terminator 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAENd6gKXwouro9Z5D7612bo
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xALLKB6SgMl5z3T4rxgmwork
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1096386.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
@@ -1529,19 +1529,19 @@ http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Encanto
 
 #EXTINF:-1 tvg-id="" tvg-name="No mires arriba" tvg-logo="" group-title="VOD | Peliculas",No mires arriba
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xADbKpS7bV1LAYxAKsHGrIyo
+
 #EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Viejos
 http://tv.orbeplay.com:8080/movie/Frediysilvia/Uruguay1/1116448.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAEIlVplOCpxJOgpDqiLltbk
+
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 1" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 1
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAE3fISRreCYdhe_MYJdnbDQ
+
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xABKEbDJ84Ldnoq7dEKTwGYc
+
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
 
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xADwsWYe8OTQ8mCBOL7XgfkY
+
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
 https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%20Ten%20Commandments%201956%20720p%20Lat.MP4
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
@@ -1552,7 +1552,7 @@ https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar el sentido del agua
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJPn-XPw9UuULNeEuPb3op8
+
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
@@ -1574,11 +1574,11 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJPn-XPw9UuULNeEuPb3op8
 #EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas",El asesino perfecto
 
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAGglZ_kntHQ80uHxWuZCuE0
+
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
 
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKhb52NV-z9gWvEWhc0AFp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",La visita
 
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Al filo del abismo
@@ -1593,9 +1593,9 @@ http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKhb52NV-z9gWvEWhc0AFp4
 #EXTINF:-1 tvg-id="" tvg-name="Transfusion" tvg-logo="" group-title="VOD | Peliculas",Transfusion
 
 #EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAJgPD1xXCVJIM1qNlI5qLx8
+
 #EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
-http://motivatv.club:80/play/j3t-1K-uAHs0ETkcqd6xAKKQtqfVjwJBh35LnFRqlL0
+
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
