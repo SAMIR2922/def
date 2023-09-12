@@ -22,7 +22,7 @@ http://lista.deluxeprime.net:8080/us47485672/sU4r5v7fA36P/216781
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/7534
-#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="" group-title="TV | Ecuador",RTS SD
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://177.234.230.226:8010/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
@@ -762,9 +762,9 @@ http://playhispano.org:8080/davidcliente/david44/86293
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
 
-#EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
+#EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="" group-title="TV | Deportes",GOLTV INTERNACIONAL
 http://190.83.60.34:1414/play/a04f
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",GOLTV HD
 http://50.7.66.234:8080/Seba3027/3027/53381
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://tv.orbeplay.com:8080/Frediysilvia/Uruguay1/53491
@@ -835,7 +835,7 @@ http://50.7.66.234:8080/Seba3027/3027/1126417
 https://edzetacl.cloud/stream/tlat/72.m3u8
 
 
-#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://50.7.66.234:8080/Seba3027/3027/1092640
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://playhispano.org:8080/davidcliente/david44/129488
