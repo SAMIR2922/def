@@ -508,7 +508,7 @@ http://playhispano.org:8080/davidcliente/david44/86990
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318679
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
-
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/322071
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV | Internacional",Film & Arts
 
 
@@ -727,7 +727,7 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166603
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
-
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/327915
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
@@ -743,7 +743,7 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167965
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
 http://playhispano.org:8080/davidcliente/david44/86980
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
-
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/327916
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://190.90.71.68:15084/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
@@ -807,7 +807,7 @@ http://45.236.175.2:1040
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 http://playhispano.org:8080/davidcliente/david44/159878
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
-http://45.236.175.2:1040
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/328108
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
@@ -956,7 +956,7 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/327918
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT HD" tvg-logo="" group-title="TV | Deportes",TYC SPORT HD
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
@@ -1291,8 +1291,24 @@ http://playhispano.org:8080/davidcliente/david44/114281
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Quantumania
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/191391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los extraños" tvg-logo="" group-title="VOD | Peliculas",Los extraños
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/169335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 4" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 4
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/228233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El conde" tvg-logo="" group-title="VOD | Peliculas",El conde
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/227392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contrareloj" tvg-logo="" group-title="VOD | Peliculas",Contrareloj
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/227391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El justiciero" tvg-logo="" group-title="VOD | Peliculas",El justiciero
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/227389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja 2" tvg-logo="" group-title="VOD | Peliculas",La monja 2
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/227388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La memoria infinita" tvg-logo="" group-title="VOD | Peliculas",La memoria infinita
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/226730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="" group-title="VOD | Peliculas",Blue Beetle
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/223458.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El piloto" tvg-logo="" group-title="VOD | Peliculas",El piloto
 http://magmas5.com:8000/movie/Oscar86/40473/159775.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Residente Evil y la isla e la muerte" tvg-logo="" group-title="VOD | Peliculas",Residente Evil y la isla e la muerte
@@ -1305,8 +1321,8 @@ http://magmas5.com:8000/movie/Oscar86/40473/153483.mkv
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/302628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agente Stone" tvg-logo="" group-title="VOD | Peliculas",Agente Stone
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/308458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="65" tvg-logo="" group-title="VOD | Peliculas",65
-
+#EXTINF:-1 tvg-id="" tvg-name="65" tvg-logo="" group-title="VOD | Peliculas",Al borde de la extincion
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/184595.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Una boda explosiva" tvg-logo="" group-title="VOD | Peliculas",Una boda explosiva
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/246469.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi novio es un zombie" tvg-logo="" group-title="VOD | Peliculas",Mi novio es un zombie
@@ -1336,13 +1352,13 @@ http://tv.iprotv.live:25461/movie/ecu333888444/5Eu8pJq6bL/44262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
 http://tv.iprotv.live:25461/movie/ecu333888444/5Eu8pJq6bL/44260.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/226936.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/211409.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/291635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/227225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/266766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
@@ -1350,7 +1366,7 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/266758.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Quien esta ahi
 
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/215080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",Demonio negro
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/271440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Día de la madre
@@ -1374,31 +1390,31 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/258986.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Grito 6" tvg-logo="" group-title="VOD | Peliculas",Grito 6
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/257749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/197061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam la furia de los dioses
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/226724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",Extraviada
 
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/197778.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/270111.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del zodiaco" tvg-logo="" group-title="VOD | Peliculas",Los Caballeros del Zodiaco
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/209979.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peter Pan y Wendy" tvg-logo="" group-title="VOD | Peliculas",Peter Pan y Wendy
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/193369.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MEGAN" tvg-logo="" group-title="VOD | Peliculas",MEGAN
 http://magmas5.com:8000/movie/Oscar86/40473/159542.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/218603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 10
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/200412.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Alicia atraves del espejo
 
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Power Rangers
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/191392.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/195492.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
 
 
@@ -1609,7 +1625,7 @@ https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%
 #EXTINF:-1 tvg-id="" tvg-name="Transfusion" tvg-logo="" group-title="VOD | Peliculas",Transfusion
 
 #EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
-
+http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/174555.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/130326.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
