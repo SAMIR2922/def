@@ -305,15 +305,15 @@ http://magmas5.com:8000/Oscar86/40473/132577
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
 http://playhispano.org:8080/HernandezJoel/202022/87214
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
-http://playhispano.org:8080/davidcliente/david44/87569
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 http://45.5.117.182:8000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-
+http://161.132.243.192:50001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
-http://playhispano.org:8080/davidcliente/david44/86993
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
@@ -325,7 +325,7 @@ http://playhispano.org:8080/davidcliente/david44/87570
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://190.216.162.154:8001/play/a023
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-http://playhispano.org:8080/davidcliente/david44/87572
+http://177.53.153.21:8001/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 http://177.53.153.21:8001/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
@@ -403,9 +403,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
 http://177.234.230.226:8010/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
-
+http://161.132.243.192:50001/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
-
+http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
 
 
@@ -449,15 +449,15 @@ http://177.53.153.21:8001/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
 http://playhispano.org:8080/davidcliente/david44/163338
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
-
+http://45.238.21.84:8000/play/a0b8
 
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://45.236.175.2:1051
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO HD" tvg-logo="" group-title="TV | Internacional",TELEMUNDO HD
-http://playhispano.org:8080/davidcliente/david44/88225
-#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
 
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
+http://177.53.153.21:8001/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV FHD" tvg-logo="" group-title="TV | Internacional",HOLA TV FHD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
@@ -567,7 +567,7 @@ http://playhispano.org:8080/davidcliente/david44/86976
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MY TIME TV" tvg-logo="" group-title="TV | Internacional",MY TIME TV
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLOVER CHANNEL" tvg-logo="" group-title="TV | Internacional",CLOVER CHANNEL
-
+http://177.53.153.21:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX PRIME" tvg-logo="" group-title="TV | Internacional",MX PRIME
 http://playhispano.org:8080/davidcliente/david44/87595
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX FAMILY" tvg-logo="" group-title="TV | Internacional",MX FAMILY
@@ -581,7 +581,7 @@ http://playhispano.org:8080/davidcliente/david44/90176
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
-
+http://177.128.115.21:8080/live/binet1/binet1234/41.ts
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
 http://177.234.230.226:8010/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
@@ -734,7 +734,7 @@ http://magmas5.com:8000/Oscar86/40473/135784
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://45.236.175.2:1039
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
-http://playhispano.org:8080/davidcliente/david44/86979
+http://45.186.252.17:8000/play/a09j
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167725
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
@@ -788,7 +788,7 @@ http://playhispano.org:8080/HernandezJoel/202022/129706
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
-http://playhispano.org:8080/davidcliente/david44/86626
+http://45.186.252.17:8000/play/a0aw
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
@@ -814,7 +814,7 @@ http://magmas5.com:8000/Oscar86/40473/145407
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
-http://playhispano.org:8080/davidcliente/david44/156587
+http://45.186.252.17:8000/play/a09m
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
 http://45.236.175.2:1059
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
@@ -827,6 +827,8 @@ http://playhispano.org:8080/HernandezJoel/202022/156587
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://177.234.230.226:8010/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
+http://45.186.252.17:8000/play/a0av
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167736
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
@@ -842,7 +844,7 @@ https://edzetacl.cloud/stream/tlat/72.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://playhispano.org:8080/HernandezJoel/202022/86549
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://playhispano.org:8080/davidcliente/david44/129488
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://magmas5.com:8000/Oscar86/40473/132288
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
@@ -866,13 +868,13 @@ http://magmas5.com:8000/Oscar86/40473/145400
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
-
+http://161.132.243.192:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
-http://playhispano.org:8080/davidcliente/david44/131149
+http://161.132.243.192:50001/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 
@@ -887,7 +889,7 @@ http://magmas5.com:8000/Oscar86/40473/145402
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167733
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-
+http://161.132.243.192:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
@@ -907,7 +909,7 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167743
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="" group-title="TV | Deportes",CLARO SPORT 
-
+http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD " tvg-logo="" group-title="TV | Deportes",CLARO SPORT HD
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
@@ -951,20 +953,20 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN SPORT PLUS" tvg-logo="" group-title="TV | Deportes",WIN SPORT PLUS
 http://playhispano.org:8080/HernandezJoel/202022/86344
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TUDN MEX" tvg-logo="" group-title="TV | Deportes",TUDN MEX
-
+https://edzetacl.cloud/stream/tlat/60.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
-
+http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/327918
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT HD" tvg-logo="" group-title="TV | Deportes",TYC SPORT HD
 http://playhispano.org:8080/HernandezJoel/202022/129702
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://playhispano.org:8080/HernandezJoel/202022/129717
-#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",DEXERY
-
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",WWE NETWORK
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmGZ3qIdNJncojCRUK36Q7I/ts
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprGn-BXz03DIAbsmFMWcwMo/ts
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
@@ -1055,29 +1057,29 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES",Estamos muertos E01
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES",Estamos muertos E02
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES",Estamos muertos E03
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES",Estamos muertos E04
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES",Estamos muertos E05
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94741.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES",Estamos muertos E06
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94742.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES",Estamos muertos E07
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94743.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES",Estamos muertos E08
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94744.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES",Estamos muertos E09
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94745.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES",Estamos muertos E10
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94746.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="SERIES",Estamos muertos E11
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES",Estamos muertos E12
-
+http://playhispano.org:8080/series/HernandezJoel/202022/94748.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Ella Hulk E01
 
@@ -1295,6 +1297,8 @@ http://magmas5.com:8000/Oscar86/40473/138448
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Messi
+https://tvinnov.online/PELICULAS%202023/Messi/Messi.2022.720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Quantumania
 
 #EXTINF:-1 tvg-id="" tvg-name="Los extraños" tvg-logo="" group-title="VOD | Peliculas",Los extraños
@@ -1354,15 +1358,15 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/306822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
 
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
-
+https://tvinnov.online/PELICULAS%202023/Barbie/Barbie%20(2023)%20Web-Dl%201080p%20lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
-
+http://glowrestream.com:8080/movie/davidcliente/david44/272985.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
 
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/291635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
-
+http://glowrestream.com:8080/movie/davidcliente/david44/242691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/266766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
@@ -1396,7 +1400,7 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/257749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
 
 #EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam la furia de los dioses
-
+https://tvinnov.online/PELICULAS%2060%20FPS/Shazam!%20Fury%20of%20the%20Gods/%c2%a1Shazam!%20La%20furia%20de%20los%20dioses.2023.WEB-DL.60FPS.1080p.Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",Extraviada
 
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
@@ -1411,13 +1415,13 @@ http://magmas5.com:8000/movie/Oscar86/40473/159542.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
 
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 10
-
+https://tvinnov.online/PELICULAS%2060%20FPS/Fast%20X%2060FPS/R%c3%a1pidos%20y%20furiosos%20X%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Alicia atraves del espejo
 
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Power Rangers
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
-http://lista.deluxeprime.net:8080/movie/us47485672/sU4r5v7fA36P/195492.mkv
+https://tvinnov.online/PELICULAS%2060%20FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
 
 
