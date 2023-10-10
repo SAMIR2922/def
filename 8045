@@ -998,23 +998,23 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E01
-
+https://tvinnov.online/Series/quid%20Game/S01E01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E02
-
+https://tvinnov.online/Series/quid%20Game/S01E02.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E03
-
+https://tvinnov.online/Series/quid%20Game/S01E03.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E04
-
+https://tvinnov.online/Series/quid%20Game/S01E04.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E05
-
+https://tvinnov.online/Series/quid%20Game/S01E05.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E06
-
+https://tvinnov.online/Series/quid%20Game/S01E06.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E07
-
+https://tvinnov.online/Series/quid%20Game/S01E07.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E08
-
+https://tvinnov.online/Series/quid%20Game/S01E08.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E09
-
+https://tvinnov.online/Series/quid%20Game/S01E09.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E01
 
@@ -1296,11 +1296,12 @@ http://magmas5.com:8000/Oscar86/40473/138448
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",El juego del miedo X
+https://tvinnov.online/CINECAN/Saw%20X%20El%20juego%20del%20miedo%20(2023)/
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Messi
 https://tvinnov.online/PELICULAS%202023/Messi/Messi.2022.720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Quantumania
-
+https://tvinnov.online/PELICULAS%202023/Ant%20Man%20y%20la%20Avispa%20Quantuman%c3%ada%20(2023)%201080p%20WEB-DL%20Latino/Ant%20Man%20y%20la%20Avispa%20Quantuman%c3%ada%20(2023)%201080p%20WEB-Rip%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los extraños" tvg-logo="" group-title="VOD | Peliculas",Los extraños
 
 #EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 4" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 4
@@ -1356,7 +1357,7 @@ http://tv.iprotv.live:25461/movie/ecu333888444/5Eu8pJq6bL/44504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/306822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
-
+https://tvinnov.online/CINECAN/Oppenheimer%20(2023)/0pp3nh31m3r.2023.hc.cam.latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
 https://tvinnov.online/PELICULAS%202023/Barbie/Barbie%20(2023)%20Web-Dl%201080p%20lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
@@ -1560,7 +1561,7 @@ https://archive.org/download/01_20220902_20220902_1529/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/291530.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-
+https://tvinnov.online/KIDS/Los%20Croods/Los%20Croods%20Una%20nueva%20era%20LATINO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
