@@ -670,7 +670,7 @@ http://magmas5.com:8000/Oscar86/40473/132317
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://magmas5.com:8000/Oscar86/40473/149689
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
-
+http://170.82.37.21:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
 http://45.5.117.182:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
