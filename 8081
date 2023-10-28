@@ -7,7 +7,7 @@ http://177.234.230.226:8010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-http://magmas5.com:8000/Oscar86/40473/27
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://playhispano.org:8080/HernandezJoel/202022/87690
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
@@ -88,7 +88,7 @@ https://envivo.telerama.ec/stream.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
-https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
@@ -100,7 +100,7 @@ https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",PARAISO TV DIGITAL
-https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL NETWORK TV "  tvg-logo="" group-title="TV | Ecuador",EL SOL NETWORK TV
 
@@ -129,7 +129,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
 http://playhispano.org:8080/HernandezJoel/202022/124503
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
-http://magmas5.com:8000/Oscar86/40473/132592
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
 http://170.82.37.21:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
@@ -246,13 +246,13 @@ http://playhispano.org:8080/HernandezJoel/202022/86187
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://170.82.37.21:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
-http://181.78.21.60:16123/play/ch29
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
 http://138.59.177.34:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://190.95.220.212:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-http://181.78.21.60:16123/play/ch50
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 http://138.59.177.34:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -267,13 +267,13 @@ http://playhispano.org:8080/HernandezJoel/202022/87441
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY  " tvg-logo="https://img1.freepng.es/20180803/qcj/kisspng-discovery-channel-television-channel-discovery-hd-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b6444b871f133.8229586615332978484667.jpg" group-title="TV | Internacional",DISCOVERY 
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
-http://181.78.21.60:16123/play/ch25
+
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
 http://170.82.37.21:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://181.78.21.60:16123/play/ch24
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 http://170.82.37.21:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
@@ -294,7 +294,7 @@ http://170.82.37.21:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
 http://playhispano.org:8080/HernandezJoel/202022/86221
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
-http://181.78.21.60:16123/play/ch30
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 http://147.135.124.6:26649/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
@@ -389,7 +389,7 @@ http://playhispano.org:8080/HernandezJoel/202022/87623
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
-http://181.78.21.60:16123/play/ch07
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
 
 
@@ -421,7 +421,7 @@ http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",KUMBIA TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| ZONA LATINA" tvg-logo="" group-title="TV | Internacional",ZONA LATINA
-http://186.3.76.238:8000/play/a07g/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| METAL TV" tvg-logo="" group-title="TV | Internacional",METAL TV
@@ -429,9 +429,9 @@ http://186.3.76.238:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VALLENATO TV" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
-http://187.188.232.236:1020/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
-http://181.78.21.60:16123/play/ch55
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
@@ -524,7 +524,7 @@ http://177.53.153.21:8001/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://138.59.224.12:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 http://magmas5.com:8000/Oscar86/40473/126162
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
@@ -583,7 +583,7 @@ http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
 http://177.128.115.21:8080/live/binet1/binet1234/41.ts
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
-http://177.234.230.226:8010/play/a03y/index.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
@@ -610,9 +610,9 @@ http://45.228.232.219:16000/play/a0na/index.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PLATINO" tvg-logo="" group-title="TV | Internacional",CINE PLATINO
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
-http://181.78.21.60:16123/play/ch49
+
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE FAMILIAR" tvg-logo="" group-title="TV | Internacional",CINE FAMILIAR
-http://181.78.21.60:16123/play/ch52
+
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE INFANTIL" tvg-logo="" group-title="TV | Internacional",CINE INFANTIL
 http://177.234.230.226:8010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="https://img1.freepng.es/20180702/pfc/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac39f5e85.1062681315305304996528.jpg" group-title="TV | Internacional",AXN ESPAÑA
@@ -646,7 +646,7 @@ http://magmas5.com:8000/Oscar86/40473/132322
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://170.82.37.21:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
-http://181.78.21.60:16123/play/ch03
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
 http://190.90.71.68:15084/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
@@ -690,7 +690,7 @@ http://magmas5.com:8000/Oscar86/40473/132321
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
-http://177.234.230.226:8010/play/a03z/index.m3u8
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
 http://magmas5.com:8000/Oscar86/40473/149694
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
@@ -746,7 +746,7 @@ http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://190.90.71.68:15084/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
-http://177.234.230.226:8010/play/a008/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://magmas5.com:8000/Oscar86/40473/145420
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
@@ -808,7 +808,7 @@ http://magmas5.com:8000/Oscar86/40473/135645
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
 http://playhispano.org:8080/HernandezJoel/202022/86352
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
-http://181.78.21.60:16123/play/ch20
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
 http://magmas5.com:8000/Oscar86/40473/145407
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
@@ -826,7 +826,7 @@ http://playhispano.org:8080/HernandezJoel/202022/156587
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
-http://177.234.230.226:8010/play/a004/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
 http://45.186.252.17:8000/play/a0av
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
@@ -1057,29 +1057,29 @@ https://tvinnov.online/Series/quid%20Game/S01E09.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES",Estamos muertos E01
-http://playhispano.org:8080/series/HernandezJoel/202022/94737.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES",Estamos muertos E02
-http://playhispano.org:8080/series/HernandezJoel/202022/94738.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES",Estamos muertos E03
-http://playhispano.org:8080/series/HernandezJoel/202022/94739.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES",Estamos muertos E04
-http://playhispano.org:8080/series/HernandezJoel/202022/94740.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES",Estamos muertos E05
-http://playhispano.org:8080/series/HernandezJoel/202022/94741.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES",Estamos muertos E06
-http://playhispano.org:8080/series/HernandezJoel/202022/94742.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES",Estamos muertos E07
-http://playhispano.org:8080/series/HernandezJoel/202022/94743.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES",Estamos muertos E08
-http://playhispano.org:8080/series/HernandezJoel/202022/94744.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES",Estamos muertos E09
-http://playhispano.org:8080/series/HernandezJoel/202022/94745.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES",Estamos muertos E10
-http://playhispano.org:8080/series/HernandezJoel/202022/94746.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="SERIES",Estamos muertos E11
-http://playhispano.org:8080/series/HernandezJoel/202022/94747.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES",Estamos muertos E12
-http://playhispano.org:8080/series/HernandezJoel/202022/94748.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Ella Hulk E01
 
@@ -1102,21 +1102,21 @@ http://playhispano.org:8080/series/HernandezJoel/202022/94748.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Merlina E01
-http://playhispano.org:8080/series/HernandezJoel/202022/154305.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES",Merlina E02
-http://playhispano.org:8080/series/HernandezJoel/202022/154306.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES",Merlina E03
-http://playhispano.org:8080/series/HernandezJoel/202022/154307.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES",Merlina E04
-http://playhispano.org:8080/series/HernandezJoel/202022/154308.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES",Merlina E05
-http://playhispano.org:8080/series/HernandezJoel/202022/154309.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES",Merlina E06
-http://playhispano.org:8080/series/HernandezJoel/202022/154310.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES",Merlina E07
-http://playhispano.org:8080/series/HernandezJoel/202022/154311.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Merlina E08
-http://playhispano.org:8080/series/HernandezJoel/202022/154312.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Hanna T1 E01
 
@@ -1244,7 +1244,7 @@ http://magmas5.com:8000/Oscar86/40473/146550
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Romeo Santos
 http://magmas5.com:8000/Oscar86/40473/146553
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
-http://playhispano.org:8080/HernandezJoel/202022/87708
+
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
@@ -1266,7 +1266,7 @@ http://magmas5.com:8000/Oscar86/40473/167505
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="" group-title="24/7 | 24/7",CINEMA 3
 http://magmas5.com:8000/Oscar86/40473/167506
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA 4
-http://playhispano.org:8080/HernandezJoel/202022/87738
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA 5
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1448
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL" tvg-logo="" group-title="24/7 | 24/7",CINEMA MARVEL
@@ -1274,21 +1274,21 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1448
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",CINEMA DISNEY
 
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",COMEDIA
-http://playhispano.org:8080/davidcliente/david44/87738
+
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
 http://magmas5.com:8000/Oscar86/40473/129379
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",Busqueda implacable
-http://playhispano.org:8080/davidcliente/david44/114303
+
 #EXTINF:-1 tvg-id="" tvg-name="SAW" tvg-logo="" group-title="24/7 | 24/7",Crepusculo
 http://magmas5.com:8000/Oscar86/40473/129374
 #EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",TERMINATOR
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
-http://playhispano.org:8080/davidcliente/david44/114293
+
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
-http://playhispano.org:8080/davidcliente/david44/114286
+
 #EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Keanu Reeves
 
 
