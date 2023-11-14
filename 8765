@@ -326,7 +326,7 @@ http://magmas5.com:8000/Oscar86/40473/150101
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://190.216.162.154:8001/play/a023
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563677
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
@@ -442,7 +442,7 @@ http://playhispano.org:8080/HernandezJoel/202022/87092
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563702
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
 http://170.82.37.21:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
@@ -451,7 +451,8 @@ http://170.82.37.21:8000/play/a027/index.m3u8
 http://170.82.37.21:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
 http://45.238.21.84:8000/play/a0b8
-
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT TELENOVELAS
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563698
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://45.236.175.2:1051
@@ -537,7 +538,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563719
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://magmas5.com:8000/Oscar86/40473/150094
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
-http://191.52.214.5:8000/play/a02a/index.m3u8
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
@@ -554,7 +555,7 @@ http://170.82.37.21:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563728
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
@@ -764,7 +765,7 @@ http://magmas5.com:8000/Oscar86/40473/145417
 http://magmas5.com:8000/Oscar86/40473/145416
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/226839
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="" group-title="TV | Deportes",GOLTV INTERNACIONAL
@@ -793,7 +794,7 @@ http://45.186.252.17:8000/play/a0aw
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524748
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 http://45.236.175.2:1037
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
@@ -1171,7 +1172,7 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/235960
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
 http://magmas5.com:8000/Oscar86/40473/159340
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
