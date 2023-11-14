@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
-
+https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1000710743.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
 http://177.234.230.226:8010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
@@ -442,7 +442,7 @@ http://playhispano.org:8080/HernandezJoel/202022/87092
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
-http://147.135.124.6:26649/play/a03o/index.m3u8
+
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
 http://170.82.37.21:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
@@ -468,7 +468,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563693
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FASHION TV" tvg-logo="" group-title="TV | Internacional",FASHION TV
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| EL GOURMET" tvg-logo="" group-title="TV | Internacional",EL GOURMET
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563689
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| COCINA TV" tvg-logo="" group-title="TV | Internacional",COCINA TV
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563690
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MUNDO Y SABOR" tvg-logo="" group-title="TV | Internacional",MUNDO Y SABOR
@@ -554,7 +554,7 @@ http://170.82.37.21:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563728
+
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
@@ -611,7 +611,7 @@ http://45.228.232.219:16000/play/a0na/index.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PLATINO" tvg-logo="" group-title="TV | Internacional",CINE PLATINO
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
-http://179.189.222.226:8000/play/ch49
+
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE FAMILIAR" tvg-logo="" group-title="TV | Internacional",CINE FAMILIAR
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE INFANTIL" tvg-logo="" group-title="TV | Internacional",CINE INFANTIL
@@ -757,7 +757,7 @@ http://170.82.37.21:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://190.90.71.68:15084/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA FHD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37820.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://magmas5.com:8000/Oscar86/40473/145417
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
@@ -882,7 +882,7 @@ http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 http://magmas5.com:8000/Oscar86/40473/145402
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
@@ -912,7 +912,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="" group-title="TV | Deportes",CLARO SPORT 
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD " tvg-logo="" group-title="TV | Deportes",CLARO SPORT HD
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525177
+
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVISION SPORT" tvg-logo="" group-title="TV | Deportes",UNIVISION SPORT
@@ -932,7 +932,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525177
 http://190.216.162.155:8001/play/a021
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://170.82.37.21:8000/play/a048/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 http://190.216.162.155:8001/play/a09c
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
@@ -1171,7 +1171,7 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1318
+
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
 http://magmas5.com:8000/Oscar86/40473/159340
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
@@ -1179,21 +1179,21 @@ http://magmas5.com:8000/Oscar86/40473/159340
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
 https://tinyurl.com/y976r32k
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1220
+
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1379
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
 http://playhispano.org:8080/HernandezJoel/202022/130575
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Manual de supervivencia
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1353
+
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
 http://playhispano.org:8080/HernandezJoel/202022/87724
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",Los padrinos magicos
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1228
+
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
 http://playhispano.org:8080/HernandezJoel/202022/130567
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1279
+
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
 
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
@@ -1203,9 +1203,8 @@ http://playhispano.org:8080/HernandezJoel/202022/176737
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
 http://magmas5.com:8000/Oscar86/40473/138446
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1294
-#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1439
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Vivos Ecuador
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Dora la exploradora
@@ -1219,27 +1218,27 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1439
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Plim plim
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1218
+
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Super Mario Bros
 http://magmas5.com:8000/Oscar86/40473/145792
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1344
+
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1187
+
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",L Usurpadora
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1512
+
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
 http://magmas5.com:8000/Oscar86/40473/138449
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Bruce Lee
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1316
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1495
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Dj David Guetta
 http://magmas5.com:8000/Oscar86/40473/146550
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Romeo Santos
@@ -1269,7 +1268,7 @@ http://magmas5.com:8000/Oscar86/40473/167506
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA 4
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA 5
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1448
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL" tvg-logo="" group-title="24/7 | 24/7",CINEMA MARVEL
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",CINEMA DISNEY
@@ -1324,7 +1323,7 @@ https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-id="" tvg-name="El piloto" tvg-logo="" group-title="VOD | Peliculas",El piloto
 http://magmas5.com:8000/movie/Oscar86/40473/159775.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Residente Evil y la isla e la muerte" tvg-logo="" group-title="VOD | Peliculas",Residente Evil y la isla e la muerte
-http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/278274.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los 3 deseos de Cenicienta" tvg-logo="" group-title="VOD | Peliculas",Los 3 deseos de Cenicienta
 http://magmas5.com:8000/movie/Oscar86/40473/158926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El abismo" tvg-logo="" group-title="VOD | Peliculas",El abismo
@@ -1356,7 +1355,7 @@ http://magmas5.com:8000/movie/Oscar86/40473/165635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Insidious la puerta roja" tvg-logo="" group-title="VOD | Peliculas",Insidious la puerta roja
 
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
-http://tv.iprotv.live:25461/movie/ecu333888444/5Eu8pJq6bL/44504.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/306822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
