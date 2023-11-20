@@ -644,7 +644,7 @@ http://170.82.37.21:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
 http://45.236.175.2:1010
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
-http://magmas5.com:8000/Oscar86/40473/132322
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://170.82.37.21:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
@@ -670,7 +670,7 @@ http://45.236.175.2:1014
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
-http://magmas5.com:8000/Oscar86/40473/149689
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
 http://170.82.37.21:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
@@ -680,7 +680,7 @@ http://177.234.230.226:8010/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
-http://magmas5.com:8000/Oscar86/40473/132321
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
@@ -694,7 +694,7 @@ http://magmas5.com:8000/Oscar86/40473/132321
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
-http://magmas5.com:8000/Oscar86/40473/149694
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
@@ -718,7 +718,7 @@ http://playhispano.org:8080/HernandezJoel/202022/86978
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 http://190.216.162.154:8001/play/a00o
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-http://magmas5.com:8000/Oscar86/40473/145422
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://playhispano.org:8080/HernandezJoel/202022/156595
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -732,7 +732,7 @@ http://170.82.37.21:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://playhispano.org:8080/HernandezJoel/202022/86979
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
-http://magmas5.com:8000/Oscar86/40473/135784
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://45.236.175.2:1039
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
@@ -742,7 +742,7 @@ http://playhispano.org:8080/HernandezJoel/202022/86357
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://170.82.37.21:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-http://magmas5.com:8000/Oscar86/40473/145419
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
 http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
@@ -750,7 +750,7 @@ http://190.90.71.68:15084/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://190.216.162.154:8001/play/a01b
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-http://magmas5.com:8000/Oscar86/40473/145420
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
 http://45.236.175.2:1058
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
@@ -760,9 +760,9 @@ http://190.90.71.68:15084/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA FHD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
-http://magmas5.com:8000/Oscar86/40473/145417
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
-http://magmas5.com:8000/Oscar86/40473/145416
+
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/226839
@@ -779,7 +779,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525169
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
 http://playhispano.org:8080/HernandezJoel/202022/140677
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-http://magmas5.com:8000/Oscar86/40473/145446
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV 1" tvg-logo="" group-title="TV | Deportes",GOLTV 1
 
 
@@ -806,13 +806,13 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524725
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 http://45.236.175.2:1040
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
-http://magmas5.com:8000/Oscar86/40473/135645
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
 http://playhispano.org:8080/HernandezJoel/202022/86352
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524726
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
-http://magmas5.com:8000/Oscar86/40473/145407
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
@@ -862,7 +862,7 @@ http://190.95.220.212:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://magmas5.com:8000/Oscar86/40473/145496
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
@@ -885,7 +885,7 @@ http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-http://magmas5.com:8000/Oscar86/40473/145402
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -974,7 +974,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525182
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-http://magmas5.com:8000/Oscar86/40473/126276
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525187
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
@@ -1174,7 +1174,7 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/235960
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
-http://magmas5.com:8000/Oscar86/40473/159340
+
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
 
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
@@ -1202,7 +1202,7 @@ http://playhispano.org:8080/HernandezJoel/202022/130567
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 http://playhispano.org:8080/HernandezJoel/202022/176737
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
-http://magmas5.com:8000/Oscar86/40473/138446
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
 
 
@@ -1221,7 +1221,7 @@ http://magmas5.com:8000/Oscar86/40473/138446
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
 
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Super Mario Bros
-http://magmas5.com:8000/Oscar86/40473/145792
+
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
 
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
@@ -1235,15 +1235,15 @@ http://magmas5.com:8000/Oscar86/40473/145792
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",L Usurpadora
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
-http://magmas5.com:8000/Oscar86/40473/138449
+
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Bruce Lee
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Dj David Guetta
-http://magmas5.com:8000/Oscar86/40473/146550
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Romeo Santos
-http://magmas5.com:8000/Oscar86/40473/146553
+
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
@@ -1253,19 +1253,19 @@ http://magmas5.com:8000/Oscar86/40473/146553
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
-http://magmas5.com:8000/Oscar86/40473/138469
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
-http://magmas5.com:8000/Oscar86/40473/138471
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 5
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA NETFLIX
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
-http://magmas5.com:8000/Oscar86/40473/167505
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA 2
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="" group-title="24/7 | 24/7",CINEMA 3
-http://magmas5.com:8000/Oscar86/40473/167506
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA 4
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA 5
@@ -1277,13 +1277,13 @@ http://magmas5.com:8000/Oscar86/40473/167506
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",COMEDIA
 
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
-http://magmas5.com:8000/Oscar86/40473/129379
+
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",Busqueda implacable
 
 #EXTINF:-1 tvg-id="" tvg-name="SAW" tvg-logo="" group-title="24/7 | 24/7",Crepusculo
-http://magmas5.com:8000/Oscar86/40473/129374
+
 #EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",TERMINATOR
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
@@ -1322,13 +1322,13 @@ https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="" group-title="VOD | Peliculas",Blue Beetle
 
 #EXTINF:-1 tvg-id="" tvg-name="El piloto" tvg-logo="" group-title="VOD | Peliculas",El piloto
-http://magmas5.com:8000/movie/Oscar86/40473/159775.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Residente Evil y la isla e la muerte" tvg-logo="" group-title="VOD | Peliculas",Residente Evil y la isla e la muerte
 
 #EXTINF:-1 tvg-id="" tvg-name="Los 3 deseos de Cenicienta" tvg-logo="" group-title="VOD | Peliculas",Los 3 deseos de Cenicienta
-http://magmas5.com:8000/movie/Oscar86/40473/158926.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El abismo" tvg-logo="" group-title="VOD | Peliculas",El abismo
-http://magmas5.com:8000/movie/Oscar86/40473/153483.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dia del destino" tvg-logo="" group-title="VOD | Peliculas",Indiana Jones y el dia del destino
 http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/302628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agente Stone" tvg-logo="" group-title="VOD | Peliculas",Agente Stone
@@ -1340,7 +1340,7 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/246469.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi novio es un zombie" tvg-logo="" group-title="VOD | Peliculas",Mi novio es un zombie
 
 #EXTINF:-1 tvg-id="" tvg-name="El rey mono" tvg-logo="" group-title="VOD | Peliculas",El rey mono
-http://magmas5.com:8000/movie/Oscar86/40473/165635.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="" group-title="VOD | Peliculas",Apocalypto
 
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Malum
@@ -1415,7 +1415,7 @@ http://castlempire.site:8080/movie/Jonathan02/rgPfnumvGEwx/270111.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MEGAN" tvg-logo="" group-title="VOD | Peliculas",MEGAN
-http://magmas5.com:8000/movie/Oscar86/40473/159542.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
 
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 10
