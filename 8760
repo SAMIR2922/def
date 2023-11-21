@@ -392,7 +392,7 @@ http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524685
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
-
+http://tv.soccerplus.link:8000/alberto/emma18/22184
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
@@ -852,7 +852,7 @@ http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://playhispano.org:8080/HernandezJoel/202022/129488
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525170
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
 http://190.95.220.212:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
@@ -974,11 +974,11 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525182
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-
+http://darktv.nl:80/play/live.php?mac=00:1a:79:a4:4e:53&stream=162672&extension=ts&play_token=pRTEJlB8me
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525187
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:06:71&stream=457089&extension=ts&play_token=vZgTidyRLu&sn2=
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1 HD" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1 HD
@@ -1223,7 +1223,7 @@ http://playhispano.org:8080/HernandezJoel/202022/176737
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Super Mario Bros
 
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
-
+http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
