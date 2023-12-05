@@ -10,7 +10,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/121619
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=b132790927916540f416b5cec&ndvc=0&sid=ba5t1l1xb45360756676540f4176fc3c
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563860
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://177.234.230.226:8010/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
@@ -57,7 +57,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/35240
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://177.234.230.226:8010/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV HD
-
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563861
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV SD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV SD
 
 
@@ -128,7 +128,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
-
+http://home-playtv.com:8080/marcelalopez/CHXRH/242013
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/177629
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
@@ -182,7 +182,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1911
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
 http://170.82.37.21:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
-http://playhispano.org:8080/HernandezJoel/202022/87045
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1032
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
@@ -202,7 +202,7 @@ http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1434
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
-http://home-playtv.com:8080/marcelalopez/CHXRH/198753
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1481
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
@@ -264,7 +264,7 @@ http://138.59.177.34:8000/play/a044/index.m3u8
 http://190.90.71.68:15082/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="https://img1.freepng.es/20180607/jaz/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1663cf1.1765839215283731534188.jpg" group-title="TV | Internacional",DISCOVERY CHANNEL 
-http://home-playtv.com:8080/marcelalopez/CHXRH/93442
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY  " tvg-logo="https://img1.freepng.es/20180803/qcj/kisspng-discovery-channel-television-channel-discovery-hd-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b6444b871f133.8229586615332978484667.jpg" group-title="TV | Internacional",DISCOVERY 
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
@@ -353,13 +353,13 @@ http://170.82.37.21:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-http://home-playtv.com:8080/marcelalopez/CHXRH/198741
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-http://home-playtv.com:8080/marcelalopez/CHXRH/185152
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA HD"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA HD
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://home-playtv.com:8080/marcelalopez/CHXRH/185163
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://170.82.37.21:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
@@ -438,7 +438,7 @@ http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
-http://playhispano.org:8080/HernandezJoel/202022/87092
+
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
@@ -672,7 +672,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/19458
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
-http://home-playtv.com:8080/marcelalopez/CHXRH/56214
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
 http://170.82.37.21:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
@@ -732,7 +732,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/9380
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
 http://170.82.37.21:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
-http://home-playtv.com:8080/marcelalopez/CHXRH/186705
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 http://tv.soccerplus.link:8000/alberto/emma18/92460
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
@@ -752,7 +752,7 @@ http://190.90.71.68:15084/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/976
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-http://tv.soccerplus.link:8000/alberto/emma18/92721
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
 http://45.236.175.2:1058
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
@@ -762,7 +762,7 @@ http://190.90.71.68:15084/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA FHD
 http://tv.soccerplus.link:8000/alberto/emma18/22115
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
-http://tv.soccerplus.link:8000/alberto/emma18/23324
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
 http://home-playtv.com:8080/marcelalopez/CHXRH/54094
 
@@ -792,7 +792,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/37174
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/166822
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 http://home-playtv.com:8080/marcelalopez/CHXRH/12919
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
@@ -800,7 +800,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524748
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 http://45.236.175.2:1037
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524750
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT MEX
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524736
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
@@ -810,7 +810,7 @@ http://45.236.175.2:1040
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 http://tv.soccerplus.link:8000/alberto/emma18/22120
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
-http://home-playtv.com:8080/marcelalopez/CHXRH/272265
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/19652
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
@@ -828,7 +828,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524729
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
-http://tv.soccerplus.link:8000/alberto/emma18/92724
+
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524730
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
@@ -864,7 +864,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/92895
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 http://home-playtv.com:8080/marcelalopez/CHXRH/310533
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://tv.soccerplus.link:8000/alberto/emma18/92810
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/989
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
@@ -895,7 +895,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/257326
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://161.132.243.192:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524746
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
@@ -1190,7 +1190,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37792
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
 http://home-playtv.com:8080/marcelalopez/CHXRH/177181
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
-http://home-playtv.com:8080/marcelalopez/CHXRH/177126
+
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",Los padrinos magicos
 
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
@@ -1219,7 +1219,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37758
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",El auto fantastico
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
-http://home-playtv.com:8080/marcelalopez/CHXRH/108007
+
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
 http://tv.soccerplus.link:8000/alberto/emma18/34981
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Super Mario Bros
@@ -1455,13 +1455,13 @@ http://tv.proyectox.vip:8080/movie/MarceloCentofanti/k18nWztf8R/312030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
-https://ia601402.us.archive.org/31/items/fast-furious-9-areshd/Fast%20%26%20Furious%209%20%E2%80%93%20ARESHD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="https://pics.filmaffinity.com/Cazafantasmas-698795949-large.jpg" group-title="VOD | Peliculas",Cazafantasmas
-https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafantasmas%20M%C3%A1s%20all%C3%A1%20%E2%80%93%20ARESHD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
 https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
@@ -1533,7 +1533,7 @@ https://archive.org/download/01_20220718_20220718_2113/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
 
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
-https://ia802809.us.archive.org/11/items/AlvasaaMiNombreEsKhanRoman/alvasaa-Mi%20Nombre%20Es%20Khan%20roman%28.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
@@ -1605,7 +1605,7 @@ http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
 
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
-https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%20Ten%20Commandments%201956%20720p%20Lat.MP4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
 
 #EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose: los sueños del faraon
