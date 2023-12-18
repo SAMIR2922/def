@@ -14,7 +14,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563860
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://177.234.230.226:8010/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
-http://tv.soccerplus.link:8000/alberto/emma18/31319
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC 
 http://190.95.220.212:8000/play/a04o/index.m3u8
 
@@ -22,7 +22,7 @@ http://190.95.220.212:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-http://tv.soccerplus.link:8000/alberto/emma18/93343
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://177.234.230.226:8010/play/a009/index.m3u8
 
@@ -31,17 +31,17 @@ http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1106
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
-http://tv.soccerplus.link:8000/alberto/emma18/34986
+
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
-http://tv.soccerplus.link:8000/alberto/emma18/88923
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 http://160.20.165.246:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
-http://tv.soccerplus.link:8000/alberto/emma18/30949
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
@@ -52,7 +52,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563859
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 http://177.234.230.226:8010/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
-http://tv.soccerplus.link:8000/alberto/emma18/35240
+
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://177.234.230.226:8010/play/a02c/index.m3u8
@@ -65,7 +65,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563861
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-http://tv.soccerplus.link:8000/alberto/emma18/22451
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
 http://177.234.230.226:8010/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
@@ -320,7 +320,7 @@ http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/89
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
-http://tv.soccerplus.link:8000/alberto/emma18/22198
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1476
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
@@ -392,7 +392,7 @@ http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/96
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524685
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
-http://tv.soccerplus.link:8000/alberto/emma18/22184
+
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
@@ -495,7 +495,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/22219
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/108
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
-http://tv.soccerplus.link:8000/alberto/emma18/6696
+
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
@@ -507,7 +507,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/241995
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
-http://tv.soccerplus.link:8000/alberto/emma18/6737
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
@@ -571,7 +571,7 @@ http://190.95.220.212:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MY TIME TV" tvg-logo="" group-title="TV | Internacional",MY TIME TV
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLOVER CHANNEL" tvg-logo="" group-title="TV | Internacional",CLOVER CHANNEL
-http://tv.soccerplus.link:8000/alberto/emma18/92555
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX PRIME" tvg-logo="" group-title="TV | Internacional",MX PRIME
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX FAMILY" tvg-logo="" group-title="TV | Internacional",MX FAMILY
@@ -585,9 +585,9 @@ http://redima.pro:8880/DULCH/1692/376
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/26752
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
-http://tv.soccerplus.link:8000/alberto/emma18/92854
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
-http://tv.soccerplus.link:8000/alberto/emma18/92812
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/119335
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
@@ -646,7 +646,7 @@ http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/19
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
 http://45.236.175.2:1010
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
-http://tv.soccerplus.link:8000/alberto/emma18/31344
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/23
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
@@ -656,7 +656,7 @@ http://190.90.71.68:15084/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
-http://tv.soccerplus.link:8000/alberto/emma18/31341
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JR" tvg-logo="" group-title="TV | Infantiles",DISNEY JR
 http://45.236.175.2:1015
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| WALT DISNEY" tvg-logo="" group-title="TV | Infantiles",WALT DISNEY
@@ -684,7 +684,7 @@ http://177.234.230.226:8010/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
 http://home-playtv.com:8080/marcelalopez/CHXRH/19474
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
-http://tv.soccerplus.link:8000/alberto/emma18/92559
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA KIDS" tvg-logo="" group-title="TV | Infantiles",PLANETA KIDS
@@ -694,7 +694,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/92559
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
-http://tv.soccerplus.link:8000/alberto/emma18/92547
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
@@ -710,7 +710,7 @@ http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://168.228.193.214:58005/play/a05m
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
-http://tv.soccerplus.link:8000/alberto/emma18/23542
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN
@@ -720,7 +720,7 @@ http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/135
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/177284
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-http://tv.soccerplus.link:8000/alberto/emma18/22105
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://home-playtv.com:8080/marcelalopez/CHXRH/220727
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -734,7 +734,7 @@ http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/136
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://home-playtv.com:8080/marcelalopez/CHXRH/185666
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
-http://tv.soccerplus.link:8000/alberto/emma18/92460
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://45.236.175.2:1039
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
@@ -744,7 +744,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/21220
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/137
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-http://tv.soccerplus.link:8000/alberto/emma18/22113
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
 http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
@@ -760,7 +760,7 @@ http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/130
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://190.90.71.68:15084/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA FHD
-http://tv.soccerplus.link:8000/alberto/emma18/22115
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
@@ -781,12 +781,12 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/525169
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-http://tv.soccerplus.link:8000/alberto/emma18/7811
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV 1" tvg-logo="" group-title="TV | Deportes",GOLTV 1
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
-http://tv.soccerplus.link:8000/alberto/emma18/37174
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
@@ -808,7 +808,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524725
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 http://45.236.175.2:1040
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
-http://tv.soccerplus.link:8000/alberto/emma18/22120
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/127
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
@@ -846,7 +846,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/36396
 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://tv.soccerplus.link:8000/alberto/emma18/868
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/179084
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
@@ -860,7 +860,7 @@ http://190.95.220.212:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-http://tv.soccerplus.link:8000/alberto/emma18/92895
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 http://home-playtv.com:8080/marcelalopez/CHXRH/310533
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
@@ -874,7 +874,7 @@ http://209.45.81.84:8000/play/a03d
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://161.132.243.192:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
-http://tv.soccerplus.link:8000/alberto/emma18/17252
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/990
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -915,7 +915,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="" group-title="TV | Deportes",CLARO SPORT 
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD " tvg-logo="" group-title="TV | Deportes",CLARO SPORT HD
-http://tv.soccerplus.link:8000/alberto/emma18/92757
+
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
 http://tv.soccerplus.link:8000/alberto/emma18/92529
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVISION SPORT" tvg-logo="" group-title="TV | Deportes",UNIVISION SPORT
@@ -965,7 +965,7 @@ http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524743
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT HD" tvg-logo="" group-title="TV | Deportes",TYC SPORT HD
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
-http://tv.soccerplus.link:8000/alberto/emma18/90181
+
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",WWE NETWORK
 
 
@@ -1221,7 +1221,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37758
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
 http://home-playtv.com:8080/marcelalopez/CHXRH/108007
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
-http://tv.soccerplus.link:8000/alberto/emma18/34981
+
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Super Mario Bros
 
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
@@ -1231,9 +1231,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/216154
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
 http://home-playtv.com:8080/marcelalopez/CHXRH/236453
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-http://tv.soccerplus.link:8000/alberto/emma18/23141
+
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
-http://tv.soccerplus.link:8000/alberto/emma18/65933
+
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",L Usurpadora
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
@@ -1243,7 +1243,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37763
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Exponiendo infieles
-http://tv.soccerplus.link:8000/alberto/emma18/61829
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
 http://home-playtv.com:8080/marcelalopez/CHXRH/217011
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
