@@ -86,7 +86,7 @@ https://envivo.telerama.ec/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 
@@ -227,7 +227,7 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/2797
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
-http://redima.pro:8880/DULCH/1692/363
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/26907
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/563735
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
@@ -288,7 +288,7 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/2810
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/2814
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/177634
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CIVILIZATION"  tvg-logo="" group-title="TV | Internacional",DISCOVERY CIVILIZATION
 
 
@@ -636,7 +636,7 @@ http://177.234.230.226:8010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="" group-title="TV | Infantiles",NICK JR HQ
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1392
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR " tvg-logo="" group-title="TV | Infantiles",NICK JR 
-http://home-playtv.com:8080/marcelalopez/CHXRH/242022
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/195828
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
@@ -822,7 +822,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1526
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524726
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
-http://home-playtv.com:8080/marcelalopez/CHXRH/19652
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
 http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/524729
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
@@ -1265,7 +1265,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/54827
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
 http://home-playtv.com:8080/marcelalopez/CHXRH/177323
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA 2
-http://home-playtv.com:8080/marcelalopez/CHXRH/177328
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="" group-title="24/7 | 24/7",CINEMA 3
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA 4
@@ -1354,7 +1354,7 @@ https://archive.org/download/mtaymjk2na-latino-full-hd-0-0-online/mtaymjk2na-lat
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",El rapto
 
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Nowhere, en algun lugar
-https://archive.org/download/v_20231003/v.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Saw X
 https://tvinnov.online/CINECAN/Saw%20X%20El%20juego%20del%20miedo%20(2023)/s4w.x.2023.hc.cam.latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Messi
@@ -1435,26 +1435,26 @@ http://redima.pro:8880/movie/DULCH/1692/910.mp4
 https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5e8507792916b83072086ac0349907d6/EP.0.1.v0.1677490605.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
 
-#EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",Demonio negro
-
+#EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
+http://redima.pro:8880/movie/DULCH/1692/519.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Peter Pan
 
 #EXTINF:-1 tvg-id="" tvg-name="Transformer el despertar de las bestias" tvg-logo="" group-title="VOD | Peliculas",Transformer el despertar de las bestias
 http://redima.pro:8880/movie/DULCH/1692/955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman cruzando el multiverso
-
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman sin retorno a casa
+http://redima.pro:8880/movie/DULCH/1692/474.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black warrant" tvg-logo="" group-title="VOD | Peliculas",Black warrant
 
-#EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",El ultimo vagon
-
-#EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",La princesa cisne
-
-#EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Kunfusion
-
-#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",El exorcista del papa
-
-#EXTINF:-1 tvg-id="" tvg-name="Clock" tvg-logo="" group-title="VOD | Peliculas",Clock
-
+#EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",Kung fu
+http://redima.pro:8880/movie/DULCH/1692/731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",Asesino sin memoria
+http://redima.pro:8880/movie/DULCH/1692/535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Destino final 1
+http://redima.pro:8880/movie/DULCH/1692/547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",Destino final 2
+http://redima.pro:8880/movie/DULCH/1692/548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clock" tvg-logo="" group-title="VOD | Peliculas",Destino final 3
+http://redima.pro:8880/movie/DULCH/1692/549.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Grito 6" tvg-logo="" group-title="VOD | Peliculas",Grito 6
 
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
@@ -1483,7 +1483,7 @@ http://redima.pro:8880/movie/DULCH/1692/784.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 http://tv.proyectox.vip:8080/movie/MarceloCentofanti/k18nWztf8R/312030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-
+http://redima.pro:8880/movie/DULCH/1692/734.mkv
 
 
 
