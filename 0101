@@ -940,7 +940,12 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/439746
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 http://home-playtv.com:8080/marcelalopez/CHXRH/440259
-
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 1" tvg-logo="" group-title="TV | Deportes",DAZN 1
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/140965
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 2" tvg-logo="" group-title="TV | Deportes",DAZN 2
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/144815
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 3" tvg-logo="" group-title="TV | Deportes",DAZN 3
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/144816
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 
