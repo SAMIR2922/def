@@ -156,7 +156,7 @@ http://45.228.232.205:16000/play/a03e/index.m3u8
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/26906
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
-http://45.228.232.205:16000/play/a04a/index.m3u8
+http://191.97.49.195:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 http://191.52.214.5:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
@@ -167,7 +167,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/198760
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://45.71.252.67:8000/play/a0fy/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/4961
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/141189
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
@@ -185,7 +185,7 @@ http://45.179.164.30:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1030
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
-http://home-playtv.com:8080/marcelalopez/CHXRH/19579
+http://191.97.49.195:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1033
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
@@ -307,17 +307,17 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1473
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://45.5.118.154:16000/play/a0l8/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
-http://45.5.119.155:8090/play/a0jv/index.m3u8
+http://200.125.170.120:8000/play/a04a
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://45.71.252.67:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
-
+http://181.78.64.71:16123/play/ch47
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/4957
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 http://home-playtv.com:8080/marcelalopez/CHXRH/9496
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
@@ -445,7 +445,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/3253
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
 http://45.166.92.22:58001/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
-
+http://191.97.49.195:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
 http://45.71.252.67:8000/play/a0mo/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
@@ -488,7 +488,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/74409
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
 http://138.59.177.34:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
-
+http://191.97.49.195:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
@@ -521,9 +521,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/19562
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
-
+http://191.97.49.195:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
-
+http://191.97.49.195:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://177.234.230.226:8010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
@@ -533,7 +533,7 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1917
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/3028
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
-
+http://191.97.49.195:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/133790
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
@@ -601,9 +601,9 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/119335
 
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png" group-title="TV | Internacional",CLARO TV
-
+http://191.97.49.195:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO CINEMA" tvg-logo="" group-title="TV | Internacional",CLARO CINEMA
-
+http://191.97.49.195:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE ACCION" tvg-logo="" group-title="TV | Internacional",CINE ACCION
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE MARVEL" tvg-logo="" group-title="TV | Internacional",CINE MARVEL
@@ -725,7 +725,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/220727
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
 http://45.179.164.30:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-
+http://191.97.49.195:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
@@ -756,6 +756,12 @@ http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/976
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/1525
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 HD" tvg-logo="" group-title="TV | Deportes",ESPN 5 HD
+http://191.97.49.195:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
+http://191.97.49.195:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
+http://191.97.49.195:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
@@ -778,7 +784,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/51263
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",GOLTV HD
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/154242
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
-
+http://191.97.49.195:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
@@ -953,7 +959,7 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/144816
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+http://191.97.49.195:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
@@ -1178,7 +1184,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
@@ -1358,7 +1364,7 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Dejar el mundo atrás
 
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",La calle de la navidad
-https://archive.org/download/mtaymjk2na-latino-full-hd-0-0-online/mtaymjk2na-latino-full-hd-0-0-online.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Paw patrol la pelicula
 
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Escape bajo fuego
@@ -1380,7 +1386,7 @@ https://archive.org/download/mtaymjk2na-latino-full-hd-0-0-online/mtaymjk2na-lat
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Nowhere, en algun lugar
 
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Saw X
-https://tvinnov.online/CINECAN/Saw%20X%20El%20juego%20del%20miedo%20(2023)/s4w.x.2023.hc.cam.latino.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Messi
 
 #EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Rituales mortales
@@ -1396,7 +1402,7 @@ https://tvinnov.online/CINECAN/Saw%20X%20El%20juego%20del%20miedo%20(2023)/s4w.x
 #EXTINF:-1 tvg-id="" tvg-name="Alerta roja" tvg-logo="" group-title="VOD | Peliculas",Alerta roja
 
 #EXTINF:-1 tvg-id="" tvg-name="La monja 2" tvg-logo="" group-title="VOD | Peliculas",La monja 2
-https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/2dcf71c725f003d389c0ea23b27a0af4/EP.0.2.v1.1694320395.720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="La memoria infinita" tvg-logo="" group-title="VOD | Peliculas",La memoria infinita
 
 #EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="" group-title="VOD | Peliculas",Blue Beetle
@@ -1438,25 +1444,25 @@ https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
 
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
-http://redima.pro:8880/movie/DULCH/1692/969.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
 
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
-http://tv.proyectox.vip:8080/movie/MarceloCentofanti/k18nWztf8R/272485.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
 
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
-https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/65e3e2a6229dd302b0c85d297998f886/EP.0.2.v0.1689228785.720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Up una aventura de altura
 
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
 
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
-http://redima.pro:8880/movie/DULCH/1692/911.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
-http://redima.pro:8880/movie/DULCH/1692/910.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Infierno blanco
-https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5e8507792916b83072086ac0349907d6/EP.0.1.v0.1677490605.720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
 
 #EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
@@ -1464,7 +1470,7 @@ https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Peter Pan
 
 #EXTINF:-1 tvg-id="" tvg-name="Transformer el despertar de las bestias" tvg-logo="" group-title="VOD | Peliculas",Transformer el despertar de las bestias
-http://redima.pro:8880/movie/DULCH/1692/955.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman sin retorno a casa
 
 #EXTINF:-1 tvg-id="" tvg-name="Black warrant" tvg-logo="" group-title="VOD | Peliculas",Black warrant
@@ -1490,7 +1496,7 @@ http://redima.pro:8880/movie/DULCH/1692/955.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
-http://redima.pro:8880/movie/DULCH/1692/784.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del zodiaco" tvg-logo="" group-title="VOD | Peliculas",Los Caballeros del Zodiaco
 
 
@@ -1505,7 +1511,7 @@ http://redima.pro:8880/movie/DULCH/1692/784.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Power Rangers
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
-http://tv.proyectox.vip:8080/movie/MarceloCentofanti/k18nWztf8R/312030.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
 
 
@@ -1517,7 +1523,7 @@ http://tv.proyectox.vip:8080/movie/MarceloCentofanti/k18nWztf8R/312030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Terremoto
-http://fina.dyndns.tv/Peliculas/San%20Andres.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
@@ -1533,7 +1539,7 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venom " tvg-logo="" group-title="VOD | Peliculas",Venom 
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
-http://fina.dyndns.tv/Peliculas/Venom%20let%20There%20be%20carnage.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
@@ -1587,9 +1593,9 @@ http://vod.tuxchannel.mx/peliculas/720/inframundo%20la%20evolucion.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
 http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",Joker
-http://fina.dyndns.tv/Peliculas/Joker.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
-http://fina.dyndns.tv/Peliculas/Viaje%20al%20centro%20de%20la%20tierra.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
@@ -1601,7 +1607,7 @@ http://fina.dyndns.tv/Peliculas/Viaje%20al%20centro%20de%20la%20tierra.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
 
 #EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
-https://pc-42.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e1da86082a7dcd114adfa57da11f6425/EP.0.1.v0.1677637827.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="" group-title="VOD | Peliculas",No manches Frida
 http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
@@ -1613,11 +1619,11 @@ http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
-https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/981240d3cbf0eae3d483d1b705b49eac/EP.0.1.v0.1677232172.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/30ba0cc8b336538b0d1f41297adbaecf/EP.0.1.v0.1677768043.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/db74f55ff26ff14d215b97f83984df1c/EP.0.1.v0.1677560423.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
 
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",Gigantes de acero
@@ -1643,9 +1649,9 @@ http://pilarika.no-ip.org/Cine/Cine_01/057_-_Dos_Rubias_De_Pelo_En_Pecho.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
