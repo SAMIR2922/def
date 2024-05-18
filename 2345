@@ -704,6 +704,12 @@ http://161.132.108.74:50001/play/a03x/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
+http://daleplay.club/Stalin8932Mo17M/UunzKQWJFmQk/161670
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/392675
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/392674
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/59788
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
