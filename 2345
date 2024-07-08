@@ -9,7 +9,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/198787
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=b132790927916540f416b5cec&ndvc=0&sid=ba5t1l1xb45360756676540f4176fc3c
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/71457
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/84556
@@ -18,7 +18,7 @@ http://tvlatino.club:2082/vipalvaro6m/fjGHanmaruJV/459250
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://tvlatino.club:2082/vipalvaro6m/fjGHanmaruJV/459252
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC 
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59330
 
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
@@ -31,12 +31,12 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/280088
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://home-playtv.com:8080/marcelalopez/CHXRH/198804
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59332
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59335
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://home-playtv.com:8080/marcelalopez/CHXRH/21775
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
@@ -45,14 +45,14 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53508
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/318
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59337
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/280091
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/304
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59331
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/226597
 
@@ -129,7 +129,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/226608
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59037
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53481
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
@@ -144,7 +144,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53483
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 FHD
-
+http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59038
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 
