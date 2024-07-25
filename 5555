@@ -1751,13 +1751,13 @@ http://vod.tuxchannel.mx/peliculas/720/inframundo%20la%20evolucion.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
 http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",Joker
-
+http://fina.dyndns.tv/Peliculas/Joker.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
 
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-
+http://fina.dyndns.tv/Peliculas/Coco.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
@@ -1807,9 +1807,9 @@ https://pc-36.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-
+http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-
+http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
@@ -1826,8 +1826,8 @@ http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
 
-#EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
-
+#EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Moana
+http://fina.dyndns.tv/Peliculas/Moana.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
 
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
@@ -1867,12 +1867,12 @@ http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
 
-#EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",La visita
-
-#EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Al filo del abismo
-
-#EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Imperio de luz
-
+#EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
+http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
+http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 3
+http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%203.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la desolacion de smaug
 
