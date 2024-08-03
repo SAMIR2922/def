@@ -22,7 +22,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59330
 
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/302
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/226604
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
@@ -76,7 +76,7 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/293535
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
-https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -100,7 +100,7 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/375163
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SANTO DOMINGO ONLINE
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/564774
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",CANELA TV
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/293536
@@ -109,7 +109,7 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/293536
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/293537
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
-https://plataformavideo.com/live/nortvision.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
@@ -160,7 +160,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110060
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
-http://45.190.187.226:58092/play/a02a
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/312779
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
@@ -317,7 +317,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59175
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1289
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
-http://181.78.64.71:16123/play/ch47
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://186.148.195.206:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
@@ -364,7 +364,7 @@ http://45.5.117.182:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/68977
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
-http://45.190.187.226:58092/play/a00o
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
@@ -677,7 +677,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/140142
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://138.186.20.13:23200/play/a08q
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
-http://45.190.187.226:58092/play/a01x
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
 http://45.5.117.182:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
@@ -923,7 +923,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59867
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
-http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49731
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
@@ -1354,9 +1354,9 @@ http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
-http://galaxypro.online:8080/movie/h9YqB7MG/SXQPwxgRW/568469.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys correr o morir
-http://tvlatino.club:2082/movie/vipalvaro6m/fjGHanmaruJV/449104.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Luna sin miel
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Cazafantasmas  imperio helado
