@@ -1408,7 +1408,7 @@ http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/299728.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
 http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/294393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys correr o morir
-
+http://fina.dyndns.tv/Peliculas/Bad%20Boys.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Luna sin miel
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Cazafantasmas  imperio helado
@@ -1417,8 +1417,8 @@ http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/294393.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Secuestro aereo
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Tarot
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Pinguinos de Madagascar
+http://fina.dyndns.tv/Peliculas/Pinguinos%20de%20Madagascar.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La joven y el mar
 http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/305034.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Crew
@@ -1639,24 +1639,28 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="" group-title="VOD | Peliculas",Apocalypto
 
-#EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Malum
-
-#EXTINF:-1 tvg-id="" tvg-name="Mansión encantada" tvg-logo="" group-title="VOD | Peliculas",Mansión encantada
-
-#EXTINF:-1 tvg-id="" tvg-name="Elemental" tvg-logo="" group-title="VOD | Peliculas",Elemental
-
-#EXTINF:-1 tvg-id="" tvg-name="El atrapa almas" tvg-logo="" group-title="VOD | Peliculas",El atrapa almas
-
-#EXTINF:-1 tvg-id="" tvg-name="El expediente ruso" tvg-logo="" group-title="VOD | Peliculas",El expediente ruso
-
-#EXTINF:-1 tvg-id="" tvg-name="Insidious la puerta roja" tvg-logo="" group-title="VOD | Peliculas",Insidious la puerta roja
-
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
-
+#EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 1
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 2
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+#EXTINF:-1 tvg-id="" tvg-name="Mansión encantada" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 3
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+#EXTINF:-1 tvg-id="" tvg-name="Elemental" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 4
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+#EXTINF:-1 tvg-id="" tvg-name="El atrapa almas" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 5
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+#EXTINF:-1 tvg-id="" tvg-name="El expediente ruso" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 6
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious la puerta roja" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 7
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 8
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 9
+https://archive.org/download/000-fr/RF.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
-
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/ONHRM23C.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
 
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
@@ -1688,7 +1692,7 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",Kung fu
 
 #EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",Asesino sin memoria
-
+https://archive.org/download/00naran/RTYU/MEM0R1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Destino final 1
 
 #EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",Destino final 2
@@ -1699,10 +1703,12 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
 
-#EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam la furia de los dioses
-
-#EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",Extraviada
-
+#EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 1
+https://archive.org/download/Linux-Tutoriales/tutoriales/10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 2
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Shazam%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",No se aceptan devoluciones
+http://archive.org/download/screenshot-20200606-182253/MY4P0R.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
@@ -1723,17 +1729,17 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-
+https://archive.org/download/fi_20230106/El%20Gato%20Con%20Botas.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
-
+http://archive.org/download/screenshot-20200831-121312/001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La biblia en el inicio" tvg-logo="" group-title="VOD | Peliculas",La biblia en el inicio
 
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Terremoto
-
+http://fina.dyndns.tv/Peliculas/San%20Andres.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
@@ -1742,16 +1748,16 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
 
-#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
-
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="" group-title="VOD | Peliculas",A prueba de fuego
+http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
 #EXTINF:-1 tvg-id="" tvg-name="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom " tvg-logo="" group-title="VOD | Peliculas",Venom 
-
+http://fina.dyndns.tv/Peliculas/Venon.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
-
+http://fina.dyndns.tv/Peliculas/Venom%20let%20There%20be%20carnage.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Troya
+http://158.69.158.102/Peliculas/Listo/30122022_1136/troy.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
@@ -1812,8 +1818,8 @@ http://fina.dyndns.tv/Peliculas/Joker.mp4
 http://fina.dyndns.tv/Peliculas/Coco.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 
-#EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
-
+#EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Spirit el corcel indomable
+http://archive.org/download/img20200212wa0134_20200217/0000038504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
 
 #EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
@@ -1829,23 +1835,23 @@ http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
-
+https://dl.dropbox.com/s/alk0xsqaldk0pwu/busqueda%20implacable.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-
+https://dl.dropbox.com/s/g5gn4grp0elsslo/busqueda%20implacable%202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-
+https://dl.dropbox.com/s/2gjhmrm9hzgjg2c/busqueda%20implacable%203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
 
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",Gigantes de acero
 https://pc-36.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/11424ceab82a0c3285b7ca5c9bb7bb54/EP.0.1.v1.1677169046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
-
+http://archive.org/download/vonoto_parcel4_2/wiimc/1%20%282%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 2" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 2
-
+http://archive.org/download/vonoto_parcel4_2/wiimc/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",donde estan las rubias
 
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
-
+https://archive.org/download/almohadas_20210330/M4d%20M4x%20-%20Fu5y%20R04d%20%282015%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
 
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 1" tvg-logo="" group-title="VOD | Peliculas",Terminator 1
@@ -1864,16 +1870,16 @@ http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
 http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
-
-#EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Encanto
-
-#EXTINF:-1 tvg-id="" tvg-name="No mires arriba" tvg-logo="" group-title="VOD | Peliculas",No mires arriba
-
+#EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",Madagascar 1
+http://archive.org/download/img20200123224336/65U16i3aaX6i.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Madagascar 2
+http://archive.org/download/img20200222wa0002/54n53b45714n.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No mires arriba" tvg-logo="" group-title="VOD | Peliculas",Madagascar 3
+http://archive.org/download/img20200223153056_202002/5u54n4p3r3z.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Viejos
 
 #EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
-
+http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 1" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
@@ -1888,11 +1894,11 @@ http://fina.dyndns.tv/Peliculas/Moana.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose: los sueños del faraon
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
+#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Viejos
+https://archive.org/download/manguera_20210918/V13j05.mp4
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar el sentido del agua
-
+#EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Las locuras del emperador
+http://archive.org/download/E24M2PER4D0R1121/E24M2PER4D0R1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
@@ -1903,20 +1909,20 @@ http://fina.dyndns.tv/Peliculas/Moana.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 2" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 2
 
-#EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Solo amigos
-
-#EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Lugar equivocado
-
-#EXTINF:-1 tvg-id="" tvg-name="El ejecutador" tvg-logo="" group-title="VOD | Peliculas",El ejecutador
-
-#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",Fiesta en la casa
-
-#EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas",El asesino perfecto
-
+#EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Titanic
+https://archive.org/download/00guay-4/t1t4n1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Una esposa de mentira
+http://archive.org/download/3_20200503/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ejecutador" tvg-logo="" group-title="VOD | Peliculas",El regalo prometido
+https://archive.org/download/15100618137557008468/1_5100618137557008468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",El perfume historia de un asesino
+https://archive.org/download/j-1_20210618/3lp3rfum3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas",Este cuerpo no es mio
+http://archive.org/download/00copia_20191122/z4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
 
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
-
+http://ia601507.us.archive.org/32/items/ElBoleroDeRaquelWWw.DescargateloCorp.CoM/u289y4/NRBT.rplt-COMPUCALITV.COM.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
 
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
@@ -1927,9 +1933,9 @@ http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
 http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%203.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la desolacion de smaug
-
+http://archive.org/download/img-20200418-wa-0003/H088172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la batalla de los 5 ejercitos
-
+http://archive.org/download/vid-20200518-wa-0083/H088173.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El dia despues de mañana" tvg-logo="" group-title="VOD | Peliculas",El dia despues de mañana
 
 #EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
