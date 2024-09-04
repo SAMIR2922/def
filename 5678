@@ -18,7 +18,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/84556
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/459250
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC 
-http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59330
+
 
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
@@ -135,7 +135,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59037
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53481
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-http://daleplay.club:80/play/kOfTAZUcE6lqCJOdVp3Y0pTwP7EWvtalZ2cbwTdGKczzj57ZOVRD1uVVoarq3V-0/ts
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
@@ -209,7 +209,7 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/184647
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59135
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
-http://daleplay.club:80/play/kOfTAZUcE6lqCJOdVp3Y0rQkqj5NCwIzxH06vI2iHWg/ts
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
@@ -258,7 +258,7 @@ http://168.181.122.234:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://190.109.4.34:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -291,7 +291,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59043
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
 http://190.0.241.181:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53470
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59039
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CIVILIZATION"  tvg-logo="" group-title="TV | Internacional",DISCOVERY CIVILIZATION
@@ -375,7 +375,7 @@ http://45.166.92.22:58001/play/a05n/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1263
+
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59112
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
@@ -502,7 +502,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1281
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/68973
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1284
+
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59121
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
@@ -720,7 +720,7 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/221569
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
 http://daleplay.club/KleverJumbo/KJ2354fg/115998
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/283337
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/115998
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
@@ -798,7 +798,7 @@ http://daleplay.club:80/play/kOfTAZUcE6lqCJOdVp3Y0jqY_UjjN0q8ElCdu9dUQZzcoj4LgYX
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://190.109.4.34:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/397951
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
 http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
@@ -838,7 +838,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/140205
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/60589
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
@@ -1036,7 +1036,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/68960
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-http://daleplay.club:80/play/kOfTAZUcE6lqCJOdVp3Y0h8AyGag0RDQAivPvahHwix8iv8uL6ZlbmxrmgQcEdyj/ts
+
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://daleplay.club:80/play/kOfTAZUcE6lqCJOdVp3Y0mvpbyg9OzeDAk08qlTssvg/ts
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
