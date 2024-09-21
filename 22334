@@ -279,7 +279,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59044
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53472
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://177.234.247.66:8888/play/a079
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53464
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
@@ -714,11 +714,11 @@ http://45.5.117.182:8000/play/a0hm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 4
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/283337
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/561971
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
-http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/86165
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
 http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/86166
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
@@ -754,7 +754,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/73327
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330766
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190676
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 MEX
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330765
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
@@ -858,7 +858,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/60594
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/92547
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190646
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
@@ -876,11 +876,11 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/339661
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/339661
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CENTRAL
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190655
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190650
+
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190660
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
 http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/92562
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
@@ -955,7 +955,7 @@ http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/107297
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190640
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
@@ -965,7 +965,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53888
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190713
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/58720
 
@@ -992,7 +992,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/164262
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://home-playtv.com:8080/marcelalopez/CHXRH/439746
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
-h
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/58756
@@ -1309,7 +1309,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177183
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
 
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
-http://alfatv.lat:2082/diego270903/diego270903/523609
+
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
 http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222972
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
@@ -1443,9 +1443,9 @@ http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/392749.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alien romulus
 http://home-playtv.com:8080/movie/marcelalopez/CHXRH/552992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Observados
-http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/299728.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
-http://aztkplay.pro:8080/movie/EstefUser/ACnEdsbDfk/294393.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys correr o morir
 http://fina.dyndns.tv/Peliculas/Bad%20Boys.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Luna sin miel
@@ -1679,27 +1679,27 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/524238.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="" group-title="VOD | Peliculas",Apocalypto
 
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 1
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20001.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 2
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+
 #EXTINF:-1 tvg-id="" tvg-name="Mansión encantada" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 3
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+
 #EXTINF:-1 tvg-id="" tvg-name="Elemental" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 4
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+
 #EXTINF:-1 tvg-id="" tvg-name="El atrapa almas" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 5
-https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+
 #EXTINF:-1 tvg-id="" tvg-name="El expediente ruso" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 6
-https://archive.org/download/qwertgf08/qwertgf/qwertgf%2006.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Insidious la puerta roja" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 7
-https://archive.org/download/qwertgf08/qwertgf/qwertgf%2007.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 8
-https://archive.org/download/qwertgf08/qwertgf/qwertgf%2008.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 9
-https://archive.org/download/000-fr/RF.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
-https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/ONHRM23C.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
 
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
@@ -1731,7 +1731,7 @@ https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/ONHRM23C.mp
 #EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",Kung fu
 
 #EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",Asesino sin memoria
-https://archive.org/download/00naran/RTYU/MEM0R1.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Destino final 1
 
 #EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",Destino final 2
@@ -1743,11 +1743,11 @@ https://archive.org/download/00naran/RTYU/MEM0R1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
 
 #EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 1
-https://archive.org/download/Linux-Tutoriales/tutoriales/10.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 2
-https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Shazam%202.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",No se aceptan devoluciones
-http://archive.org/download/screenshot-20200606-182253/MY4P0R.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
@@ -1768,7 +1768,7 @@ http://archive.org/download/screenshot-20200606-182253/MY4P0R.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-https://archive.org/download/fi_20230106/El%20Gato%20Con%20Botas.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
@@ -1796,7 +1796,7 @@ http://fina.dyndns.tv/Peliculas/Venon.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 http://fina.dyndns.tv/Peliculas/Venom%20let%20There%20be%20carnage.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Troya
-http://158.69.158.102/Peliculas/Listo/30122022_1136/troy.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
