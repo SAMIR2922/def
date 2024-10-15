@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/229
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/198787
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
@@ -89,7 +89,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-http://galaxypro.online:8080/ROXANA89/ROXA172316/293539
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 
 
@@ -128,7 +128,7 @@ http://galaxypro.online:8080/ROXANA89/ROXA172316/393981
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",TELEMAR ESMERALDAS
 http://galaxypro.online:8080/ROXANA89/ROXA172316/226608
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",RIOBAMBA TV
-http://galaxypro.online:8080/ROXANA89/ROXA172316/384383
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",RADIO AMERICA STEREO
 http://galaxypro.online:8080/ROXANA89/ROXA172316/293541
 
@@ -203,7 +203,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/185178
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/93485
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
-http://186.167.80.82:8126/play/a0fc/index.m3u8
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/49
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
@@ -260,7 +260,7 @@ http://168.181.122.234:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/291025
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -331,7 +331,7 @@ http://190.0.241.181:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 http://home-playtv.com:8080/marcelalopez/CHXRH/9496
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
-http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/59069
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://186.148.195.206:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
@@ -447,7 +447,7 @@ http://190.0.241.181:8000/play/MUSICAREGGAETON/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
-http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/60480
+
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
@@ -539,7 +539,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/68982
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110082
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
-http://alfatv.lat:2082/diego270903/diego270903/515329
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/184618
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
@@ -721,7 +721,7 @@ http://offshore.lat:8080/MarioMo0901/MMonte09012021/415969
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 5
 http://offshore.lat:8080/MarioMo0901/MMonte09012021/415968
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 4
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/115999
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
 http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/391522
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
@@ -729,7 +729,7 @@ http://nxt.plus:8080/jesus01/jesus01/244615
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
 http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/86166
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
-http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/115998
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/144042
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
@@ -747,13 +747,13 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/82517
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110789
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
-http://alfatv.lat:2082/diego270903/diego270903/269457
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-http://galaxypro.online:8080/ROXANA89/ROXA172316/226246
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
-http://alfatv.lat:2082/diego270903/diego270903/518710
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/58724
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
@@ -761,7 +761,7 @@ http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/73327
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330766
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
-http://alfatv.lat:2082/diego270903/diego270903/269456
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 MEX
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330765
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
@@ -771,7 +771,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330768
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330767
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
-http://alfatv.lat:2082/diego270903/diego270903/518711
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
 http://170.83.242.9:4000/play/a10l
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
@@ -897,7 +897,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/339662
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/19496
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
-http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/140196
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 MEX
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/339663
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 SUR
@@ -913,9 +913,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/36396
 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/115997
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/115998
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/181
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
@@ -925,7 +925,7 @@ http://186.148.195.206:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
 http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/116000
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 6
-http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/401885
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 7
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 8
@@ -943,7 +943,7 @@ http://galaxypro.online:8080/ROXANA89/ROXA172316/356946
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
-http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
@@ -956,7 +956,7 @@ http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/50725
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/58
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330779
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
@@ -972,13 +972,13 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330781
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53888
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
-http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/58720
+
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
@@ -1302,7 +1302,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177118
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Popeye el marino
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222936
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",El payaso Plim PLim
 http://home-playtv.com:8080/marcelalopez/CHXRH/531685
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Pocoyo
@@ -1326,9 +1326,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177183
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222949
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222988
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",Juego de tronos
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Vivos Ecuador
@@ -1344,21 +1344,21 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/107939
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222991
+
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Masha y el oso
 
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
-http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",Dr House
 
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222962
+
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
 http://home-playtv.com:8080/marcelalopez/CHXRH/236453
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",Diarios de vampiros
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222937
+
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",John Wick
@@ -1376,7 +1376,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/531712
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
 http://home-playtv.com:8080/marcelalopez/CHXRH/217011
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Cantinflas
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222938
+
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
@@ -1426,7 +1426,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177324
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",CINEMA DISNEY
 http://home-playtv.com:8080/marcelalopez/CHXRH/177338
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",TERROR
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222992
+
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
 
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS HD
@@ -1446,7 +1446,14 @@ http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222992
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
+http://vddgcoud02.gd34fdldh.xyz:80/vod/66CAB5E3D6C04F959FF3618BBE0E4B0C_media.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
+http://vddgcoud02.gd34fdldh.xyz:80/vod/CD37C544CC964B3F878A575DC72D0074_media.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La sustancia
+http://vddgcoud02.gd34fdldh.xyz:80/vod/31F27089DF204F96865546D603A9C0DC_media.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Justo en la mira
+http://vddgcoud02.gd34fdldh.xyz:80/vod/9FC4450DF60F4786A36987460976F4D6_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",JOKER 2
 http://galaxypro.online:8080/movie/ROXANA89/ROXA172316/675653.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Matalos a todos 2
