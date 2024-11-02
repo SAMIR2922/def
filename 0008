@@ -1466,6 +1466,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177338
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
+http://107.151.149.190:21957/vod/C6BBAD833314ADFA2C00F0CDE17B382_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Apocalipsis Z el principio del fin
 http://tvlatino.club:2082/movie/erick424525/56bxEkaJfYrV/498505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Venom 3
