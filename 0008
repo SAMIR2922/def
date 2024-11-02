@@ -1468,7 +1468,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177338
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
-http://107.151.149.190:21957/vod/C6BBAD8333514ADFA2C00F0CDE17B382_media.mp4
+http://107.151.149.190:21957/vod/C6BBAD8333514ADFA2C00F0CDE17B382_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.190:21957%26app_id%3Dmagmob%26trans_id%3DXHI8kxl9KbCk_ftmn28Ji6Xw%26app_version%3D51001%26client_ip%3D45.6.226.181%26dev_id%3D81abbe608fcbe5f6622a7a39c5e71285%26auth_id%3D163513436_magmob__1%26user_id%3D163513436%26expired%3D1730598039%26token%3D36d6ad1e26c40d62fbf6c90e60588135&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dmagmob%26media_code%3DC6BBAD8333514ADFA2C00F0CDE17B382%26expired%3D1730598039%26token%3D06818fc56c95c0bd75e41055569d510d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Apocalipsis Z el principio del fin
 http://tvlatino.club:2082/movie/erick424525/56bxEkaJfYrV/498505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Venom 3
