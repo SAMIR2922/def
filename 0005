@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/250860
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA QUITO
-
+http://200.24.138.131:8002/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/198787
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
@@ -68,7 +68,7 @@ https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250873
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
@@ -262,7 +262,7 @@ http://168.181.122.234:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/451
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
-
+http://177.128.115.45:8088/play/a09a
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
@@ -585,7 +585,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/69260
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
 http://200.125.170.123:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
-
+http://177.128.115.45:8088/play/a0ar
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="TV | Internacional",COMEDY CENTRAL
 http://190.0.241.181:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",DISTRITO COMEDIA
@@ -752,7 +752,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330763
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN SUR
-
+http://177.128.115.45:8088/play/a0b3
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/501
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
@@ -788,7 +788,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330767
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
 http://200.125.170.123:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
-
+http://177.128.115.45:8088/play/a0bk
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
 http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
@@ -800,7 +800,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330769
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/339548
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-
+http://177.128.115.45:8088/play/a08v
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
 http://200.125.170.123:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
@@ -818,13 +818,13 @@ http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/638575
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330773
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 SUR
-
+http://177.128.115.45:8088/play/a0b4
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://191.52.214.5:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
-
+http://177.128.115.45:8088/play/a0b2
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
 http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
@@ -853,7 +853,7 @@ http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="" group-title="TV | Deportes",GOLTV INTERNACIONAL
 http://home-playtv.com:8080/marcelalopez/CHXRH/51263
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",GOLTV HD
-
+http://177.128.115.45:8088/play/a09s
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
