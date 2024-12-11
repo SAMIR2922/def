@@ -88,7 +88,7 @@ http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/38033
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| QUEVEDO TV "  tvg-logo="" group-title="TV | Ecuador",ASOMAVISION
 
 
@@ -320,7 +320,7 @@ http://186.167.80.82:8126/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
-http://186.148.195.206:8000/play/a07l/index.m3u8
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/127
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
@@ -475,7 +475,7 @@ http://45.226.35.130:3010/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
 http://alfatv.lat:2082/diego270903/diego270903/519433
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",SONY NOVELAS
-https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
+
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 
@@ -751,7 +751,7 @@ http://br055.shop:8880/Gfdny-2022TV/VANY24-iptv/197
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
-http://daleplay.club/82jfn7qq23/Xw7Tu9LhHhQE/116001
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/144042
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
