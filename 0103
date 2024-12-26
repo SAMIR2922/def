@@ -1108,7 +1108,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E01
+http://ruvooidbk.cisantkdh.com:80/vod/5B357EFE874149178A0F882B7EC12F80_media.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar S01 E01
 http://alfatv.lat:2082/series/diego270903/diego270903/6959.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E02
 http://alfatv.lat:2082/series/diego270903/diego270903/6960.mkv
