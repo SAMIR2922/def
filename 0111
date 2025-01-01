@@ -881,7 +881,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/459
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/460
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
@@ -1327,7 +1327,7 @@ http://alfatv.lat:2082/series/diego270903/diego270903/8756.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/705
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
@@ -1337,7 +1337,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/691
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Los padrinos magicos
 
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
-https://tinyurl.com/y976r32k
+
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
 
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
@@ -1359,7 +1359,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/690
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/784
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
-http://home-playtv.com:8080/marcelalopez/CHXRH/177169
+
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
 
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
@@ -1393,7 +1393,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/62384
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol 2
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Looloo kids
-https://torronf.alwaysdata.net/root/youtube/youtube_play.php?https://www.youtube.com/watch?v=E6olcJwFYos
+
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
 
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Masha y el oso
@@ -1507,7 +1507,7 @@ http://alfatv.lat:2082/movie/diego270903/diego270903/551727.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Moana 2
 http://br055.shop:8880/movie/Gfdny-2022TV/VANY24-iptv/204835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alerta extrema
-http://45.10.163.153:80/play/tu5X31ZbwPDhMIBBSLzmU-BFqzYD0maK5ENuOutXWLM#.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Los 4 grandes
 http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Red Clasificada
