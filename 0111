@@ -26,7 +26,7 @@ http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/134483
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/250872
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-http://br055.shop:8880/Gfdny-2022TV/VANY24-iptv/14321
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/369580
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
@@ -332,7 +332,7 @@ http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/128
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
-http://190.0.241.181:8000/play/a04u/index.m3u8
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
@@ -420,7 +420,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
-http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/chunks.m3u8
+
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
 
 
@@ -458,7 +458,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39e
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",TELEHIT
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/47268
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",URBANO TV
-http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",VIDEO TOUR
 
 
@@ -1000,7 +1000,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330781
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/480
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
@@ -1435,7 +1435,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/54943
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54692
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54696
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54700
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
@@ -1511,7 +1511,7 @@ http://br055.shop:8880/movie/Gfdny-2022TV/VANY24-iptv/204835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Los 4 grandes
 http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Red Clasificada
-http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265830.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Huye conejo huye
 http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265829.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Robot Salvaje
