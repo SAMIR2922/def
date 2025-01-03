@@ -156,7 +156,7 @@ http://45.5.117.182:8000/play/a0ge/index.m3u8
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
-
+http://tvpremiund.ddns.me:2082/sintv542/gbu207367/2432
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://alfatv.lat:2082/diego270903/diego270903/523882
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
@@ -248,7 +248,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/112
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1251
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
-
+http://181.209.114.13:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
 http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/1.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
@@ -305,7 +305,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/423
 
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
-
+http://181.209.114.13:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/53489
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
@@ -514,7 +514,7 @@ http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/27.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1281
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
-
+http://tvpremiund.ddns.me:2082/sintv542/gbu207367/7047
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
 http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/36.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
@@ -522,7 +522,7 @@ http://191.52.214.5:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1255
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
-
+http://tvpremiund.ddns.me:2082/sintv542/gbu207367/7048
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
@@ -555,7 +555,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110082
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
-
+http://38.41.8.1:8000/play/a02x
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/173
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
@@ -565,7 +565,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/9
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
 http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/30.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
-
+http://181.209.114.13:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
