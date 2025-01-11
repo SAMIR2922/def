@@ -83,7 +83,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/250873
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
-
+http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvpVPNlBKn90QVQQ_As3Zj1-Qzhfq4Do9SfbSL9S6aOeR/ts
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",UNIANDES TV
 
 
@@ -114,9 +114,9 @@ http://defaultgen.com:3050/skmariani@yahoo.com/XvVVnsfFHy/611326
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
-
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| AUSTRAL TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
-
+http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvpyrkgXJbKWGR4TH7CbgQXc/ts
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| AUSTRAL TV "  tvg-logo="" group-title="TV | Ecuador",RIOBAMBA TV
+http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvtD1V7vXQyohIvd5olEz9fyEf2GMxts8xy8MM-lT9tKh/ts
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NARANJAL TV "  tvg-logo="" group-title="TV | Ecuador",ONDA TV
 http://alfatv.lat:2082/diego270903/diego270903/334814
