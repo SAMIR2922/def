@@ -255,7 +255,7 @@ http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/1.m3u8
 http://alfatv.lat:2082/diego270903/diego270903/523897
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-http://supersonictv.live:8080/247340/764085/61714
+
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
@@ -322,9 +322,9 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1286
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 http://newultra.xyz:8080/nico1702/170223/65215
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/127
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1289
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
 http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/132.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
@@ -596,7 +596,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/69260
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="TV | Internacional",COMEDY CENTRAL
-http://fortv.cc:8080/Alan/Alan1234/57639
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",DISTRITO COMEDIA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MY TIME TV" tvg-logo="" group-title="TV | Internacional",MY TIME TV
@@ -624,7 +624,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| SEO TV" tvg-logo="" group-title="TV | Internacional",SEO TV
-https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TV PRIME" tvg-logo="" group-title="TV | Internacional",TV PRIME
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PLANETA MOVIES" tvg-logo="" group-title="TV | Internacional",PLANETA MOVIES
@@ -665,11 +665,11 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110109
 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="" group-title="TV | Infantiles",NICK JR HQ
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/132695
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR " tvg-logo="" group-title="TV | Infantiles",NICK JR 
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/393
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/132691
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/390
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
@@ -707,7 +707,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/132690
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",SEMILLITAS
-http://45.5.117.182:8000/play/a0er/index.m3u8
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/61604
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
@@ -769,7 +769,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/501
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/518
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110789
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
 http://190.109.4.34:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
@@ -897,7 +897,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/529
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/457
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
-http://216.244.200.34:8000/play/a05g/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
 http://aespremiun.com:59000/play/_wKbMnUKaFD87STDrKnoqDEdzCXvcLkKhzA2JQ0c6cBvK70sl3Mlux2ej5jixiAa/m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
@@ -905,7 +905,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/457
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ECU
 http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/57.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
-http://216.244.200.34:8000/play/a030/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
@@ -931,7 +931,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/537
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 MEX
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/339663
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 SUR
-http://216.244.200.34:8000/play/a06w/index.m3u8
+
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX 
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX HD
@@ -963,17 +963,17 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/585
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/62550
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/250857
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://defaultgen.com:3050/skmariani@yahoo.com/XvVVnsfFHy/611327
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/156511
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://23.152.40.106:25461/7579214127/09097da343/76985
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
 http://aespremiun.com:59000/play/_wKbMnUKaFD87STDrKnoqDEdzCXvcLkKhzA2JQ0c6cDKw0YnauLgJTze2DfdJqLj/m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/469
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
@@ -986,7 +986,7 @@ http://38.183.183.249:8000/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-http://190.108.85.120:5578/play/a0oi/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330779
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
@@ -1367,7 +1367,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/700
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/776
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/769
+
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
@@ -1391,7 +1391,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/779
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/62384
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol 2
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Looloo kids
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
@@ -1521,7 +1521,7 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/B3BF641A1B28489B92A1471142C0414B_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
 http://alfatv.lat:2082/movie/diego270903/diego270903/365603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Apocalipsis Z el principio del fin
-http://tvlatino.club:2082/movie/erick424525/56bxEkaJfYrV/498505.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Venom 3
 http://alfatv.lat:2082/movie/diego270903/diego270903/548838.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El cuervo
