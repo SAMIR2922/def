@@ -182,7 +182,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9666.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/55
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9689.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
 http://alfatv.lat:2082/diego270903/diego270903/520337
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
@@ -208,13 +208,13 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/52
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://alfatv.lat:2082/diego270903/diego270903/520336
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9685.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/49
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9697.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
@@ -222,14 +222,14 @@ http://alfatv.lat:2082/diego270903/diego270903/520339
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/48
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9682.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/46
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1245
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9742.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://45.5.117.182:8000/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
@@ -237,7 +237,7 @@ http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9748.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/1248
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
@@ -366,10 +366,12 @@ http://181.78.67.178:1010/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/232
+#EXTINF:-1 tvg-id="universal.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CHANEL
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9754.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
 http://alfatv.lat:2082/diego270903/diego270903/520390
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9756.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA HD"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA HD
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
@@ -377,14 +379,14 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/111421
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://alfatv.lat:2082/diego270903/diego270903/520388
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9769.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
 
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9711.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9715.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
 http://alfatv.lat:2082/diego270903/diego270903/520371
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
@@ -393,16 +395,16 @@ http://181.209.114.13:8000/play/a05k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL HD
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9733.m3u8
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL FHD
 
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9720.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
 http://alfatv.lat:2082/diego270903/diego270903/322519
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9722.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
@@ -508,7 +510,7 @@ http://200.125.170.120:8000/play/a05t
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
 http://181.209.114.13:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9717.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
 http://alfatv.lat:2082/diego270903/diego270903/520372
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
@@ -541,7 +543,7 @@ http://181.78.27.128:8000/play/a035/index.m3u8
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9650.m3u8
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9738.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS FUNNY" tvg-logo="" group-title="TV | Internacional",TBS FUNNY
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
@@ -551,7 +553,7 @@ http://alfatv.lat:2082/diego270903/diego270903/520378
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
 http://181.209.114.13:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9735.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110082
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
@@ -584,7 +586,7 @@ http://181.209.114.13:8000/play/a04s/index.m3u8
 
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9703.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",EXTREMA TV
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
@@ -616,7 +618,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9642.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA PLUS" tvg-logo="" group-title="TV | Internacional",DE PELICULA PLUS
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9640.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9702.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
@@ -645,7 +647,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9640.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE FICCION" tvg-logo="" group-title="TV | Internacional",CINE CIENCIA FICCION
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PLATINO" tvg-logo="" group-title="TV | Internacional",CINE PLATINO
-
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9704.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
 http://181.78.12.164:9000/play/ch49
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE FAMILIAR" tvg-logo="" group-title="TV | Internacional",CINE FAMILIAR
