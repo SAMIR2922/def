@@ -26,7 +26,7 @@ http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/134483
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8635.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250871
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/369580
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
@@ -35,7 +35,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/369580
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8642.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/29928
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/310
 
@@ -54,7 +54,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8632.m3u8
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250864
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/134478
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/320
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
@@ -332,7 +332,7 @@ http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
-http://38.41.8.1:8000/play/a028
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9660.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
@@ -559,7 +559,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/110082
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
-http://38.41.8.1:8000/play/a02x
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9633.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
@@ -779,7 +779,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/518
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
-http://181.78.105.146:2000/play/a064/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="TV | Deportes",ESPN 2 
 http://alfatv.lat:2082/diego270903/diego270903/552678
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
@@ -1893,7 +1893,7 @@ http://alfatv.lat:2082/movie/diego270903/diego270903/372908.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Terremoto
-http://fina.dyndns.tv/Peliculas/San%20Andres.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
@@ -1907,9 +1907,9 @@ http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
 #EXTINF:-1 tvg-id="" tvg-name="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom " tvg-logo="" group-title="VOD | Peliculas",Venom 
-http://fina.dyndns.tv/Peliculas/Venon.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
-http://fina.dyndns.tv/Peliculas/Venom%20let%20There%20be%20carnage.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Troya
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
@@ -1969,7 +1969,7 @@ http://fina.dyndns.tv/Peliculas/Joker.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-http://fina.dyndns.tv/Peliculas/Coco.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Spirit el corcel indomable
@@ -2019,9 +2019,9 @@ https://archive.org/download/almohadas_20210330/M4d%20M4x%20-%20Fu5y%20R04d%20%2
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
 http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",Madagascar 1
@@ -2039,7 +2039,7 @@ http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Moana
-http://fina.dyndns.tv/Peliculas/Moana.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
 http://alfatv.lat:2082/movie/diego270903/diego270903/375096.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
@@ -2080,11 +2080,11 @@ http://ia601507.us.archive.org/32/items/ElBoleroDeRaquelWWw.DescargateloCorp.CoM
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
 http://alfatv.lat:2082/movie/diego270903/diego270903/375296.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
-http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%201.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
-http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 3
-http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%203.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la desolacion de smaug
 http://archive.org/download/img-20200418-wa-0003/H088172.mp4
