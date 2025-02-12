@@ -330,7 +330,7 @@ http://alfatv.lat:2082/diego270903/diego270903/322542
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://45.166.93.74:5802/play/a149/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315124
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
@@ -739,17 +739,17 @@ http://45.166.93.74:5802/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DIOS TV KIDS" tvg-logo="" group-title="TV | Internacional",DIOS TV KIDS
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315137
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
 http://45.5.117.182:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315138
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/61598
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PREMIER KIDS" tvg-logo="" group-title="TV | Infantiles",PREMIER KIDS
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315135
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ANIME ZONE" tvg-logo="" group-title="TV | Infantiles",PLIM PLIM 
 
 
