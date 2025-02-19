@@ -149,14 +149,14 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9838.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
 http://alfatv.lat:2082/diego270903/diego270903/559582
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 SD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 SD
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/9798
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 FHD
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://alfatv.lat:2082/diego270903/diego270903/523882
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
@@ -328,7 +328,7 @@ http://200.125.170.120:8000/play/a04a
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://alfatv.lat:2082/diego270903/diego270903/322542
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/9657
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
 http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315124
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
