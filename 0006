@@ -77,7 +77,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/8638
 
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85672
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 
@@ -90,7 +90,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/85685.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| QUEVEDO TV "  tvg-logo="" group-title="TV | Ecuador",ASOMAVISION
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85652
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
@@ -98,17 +98,17 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/85685.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
 
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",WUAN TV
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85653
 
-
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SANTO DOMINGO ONLINE
-
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SANGOLQUI TV
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85667
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",CANELA TV
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL NETWORK TV "  tvg-logo="" group-title="TV | Ecuador",MAJESTAD TV
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85691
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
 
@@ -119,7 +119,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/85665.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NARANJAL TV "  tvg-logo="" group-title="TV | Ecuador",ONDA TV
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85694
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TV LEGISLATIVA "  tvg-logo="" group-title="TV | Ecuador",DURAN TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",RADIO BONITA
@@ -133,7 +133,7 @@ http://alfatv.lat:2082/diego270903/diego270903/334793
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",SEÑAL POSITIVA
 http://alfatv.lat:2082/diego270903/diego270903/334813
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",AMERICA STEREO
-
+http://tv.zapping.life:8080/Fernando2024/Fernando2024/85648
 
 
 
