@@ -99,7 +99,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85652
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/85653
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SANGOLQUI TV
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/85667
@@ -142,7 +142,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85648
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://181.209.114.13:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9838.m3u8
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
@@ -530,7 +530,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9619.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",AXN 
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9624.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
-http://tvpremiund.ddns.me:2082/sintv542/gbu207367/7048
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
@@ -691,19 +691,19 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9871
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/9873
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
-http://alfatv.lat:2082/diego270903/diego270903/523906
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://181.78.12.164:9000/play/a03u
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
-http://alfatv.lat:2082/diego270903/diego270903/238784
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/9866
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/9868
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JR" tvg-logo="" group-title="TV | Infantiles",DISNEY JR
 http://181.78.12.164:9000/play/ch05
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| WALT DISNEY" tvg-logo="" group-title="TV | Infantiles",WALT DISNEY
@@ -739,7 +739,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9883
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DIOS TV KIDS" tvg-logo="" group-title="TV | Internacional",DIOS TV KIDS
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
-http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315137
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
@@ -865,7 +865,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/453
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM HD
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/30246
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM ARG
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/542
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
@@ -1009,11 +1009,11 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250888
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9558.m3u8
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/29930
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
@@ -1125,37 +1125,37 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E01
 http://ruvooidbk.cisantkdh.com:80/vod/5B357EFE874149178A0F882B7EC12F80_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E02
-http://alfatv.lat:2082/series/diego270903/diego270903/560433.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E03
-http://alfatv.lat:2082/series/diego270903/diego270903/560434.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E04
-http://alfatv.lat:2082/series/diego270903/diego270903/560435.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E05
-http://alfatv.lat:2082/series/diego270903/diego270903/560436.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E06
 http://ruvooidbk.cisantkdh.com:80/vod/43F61E1336FB40EFB61151F71161AC24_media.mp4?dev_id=81abbe608fcbe5f6622a7a39c5e71285&user_id=163513436&trans_id=Y29hpiscOlNy_Cd59XlzhdMoL&expired=1735243985&app_id=magmob&app_ver=51001&host=ruvooidbk.cisantkdh.com&media_code=43F61E1336FB40EFB61151F71161AC24&auth_id=163513436_magmob__0&client_ip=45.6.226.181&Expires=1735243985&KeyName=kai03&Signature=luRngOvPeO9Qi0Jv5Xr--A9saXY=
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar 2 E07
-http://alfatv.lat:2082/series/diego270903/diego270903/560438.mkv
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar S01 E01
-http://alfatv.lat:2082/series/diego270903/diego270903/6959.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E02
-http://alfatv.lat:2082/series/diego270903/diego270903/6960.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E03
-http://alfatv.lat:2082/series/diego270903/diego270903/6961.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E04
-http://alfatv.lat:2082/series/diego270903/diego270903/6962.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E05
-http://alfatv.lat:2082/series/diego270903/diego270903/6963.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E06
-http://alfatv.lat:2082/series/diego270903/diego270903/6964.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E07
-http://alfatv.lat:2082/series/diego270903/diego270903/6965.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E08
-http://alfatv.lat:2082/series/diego270903/diego270903/6966.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E09
-http://alfatv.lat:2082/series/diego270903/diego270903/6967.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E01
 
@@ -1198,29 +1198,29 @@ http://alfatv.lat:2082/series/diego270903/diego270903/6967.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES",Estamos muertos E01
-http://alfatv.lat:2082/series/diego270903/diego270903/174653.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES",Estamos muertos E02
-http://alfatv.lat:2082/series/diego270903/diego270903/174654.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES",Estamos muertos E03
-http://alfatv.lat:2082/series/diego270903/diego270903/174655.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES",Estamos muertos E04
-http://alfatv.lat:2082/series/diego270903/diego270903/174656.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES",Estamos muertos E05
-http://alfatv.lat:2082/series/diego270903/diego270903/174657.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES",Estamos muertos E06
-http://alfatv.lat:2082/series/diego270903/diego270903/174658.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES",Estamos muertos E07
-http://alfatv.lat:2082/series/diego270903/diego270903/174659.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES",Estamos muertos E08
-http://alfatv.lat:2082/series/diego270903/diego270903/174660.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES",Estamos muertos E09
-http://alfatv.lat:2082/series/diego270903/diego270903/174661.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES",Estamos muertos E10
-http://alfatv.lat:2082/series/diego270903/diego270903/174662.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E11" tvg-logo="" group-title="SERIES",Estamos muertos E11
-http://alfatv.lat:2082/series/diego270903/diego270903/174663.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES",Estamos muertos E12
-http://alfatv.lat:2082/series/diego270903/diego270903/174664.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Cazadores de sombras E01
 
@@ -1276,21 +1276,21 @@ http://alfatv.lat:2082/series/diego270903/diego270903/174664.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES",Merlina E01
-http://alfatv.lat:2082/series/diego270903/diego270903/8749.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES",Merlina E02
-http://alfatv.lat:2082/series/diego270903/diego270903/8750.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES",Merlina E03
-http://alfatv.lat:2082/series/diego270903/diego270903/8751.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES",Merlina E04
-http://alfatv.lat:2082/series/diego270903/diego270903/8752.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES",Merlina E05
-http://alfatv.lat:2082/series/diego270903/diego270903/8753.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES",Merlina E06
-http://alfatv.lat:2082/series/diego270903/diego270903/8754.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES",Merlina E07
-http://alfatv.lat:2082/series/diego270903/diego270903/8755.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Merlina E08
-http://alfatv.lat:2082/series/diego270903/diego270903/8756.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES",Betty la fea 2 E01
 
@@ -1386,7 +1386,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/776
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/62358
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL 
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/697
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
@@ -1404,7 +1404,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/779
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Un hogar casi perfecto
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/62384
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Looloo kids
@@ -1516,7 +1516,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54689
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mufasa
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/422614.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones 2
-http://alfatv.lat:2082/movie/diego270903/diego270903/566512.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alice
 http://vddgcoud02.gd34fdldh.xyz:80/vod/C1477AC3755D4D17AE0DDD01D039DF94_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Como caído del cielo
@@ -1524,9 +1524,9 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/C1477AC3755D4D17AE0DDD01D039DF94_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Kraven el cazador
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Aprende a soltar
-http://alfatv.lat:2082/movie/diego270903/diego270903/551727.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Moana 2
-http://alfatv.lat:2082/movie/diego270903/diego270903/557513.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alerta extrema
 http://vddgcoud02.gd34fdldh.xyz:80/vod/9C2E811F108547DEB70859FE6B73A82E_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Los 4 grandes
@@ -1538,11 +1538,11 @@ http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265829.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Robot Salvaje
 http://vddgcoud02.gd34fdldh.xyz:80/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
-http://alfatv.lat:2082/movie/diego270903/diego270903/365603.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Apocalipsis Z el principio del fin
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Venom 3
-http://alfatv.lat:2082/movie/diego270903/diego270903/548838.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El cuervo
 http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/252015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
@@ -1566,7 +1566,7 @@ http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/250840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Observados
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
-http://alfatv.lat:2082/movie/diego270903/diego270903/370621.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys 3
 http://fina.dyndns.tv/Peliculas/Bad%20Boys.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys 4
@@ -1584,9 +1584,9 @@ http://fina.dyndns.tv/Peliculas/Pinguinos%20de%20Madagascar.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La joven y el mar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 2
-http://alfatv.lat:2082/movie/diego270903/diego270903/366852.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 3
-http://alfatv.lat:2082/movie/diego270903/diego270903/366853.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 4
 http://nxt.plus:8080/movie/jesus01/jesus01/152234.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",South Park el fin de los gordos
@@ -1676,7 +1676,7 @@ http://ruvooidbk.cisantkdh.com:80/vod/15CE4A2543DB4C4EB5A943EDE3953685_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Colateral
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Road House de profesion duro
-http://alfatv.lat:2082/movie/diego270903/diego270903/370715.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El arca de Noe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Un ladron Romantico
@@ -1800,7 +1800,7 @@ http://ruvooidbk.cisantkdh.com:80/vod/461DBC0552814F679F0BA24AAD0ED75C_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El rey mono" tvg-logo="" group-title="VOD | Peliculas",El rey mono
 
 #EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="" group-title="VOD | Peliculas",Apocalypto
-http://alfatv.lat:2082/movie/diego270903/diego270903/365075.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 2
@@ -1876,7 +1876,7 @@ http://nxt.plus:8080/movie/jesus01/jesus01/131274.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",No se aceptan devoluciones
 
 #EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
-http://alfatv.lat:2082/movie/diego270903/diego270903/366897.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del zodiaco" tvg-logo="" group-title="VOD | Peliculas",Los Caballeros del Zodiaco
@@ -1925,7 +1925,7 @@ http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Troya
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
-http://alfatv.lat:2082/movie/diego270903/diego270903/373809.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
 http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
@@ -2053,7 +2053,7 @@ http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Moana
 
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
-http://alfatv.lat:2082/movie/diego270903/diego270903/375096.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
 http://vddgcoud02.gd34fdldh.xyz:80/vod/0297F3291CBD4B26A790CDC3C6BF128D_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
@@ -2090,7 +2090,7 @@ http://archive.org/download/00copia_20191122/z4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
 http://ia601507.us.archive.org/32/items/ElBoleroDeRaquelWWw.DescargateloCorp.CoM/u289y4/NRBT.rplt-COMPUCALITV.COM.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
-http://alfatv.lat:2082/movie/diego270903/diego270903/375296.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
@@ -2111,7 +2111,7 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/BCAC9F6398594FFAAC15CB6E33372161_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
-http://alfatv.lat:2082/movie/diego270903/diego270903/539126.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
 http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/7323.mkv
 
