@@ -44,17 +44,17 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8634.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/30522
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100564
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100562
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250864
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100567
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
@@ -63,7 +63,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8644.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV HD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100560
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV SD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV SD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| MULTICANAL " tvg-logo="" group-title="TV | Ecuador",MULTICANAL
@@ -105,7 +105,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85652
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/85667
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",CANELA TV
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100559
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL NETWORK TV "  tvg-logo="" group-title="TV | Ecuador",MAJESTAD TV
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/85691
