@@ -349,7 +349,7 @@ http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/77161
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://181.78.12.164:9000/play/a07e
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315126
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
@@ -360,7 +360,7 @@ http://181.209.114.13:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT HD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT HD
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/192
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT SD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT SD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315134
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT FHD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT FHD
 
 
@@ -406,7 +406,7 @@ http://181.209.114.13:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9733.m3u8
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL FHD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315131
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
 http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315100
@@ -521,9 +521,9 @@ http://181.209.114.13:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9717.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315120
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315121
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
 http://tvpremiund.ddns.me:2082/sintv542/gbu207367/7047
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
@@ -566,7 +566,7 @@ http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315118
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9735.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315128
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE 
@@ -718,7 +718,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9862
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/9859
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315127
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://i.ibb.co/ZgZx1My/natgeo-kids.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PAKA PAKA
@@ -746,7 +746,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9883
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315135
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
 http://45.5.117.182:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
