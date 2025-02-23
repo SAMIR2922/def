@@ -138,7 +138,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85648
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99934
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://181.209.114.13:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
@@ -153,7 +153,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9798
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 FHD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99931
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 
@@ -259,19 +259,19 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9629.m3u8
 
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99908
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9780.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99937
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/451
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9802.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99938
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| OUTDOOR" tvg-logo="" group-title="TV | Internacional",OUTDOOR
@@ -289,10 +289,12 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9821.m3u8
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/411
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
 http://fortv.cc:8080/Alan/Alan1234/57645
+#EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILA
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99914
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99927
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99920
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/414
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION "  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION
@@ -300,7 +302,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/437
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION FHD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9785.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99922
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9790.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
@@ -311,14 +313,15 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/423
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
 http://181.209.114.13:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99939
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
-
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99940
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9807.m3u8
-
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
+http://playtvpremium.xyz:2095/56957358833w/211124zplayer/99914
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
 http://200.125.170.120:8000/play/a04a
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
