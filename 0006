@@ -28,7 +28,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/8636
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100565
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
-
+http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347668
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 
 
@@ -37,7 +37,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8642.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8639
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
-
+http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8634.m3u8
@@ -49,7 +49,7 @@ http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100564
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100562
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-
+http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347675
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250864
 
@@ -59,6 +59,8 @@ http://playtvpremium.xyz:2095/56957358833w/211124zplayer/100567
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8648
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8644.m3u8
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
+http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347687
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
