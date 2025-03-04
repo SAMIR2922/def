@@ -56,11 +56,11 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250864
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8648
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8644.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347687
+
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
@@ -352,7 +352,7 @@ http://187.249.112.44:9981/stream/channelid/1267883382?profile=pass
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9660.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/77161
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://181.78.12.164:9000/play/a07e
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
@@ -770,7 +770,7 @@ http://45.5.117.182:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/61598
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PREMIER KIDS" tvg-logo="" group-title="TV | Infantiles",PREMIER KIDS
-http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315135
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ANIME ZONE" tvg-logo="" group-title="TV | Infantiles",PLIM PLIM 
 
 
@@ -778,9 +778,9 @@ http://playtvpremium.xyz:2095/56957358833w/211124zplayer/315135
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 6
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250893
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 5
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/107636
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",ZAPPING SPORTS 2
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/107637
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/107638
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
