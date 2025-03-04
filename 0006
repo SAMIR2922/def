@@ -42,7 +42,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8634.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
-
+http://45.68.35.218:4001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 
 
@@ -342,7 +342,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9663
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/9657
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
-
+http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
@@ -1111,6 +1111,8 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/554
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9609.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://181.78.105.146:6060/play/a05i
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT BUNDESLIGA
+http://45.68.35.218:4001/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",WWE NETWORK
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
