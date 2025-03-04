@@ -838,7 +838,7 @@ http://181.78.12.164:9000/play/a03w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/514
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
@@ -846,7 +846,7 @@ http://187.249.112.44:9981/stream/channelid/2122659265?profile=pass
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://ultrapremium.cloud:8080/984497471tv/8h2sd8/517
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/175475
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9537.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
@@ -866,9 +866,9 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9538.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 SUR
 http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/147287
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/182805
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
 http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
@@ -899,7 +899,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9595
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="" group-title="TV | Deportes",GOLTV INTERNACIONAL
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9595.m3u8
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",GOLTV HD
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/61873
+
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250889
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
@@ -936,7 +936,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/457
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
-http://23.152.40.106:25461/T3cnoMolly200/qKhWx8wd8hSG/63152
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/457
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ECU
@@ -1540,7 +1540,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El asesino del calendario
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/423694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Capitan America
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/426604.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Henry Danger
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/427207.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mufasa
