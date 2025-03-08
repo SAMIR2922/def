@@ -18,7 +18,7 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250881
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8651.m3u8
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
 
 
@@ -40,7 +40,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8639
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/8634.m3u8
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://45.68.35.218:4001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
@@ -87,7 +87,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85672
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",UNIANDES TV
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/85685.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
 
@@ -184,7 +184,7 @@ http://supersonictv.live:8080/247340/764085/61810
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
-http://187.249.112.44:9981/stream/channelid/626580053?profile=pass
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
