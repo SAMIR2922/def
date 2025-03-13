@@ -173,16 +173,16 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9615
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9646.m3u8
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9646
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-http://supersonictv.live:8080/247340/764085/61810
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
-http://fastream.xyz:8080/971412719tv/16a8h2/139
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
@@ -196,7 +196,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9689
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://fastream.xyz:8080/971412719tv/16a8h2/131
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -206,7 +206,7 @@ http://fastream.xyz:8080/971412719tv/16a8h2/131
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 LAT
 http://181.209.114.13:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
-http://fastream.xyz:8080/971412719tv/16a8h2/135
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
 http://181.209.114.13:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
@@ -214,7 +214,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9677
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
-http://fastream.xyz:8080/971412719tv/16a8h2/145
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
@@ -222,7 +222,7 @@ http://181.209.114.13:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9685
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-http://fastream.xyz:8080/971412719tv/16a8h2/156
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
@@ -230,15 +230,15 @@ http://181.209.114.13:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9697
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-http://fastream.xyz:8080/971412719tv/16a8h2/142
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
-http://fastream.xyz:8080/971412719tv/16a8h2/150
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE HD
 http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
-http://fastream.xyz:8080/971412719tv/16a8h2/167
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
@@ -246,28 +246,28 @@ http://fastream.xyz:8080/971412719tv/16a8h2/167
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
-http://187.249.112.44:9981/stream/channelid/346218722?profile=pass
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
-http://fastream.xyz:8080/971412719tv/16a8h2/170
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
 http://181.209.114.13:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO
-http://fastream.xyz:8080/971412719tv/16a8h2/110
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO HD
 http://205.235.6.29:8000/play/a0ky/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO SD
-http://187.249.112.44:9981/stream/channelid/641249941?profile=pass
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
-http://187.249.112.44:9981/stream/channelid/2143626109?profile=pass
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
 http://181.209.114.13:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
-http://fastream.xyz:8080/971412719tv/16a8h2/112
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
-http://fastream.xyz:8080/971412719tv/16a8h2/116
+
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
 
@@ -278,7 +278,7 @@ http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/451
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
@@ -291,9 +291,9 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/451
 
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="" group-title="TV | Internacional",DISCOVERY CHANNEL 
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/407
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="" group-title="TV | Internacional",DISCOVERY CHANNEL SD
-http://187.249.112.44:9981/stream/channelid/1818130520?profile=pass
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY  " tvg-logo="https://img1.freepng.es/20180803/qcj/kisspng-discovery-channel-television-channel-discovery-hd-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b6444b871f133.8229586615332978484667.jpg" group-title="TV | Internacional",DISCOVERY 
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
@@ -309,9 +309,9 @@ http://fortv.cc:8080/Alan/Alan1234/57645
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/414
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION "  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/437
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
@@ -319,7 +319,7 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/437
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/423
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CIVILIZATION"  tvg-logo="" group-title="TV | Internacional",DISCOVERY CIVILIZATION
 
 
@@ -330,13 +330,13 @@ http://181.209.114.13:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
-http://200.125.170.120:8000/play/a04a
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9657
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
@@ -350,7 +350,7 @@ http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
-http://187.249.112.44:9981/stream/channelid/1267883382?profile=pass
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
