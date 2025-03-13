@@ -5,20 +5,20 @@
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA QUITO
-http://supersonictv.live:8080/247340/764085/61782
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
-http://fastream.xyz:8080/971412719tv/16a8h2/250860
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250860
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250881
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
-http://fastream.xyz:8080/971412719tv/16a8h2/250881
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
 
 
@@ -28,35 +28,35 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/8636
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
-http://fastream.xyz:8080/971412719tv/16a8h2/250870
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
-http://fastream.xyz:8080/971412719tv/16a8h2/250874
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8639
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://fastream.xyz:8080/971412719tv/16a8h2/250900
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://45.68.35.218:4001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
-http://fastream.xyz:8080/971412719tv/16a8h2/250864
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347675
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250864
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
-http://fastream.xyz:8080/971412719tv/16a8h2/250904
+
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
-http://fastream.xyz:8080/971412719tv/16a8h2/250877
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
@@ -67,7 +67,7 @@ http://fastream.xyz:8080/971412719tv/16a8h2/250877
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV HD
-http://fastream.xyz:8080/971412719tv/16a8h2/250858
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV SD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV SD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| MULTICANAL " tvg-logo="" group-title="TV | Ecuador",MULTICANAL
@@ -78,10 +78,10 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/8638
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8638
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
-http://fastream.xyz:8080/971412719tv/16a8h2/250873
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/85672
+
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 
@@ -109,10 +109,10 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85652
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/85667
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",CANELA TV
-http://fastream.xyz:8080/971412719tv/16a8h2/250856
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL NETWORK TV "  tvg-logo="" group-title="TV | Ecuador",MAJESTAD TV
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/85691
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
 
@@ -146,12 +146,12 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85648
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://181.209.114.13:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-http://187.249.112.44:9981/stream/channelid/1261976682?profile=pass
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
-http://187.249.112.44:9981/stream/channelid/111188988?profile=pass
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 SD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 SD
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/9798
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
@@ -160,7 +160,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/9798
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
-http://187.249.112.44:9981/stream/channelid/1374391892?profile=pass
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E SD
 http://205.235.6.29:8000/play/a0kw/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
@@ -168,7 +168,7 @@ http://181.209.114.13:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9615
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
-http://fastream.xyz:8080/971412719tv/16a8h2/174
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES SUR"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES SUR
 
 
