@@ -1004,11 +1004,11 @@ http://fastream.xyz:8080/971412719tv/16a8h2/250881
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/250857
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://fastream.xyz:8080/971412719tv/16a8h2/250857
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
-http://fastream.xyz:8080/971412719tv/16a8h2/250887
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
@@ -1050,13 +1050,13 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9557
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC SD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9610
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/580
+
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="" group-title="TV | Deportes",CLARO SPORT 
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/463
+
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD " tvg-logo="" group-title="TV | Deportes",CLARO SPORT HD
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
@@ -1067,18 +1067,18 @@ http://ultrapremium.cloud:8080/973315751tv/i5f7ik/463
 
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/587
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| BARCA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png" group-title="TV | Deportes",BARCA TV
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/491
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER UNITED" tvg-logo="" group-title="TV | Deportes",MANCHESTER UNITED
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/493
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/490
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 http://186.148.195.206:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
@@ -1110,7 +1110,7 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9603.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/554
+
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT HD" tvg-logo="" group-title="TV | Deportes",TYC SPORT HD
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
@@ -1128,9 +1128,9 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/456
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/456
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1 HD" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1 HD
@@ -1373,9 +1373,9 @@ http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315589.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Exponiendo infieles
 
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/705
+
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/691
+
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Miracoulus
 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",LUISITO COMUNICA
@@ -1391,7 +1391,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/690
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",El payaso Plim PLim
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los gatos de Gaby
@@ -1401,15 +1401,15 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/690
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
 
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/784
+
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
 
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
 
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/700
+
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/776
+
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
 
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
@@ -1417,17 +1417,17 @@ http://ultrapremium.cloud:8080/984497471tv/8h2sd8/776
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL 
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/697
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
 
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",Juego de tronos
-http://ultrapremium.cloud:8080/973315751tv/i5f7ik/698
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",CSI MIAMI
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94924
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Chicago Med
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94922
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Scooby doo
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/779
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",El coyote y el correcaminos
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Un hogar casi perfecto
@@ -1453,7 +1453,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94820
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",Diarios de vampiros
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/773
+
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",John Wick
@@ -1477,17 +1477,17 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8586
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54692
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8587
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54700
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8588
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 5
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54688
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 6
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/54689
+
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 7
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8589
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 8
@@ -1542,7 +1542,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/95594
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Winnie pooh sangre y dulce
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Winnie-the-Pooh-%20Blood%20and%20Honey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El asesino del calendario
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/423694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Capitan America
@@ -1566,11 +1566,11 @@ http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/419992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alerta extrema
 http://vddgcoud02.gd34fdldh.xyz:80/vod/9C2E811F108547DEB70859FE6B73A82E_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Los 4 grandes
-http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265845.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
 http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Huye conejo huye
-http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/265829.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Robot Salvaje
 http://vddgcoud02.gd34fdldh.xyz:80/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
@@ -1580,11 +1580,11 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/B3BF641A1B28489B92A1471142C0414B_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Venom 3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El cuervo
-http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/252015.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 http://vddgcoud02.gd34fdldh.xyz:80/vod/66CAB5E3D6C04F959FF3618BBE0E4B0C_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
-http://ultrapremium.cloud:8080/movie/973315751tv/i5f7ik/3617.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La sustancia
 http://vddgcoud02.gd34fdldh.xyz:80/vod/90861034C05F4CF58B87A2590ED345EC_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Justo en la mira
@@ -1598,7 +1598,7 @@ https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Beetlejuice
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alien romulus
-http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/250840.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Observados
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
@@ -1608,7 +1608,7 @@ http://fina.dyndns.tv/Peliculas/Bad%20Boys.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys 4
 http://ruvooidbk.cisantkdh.com:80/vod/1E133863E3AB4B8482CBC6299CD3244B_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Deadpool y Volverine
-http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/248283.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Cazafantasmas  imperio helado
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Godzilla y Kong el nuevo imperio
@@ -1632,9 +1632,9 @@ http://nxt.plus:8080/movie/jesus01/jesus01/152234.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La primera profecia
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Furiosa la saga de Mad Max
-http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/243185.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Titanic
-http://ultrapremium.cloud:8080/movie/984497471tv/8h2sd8/249352.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Nahir
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mi querida Oni
