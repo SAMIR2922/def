@@ -49,7 +49,7 @@ http://45.68.35.218:4001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347675
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
@@ -168,7 +168,7 @@ http://181.209.114.13:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9615
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
-http://supersonictv.live:8080/247340/764085/61708
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES SUR"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES SUR
 
 
@@ -182,7 +182,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9646
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
 http://181.78.74.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/68
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
@@ -196,7 +196,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9689
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/69
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -270,7 +270,7 @@ http://181.209.114.13:8000/play/a07b/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-http://supersonictv.live:8080/247340/764085/61714
+
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
@@ -369,7 +369,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9665
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
 http://181.209.114.13:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT HD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT HD
-http://ultrapremium.cloud:8080/984497471tv/8h2sd8/192
+
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT SD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT SD
 http://181.78.74.69:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT FHD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT FHD
@@ -406,7 +406,7 @@ http://181.78.208.25:2600/play/a00p/index.m3u8
 http://181.78.208.25:2600/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
-http://supersonictv.live:8080/247340/764085/61758
+
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
 http://181.78.74.69:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
