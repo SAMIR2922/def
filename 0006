@@ -334,11 +334,11 @@ http://181.209.114.13:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://181.78.74.69:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
-
+http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9847.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-
+http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9807.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
