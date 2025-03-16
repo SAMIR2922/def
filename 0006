@@ -250,7 +250,7 @@ http://181.78.74.69:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9742.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
-
+http://179.63.36.2:8000/play/a0og/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
@@ -258,7 +258,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9742.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9748.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
-
+http://179.63.36.2:8000/play/a0p4/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
 http://181.209.114.13:8000/play/a07e/index.m3u8
 
@@ -455,7 +455,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-
+http://179.63.36.2:8000/play/a0l8/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
@@ -508,7 +508,7 @@ http://179.63.36.2:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
-
+http://179.63.36.2:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
@@ -517,7 +517,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9747.m3u8
 
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
-
+http://179.63.36.2:8000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO HD" tvg-logo="" group-title="TV | Internacional",TELEMUNDO HD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
@@ -552,7 +552,7 @@ http://181.78.74.69:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9717.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
-
+http://179.63.36.2:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
 http://205.235.6.29:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
@@ -592,11 +592,13 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9739.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://181.78.74.69:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
-
+http://179.63.36.2:8000/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM
 http://181.209.114.13:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM HD
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9740.m3u8
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM SD
+http://179.63.36.2:8000/play/a0qh/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9735.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
@@ -947,7 +949,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9595.m3u8
 http://nxtv2112.xyz/carlos4331/RpUXQfS/2369
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
-
+http://179.63.36.2:8000/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
@@ -1141,7 +1143,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9603.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-
+http://179.63.36.2:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT HD" tvg-logo="" group-title="TV | Deportes",TYC SPORT HD
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
