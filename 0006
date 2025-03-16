@@ -31,6 +31,8 @@ http://205.235.6.29:8000/play/11/index.m3u8
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/12
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/8635.m3u8
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
+http://190.171.83.2:4000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
@@ -66,7 +68,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/8650.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://167.250.180.251:4000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
-
+http://167.250.180.251:4000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
@@ -85,6 +87,8 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8638
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/8638.m3u8
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU COSTA
+http://181.48.150.203:8000/play/a0nq/index.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
 
@@ -197,8 +201,10 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9666.m3u8
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9696.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
 http://181.78.74.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO SUR
+http://190.60.55.141:9083/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
-
+http://190.60.55.141:9083/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9689
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
@@ -354,7 +360,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9807.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
 http://181.48.150.203:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
-
+http://181.48.150.203:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9663
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
@@ -368,6 +374,8 @@ http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9657.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE LATINO
+http://181.48.150.203:8000/play/a0mf/index.m3u8
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
 http://181.48.150.203:8000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
 
@@ -527,7 +535,7 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9747.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://179.63.36.2:8000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO HD" tvg-logo="" group-title="TV | Internacional",TELEMUNDO HD
-
+http://167.250.180.251:4000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
 http://179.63.36.2:8000/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV FHD" tvg-logo="" group-title="TV | Internacional",HOLA TV FHD
@@ -610,7 +618,7 @@ http://179.63.36.2:8000/play/a0qh/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9735.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-
+http://167.250.180.251:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE 
@@ -651,7 +659,7 @@ http://179.63.36.2:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",EXTREMA TV
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
-
+http://45.228.233.254:18000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE HD
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
@@ -778,7 +786,7 @@ http://205.235.6.29:8000/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PAKA PAKA
 http://179.63.36.2:8000/play/a0lb/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
-
+http://190.60.55.141:9083/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV SD
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
@@ -908,7 +916,7 @@ http://179.63.36.2:8000/play/a0oi/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 SUR
 http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
-
+http://167.250.180.251:4000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9573.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
@@ -916,7 +924,7 @@ http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
 http://179.63.36.2:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
-
+http://167.250.180.251:4000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9573
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
