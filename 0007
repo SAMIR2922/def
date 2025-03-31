@@ -411,28 +411,28 @@ http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9774.m3u8
 http://181.78.67.178:1010/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9753.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CHANEL
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CHANNEL SD
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9770.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9756.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA HD"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA HD
 http://181.78.208.25:2600/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9761.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://181.78.208.25:2600/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9766.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
 http://181.78.208.25:2600/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9712.m3u8
+
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
 http://181.78.74.69:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
@@ -444,22 +444,22 @@ http://181.48.150.203:8000/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
 http://181.209.114.13:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES HD" tvg-logo="" group-title="TV | Internacional",SONY MOVIES HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9715.m3u8
+
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://181.78.74.69:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL FHD
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL 
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9733.m3u8
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
 http://181.78.74.69:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9720.m3u8
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9723.m3u8
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9722.m3u8
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
 http://181.78.12.164:9000/play/a067
 
@@ -520,15 +520,15 @@ http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
 http://181.78.12.164:9000/play/a03t
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
-http://179.63.36.2:8000/play/a0pl/index.m3u8
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
-http://179.63.36.2:8000/play/a0qo/index.m3u8
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9747.m3u8
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",SONY NOVELAS
 
 
@@ -557,7 +557,7 @@ http://181.78.12.164:9000/play/a07f
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC
 http://181.78.12.164:9000/play/ch33
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9803.m3u8
+
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://200.125.170.120:8000/play/a05t
@@ -566,7 +566,7 @@ http://181.209.114.13:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
 http://181.78.74.69:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9717.m3u8
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
 http://190.111.16.106:40000/play/a07p?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
@@ -574,7 +574,7 @@ http://205.235.6.29:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
 http://supersonictv.live:8080/247340/764085/61711
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9619.m3u8
+
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 http://181.78.74.69:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC LATINO
@@ -584,7 +584,7 @@ http://205.235.6.29:8000/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",AXN 
 http://181.78.74.69:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9622.m3u8
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
 http://190.111.16.106:40000/play/a07o?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
@@ -594,7 +594,7 @@ http://181.78.12.164:9000/play/a04e
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
 http://181.78.74.69:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX 3
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9652.m3u8
+
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="" group-title="TV | Internacional",Film & Arts
@@ -602,9 +602,9 @@ http://190.111.16.106:40000/play/a04b?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="" group-title="TV | Internacional",Film & Arts SD
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9738.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS FUNNY" tvg-logo="" group-title="TV | Internacional",TBS FUNNY
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9739.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://181.78.74.69:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
@@ -612,11 +612,11 @@ http://181.78.74.69:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM
 http://181.209.114.13:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM HD
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9740.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM SD
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9735.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
 http://167.250.180.251:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY ESPAÑA" tvg-logo="" group-title="TV | Internacional",SYFY ESPAÑA
@@ -628,7 +628,7 @@ http://190.111.16.106:40000/play/a04i?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://181.78.74.69:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
-http://tv.zeuspro.xyz:8080/live/sonia/bMdNRaNIA1/9633.m3u8
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://190.111.16.106:40000/play/a07c?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
