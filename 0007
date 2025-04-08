@@ -362,11 +362,11 @@ http://181.48.150.203:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://181.48.150.203:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/81828
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://190.111.16.106:40000/play/a05l?/mx-lat/sd-hd/ampertvfree.php?v=ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/81690
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
@@ -1424,7 +1424,7 @@ http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315589.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
 
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1125753
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Miracoulus
 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",LUISITO COMUNICA
@@ -1450,7 +1450,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
 
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1137422
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
 
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
@@ -1458,7 +1458,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
 
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1204122
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
 
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
@@ -1482,7 +1482,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94922
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Un hogar casi perfecto
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
-
+http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1125688
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Looloo kids
