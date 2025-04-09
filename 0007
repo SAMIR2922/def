@@ -50,7 +50,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/13
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1203781
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
-
+http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85671
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
@@ -91,7 +91,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
 http://181.48.150.203:8000/play/a0nq/index.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
-
+http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85672
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 
@@ -99,7 +99,7 @@ http://181.48.150.203:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/120
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",UNIANDES TV
-
+http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85685
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",MANAVISION
 http://cincotv.org:25461/Criss88/Cristhian88/187071
@@ -133,7 +133,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/97
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NARANJAL TV "  tvg-logo="" group-title="TV | Ecuador",ONDA TV
-
+http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85694
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TV LEGISLATIVA "  tvg-logo="" group-title="TV | Ecuador",DURAN TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",RADIO BONITA
@@ -143,9 +143,9 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/97
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",PASION TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",ÑUKA TV
-
-#EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",SEÑAL POSITIVA
-
+http://tv.masterplaytv.club:8080/live/gladysvicmel/iiUBAWUAO9/85670.ts
+#EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",CARCHI TV
+http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85676
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",AMERICA STEREO
 http://tv.zapping.life:8080/Fernando2024/Fernando2024/85648
 
