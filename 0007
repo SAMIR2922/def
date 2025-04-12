@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/11
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA QUITO
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/65218
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8629
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-http://181.48.150.203:8000/play/a0ue/index.m3u8
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 
 
@@ -18,7 +18,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/15
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/54748
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
 http://cincotv.org:25461/Criss88/Cristhian88/187061
 
@@ -28,7 +28,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/8636
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/84543
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8636
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
@@ -41,21 +41,21 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8639
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/65209
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8642
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/13
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1203781
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85671
+
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/84539
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
@@ -64,11 +64,11 @@ http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/84539
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/10
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://my-flashtv.com:8080/YeLLowHS2uKePhYN/e6NJU9he3dM5/1675077
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
-http://167.250.180.251:4000/play/a0ea/index.m3u8
+
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
@@ -88,7 +88,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU COSTA
-http://181.48.150.203:8000/play/a0nq/index.m3u8
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85672
@@ -125,7 +125,7 @@ http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85667
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85691
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/97
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
 
