@@ -9,11 +9,11 @@ http://cincotv.org:25461/Criss88/Cristhian88/187053
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8629
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-
+http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347673
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/15
+http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347666
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
@@ -23,7 +23,7 @@ http://cincotv.org:25461/Criss88/Cristhian88/187061
 
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/8636
+http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347668
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
@@ -31,7 +31,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347682
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8636
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
-http://190.171.83.2:4000/play/a0jz/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://cincotv.org:25461/Criss88/Cristhian88/187050
@@ -45,23 +45,23 @@ http://170.82.113.50:8899/play/a0g9/index.m3u8
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8642
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/13
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://cincotv.org:25461/Criss88/Cristhian88/187063
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-http://170.82.113.50:8899/play/a0iz/index.m3u8
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 http://cincotv.org:25461/Criss88/Cristhian88/187065
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
 
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
-http://170.82.113.50:8899/play/a0gd/index.m3u8
+http://tv.zapping.life:8080/ALFREDOSALINAS/730d553fec83/8648
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347687
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
@@ -80,11 +80,11 @@ http://cincotv.org:25461/Criss88/Cristhian88/187066
 
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-http://tv.zapping.life:8080/Fernando2024/Fernando2024/8638
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8638
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU COSTA
@@ -97,7 +97,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/120
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",UNIANDES TV
 http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85685
 
