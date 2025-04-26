@@ -7,7 +7,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347673
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA QUITO
 http://cincotv.org:25461/Criss88/Cristhian88/187053
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8629
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347673
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
@@ -15,7 +15,7 @@ http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347673
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://goldfull.pro:8880/ErickSaavedra88456/YyHkAxEGmvUv/347666
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347666
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
@@ -29,7 +29,7 @@ http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347682
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8636
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
 
 
@@ -42,7 +42,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347667
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
 http://170.82.113.50:8899/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/8642
+
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 
@@ -99,7 +99,7 @@ http://cincotv.org:25461/Criss88/Cristhian88/187066
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",UNIANDES TV
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85685
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",MANAVISION
 http://cincotv.org:25461/Criss88/Cristhian88/187071
@@ -116,7 +116,7 @@ http://tv.zapping.life:8080/Fernando2024/Fernando2024/85652
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SANGOLQUI TV
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85667
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",CANELA TV
 
@@ -133,7 +133,7 @@ http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85667
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NARANJAL TV "  tvg-logo="" group-title="TV | Ecuador",ONDA TV
-http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85694
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TV LEGISLATIVA "  tvg-logo="" group-title="TV | Ecuador",DURAN TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| CAPRICHO TV "  tvg-logo="" group-title="TV | Ecuador",RADIO BONITA
@@ -143,7 +143,7 @@ http://tv.zapping.life:8080/gladysvicmel/iiUBAWUAO9/85694
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LATACUNGA TV "  tvg-logo="" group-title="TV | Ecuador",PASION TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",ÑUKA TV
-http://tv.masterplaytv.club:8080/live/gladysvicmel/iiUBAWUAO9/85670.ts
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",CARCHI TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",AMERICA STEREO
