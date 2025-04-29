@@ -31,7 +31,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347682
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 http://177.234.230.206:8011/play/a0mi/index.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
-http://ch3.tdpsr.fyi:8080/bedoya001/23102023/187960?token=QhBQV0pRFg1HUgYHBwEABA1RAAcDCwlXVFMKUgEKCARbVlsCCl9VBlJAGRZEQEpQVQ5vWQYQAlIPUQFSCR4aRUpXSmlQXRYNR1MABQ4EGhkWF1ldBxACUgBSDVwMBw8IAR4aRlBdFg1HUwYHAgIPBRZPElUaRl0RWQdUO11XTllaVxoMV0xYW0lAWlpoUF1YVQ1UElgQCEEbRFEXSRACEn5zbn91eHpyP0JlZnh1ZEAEU1QBLRJoIngqeUR4fn1oeHx8ZHgbGBUHC0FGVkBdFw5BAQRTAhpPFQVXEVdGSkkbCBpzehsYFQAaQVFZR1FaWkEKEhZBGk8VD0s7S1dLREtXWVtcSxYNR1IXGBVZWU1rAF9eDFdbF14JVhcbCBoDGx4aW1ZXXUMKEGpEXlAaDxZRAgZRBABUFRs=
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://cincotv.org:25461/Criss88/Cristhian88/187050
@@ -834,7 +834,7 @@ http://177.234.230.206:8011/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 5
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",ZAPPING SPORTS 
-http://ch3.tdpsr.fyi:8080/bedoya001/23102023/244615?token=QhBQV0pRFg1HUwJVBgdZAA1aA1IDVg4GBFAPVwECXFNaUA0OXw4MVFBAGRZEQEpQVQ5vWQYQAlEDUg5VDB4aRUpXSmlQXRYNR1MABQ4EGhkWF1ldBxACUgBSDVwMBwkEDx4aRlBdFg1HUwAFBQMNDRZPElUaRl0RWQdUO11XTllaVxoMV0xYW0lAWlpoUF1YVQ1UElgQCEEbRFEXSRACEn5zbn91eHpyP0JlZnh1ZEAEU1QBLRJoIngqeUR4fn1oeHx8ZHgbGBUHC0FGVkBdFw5BAgJbBBpPFQVXEVdGSkkbCBpzehsYFQAaQVFZR1FaWkEKEhZBGk8VD0s7S1dLREtXWVtcSxYNR1IXGBVZWU1rAF9eDFdbF14JVhcbCBoDGx4aW1ZXXUMKEGpEXlAaDxZRBghXBw1XFRs=
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
@@ -1043,7 +1043,7 @@ http://170.82.113.50:8899/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://cincotv.org:25461/Criss88/Cristhian88/187081
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-http://ch3.tdpsr.fyi:8080/bedoya001/23102023/187904?token=QhBQV0pRFg1HBwcEA1IOBVBWUwNTUVlRUQMNUA5WWVEJVl0HX1wEDlVAGRZEQEpQVQ5vWQYQAlIPUQFUDR4aRUpXSmlQXRYNR1MABQ4EGhkWF1ldBxACUgBSDVwMBAsFDx4aRlBdFg1HUwYAAgQMBxZPElUaRl0RWQdUO11XTllaVxoMV0xYW0lAWlpoUF1YVQ1UElgQCEEbRFEXSRACEn5zbn91eHpyP0JlZnh1ZEAEU1QBLRJoIngqeUR4fn1oeHx8ZHgbGBUHC0FGVkBdFw5BBARQAxpPFQVXEVdGSkkbCBpzehsYFQAaQVFZR1FaWkEKEhZBGk8VD0s7S1dLREtXWVtcSxYNR1IXGBVZWU1rAF9eDFdbF14JVhcbCBoDGx4aW1ZXXUMKEGpEXlAaDxZRBglWBApTFRs=
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
