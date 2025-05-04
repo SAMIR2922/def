@@ -344,7 +344,6 @@ http://cincotv.org:25461/Criss88/Cristhian88/186503
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CIVILIZATION"  tvg-logo="" group-title="TV | Internacional",DISCOVERY CIVILIZATION
 
-
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
 http://181.209.114.13:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
