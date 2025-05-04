@@ -1430,7 +1430,7 @@ http://1play.cool:25461/TvClaudio1/64824f3156/58150
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
-http://1play.cool:25461/TvClaudio1/64824f3156/266571
+
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
 http://cincotv.org:25461/Criss88/Cristhian88/25633
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
@@ -1444,7 +1444,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
-http://1play.cool:25461/TvClaudio1/64824f3156/266503
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",El payaso Plim PLim
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Tom y Jerry
@@ -1598,10 +1598,10 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/95594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bastion 36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Blancanieves 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/429936.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bastion 36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La mujer de la sombra
 http://1play.cool:25461/movie/TvClaudio1/64824f3156/275286.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",G20
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/431813.mp4
