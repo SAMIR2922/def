@@ -1431,7 +1431,7 @@ http://1play.cool:25461/TvClaudio1/64824f3156/58150
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
-http://cincotv.org:25461/Criss88/Cristhian88/25633
+
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
 
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
@@ -1479,7 +1479,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94924
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Chicago Med
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94922
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Scooby doo
-http://cincotv.org:25461/Criss88/Cristhian88/186851
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",El coyote y el correcaminos
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Un hogar casi perfecto
@@ -1521,7 +1521,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308920
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Piratas del Caribe
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/101896.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Cantinflas
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
@@ -1595,9 +1595,9 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/95594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Miedo profundo 
 http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/427092.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Destino Final lazos de sangre 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/434261.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Karate kid leyendas
-http://cincotv.org:25461/movie/geovanny37/brito.39/330714.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La mujer de la sombra
