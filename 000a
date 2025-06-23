@@ -851,11 +851,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536427
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN SUR
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/136
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/27
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
@@ -865,7 +865,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/132
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="TV | Deportes",ESPN 2 
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
@@ -929,7 +929,7 @@ http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9573
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
@@ -939,7 +939,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9573
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM HD
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9550
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM ARG
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM SD
@@ -955,7 +955,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9550
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="" group-title="TV | Deportes",GOLTV INTERNACIONAL
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",GOLTV HD
-http://177.234.230.206:8011/play/a0lw/index.m3u8
+
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
@@ -986,17 +986,17 @@ http://177.234.230.206:8011/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-http://tv.iprotv.live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94808
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167734
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ECU
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9575
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
@@ -1016,7 +1016,7 @@ http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/308608
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
-http://tv.iprotv.live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149774
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
@@ -1026,7 +1026,7 @@ http://tv.iprotv.live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149774
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 SUR
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX 
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9593
+
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX HD
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM ARG " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM ARG
@@ -1072,7 +1072,7 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528360
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
@@ -1100,7 +1100,7 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9565
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC 
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167743
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC SD
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9610
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",RALLY TV
 
 
@@ -1168,7 +1168,7 @@ http://177.234.230.206:8011/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT BUNDESLIGA
-http://45.68.35.218:4001/play/a00c/index.m3u8
+
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",WWE NETWORK
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
@@ -1437,7 +1437,7 @@ http://1play.cool:25461/TvClaudio1/64824f3156/58150
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
 
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
+
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Hasta que la plata nos separe
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
@@ -1475,9 +1475,9 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/92230
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",Juego de tronos
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",CSI MIAMI
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94924
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Chicago Med
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94922
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Scooby doo
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",El coyote y el correcaminos
@@ -1501,7 +1501,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94922
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar 1
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94820
+
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",Diarios de vampiros
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
@@ -1511,7 +1511,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94820
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",John Wick
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94206
+
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Alerta Aereopuerto
 
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 1
@@ -1547,7 +1547,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308920
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 9
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 10
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94985
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 11
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 12
@@ -1587,13 +1587,13 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/315936
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/305780
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/95594
+
 #EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Miedo profundo 
-http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/427092.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Lilo Stich
 http://playlist3456544.ddns.net:8080/movie/valentinrada589/9VnDJJyMqT/266083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El abismo secreto 
@@ -1605,7 +1605,7 @@ http://1play.cool:25461/movie/TvClaudio1/64824f3156/275286.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",G20
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/431813.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Operación Venganza 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/432022.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Implacable 
 http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/570047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El asesino del calendario
@@ -1617,7 +1617,7 @@ http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/427207.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mufasa
 http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/422614.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones 2
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/425335.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alice
 http://vddgcoud02.gd34fdldh.xyz:80/vod/C1477AC3755D4D17AE0DDD01D039DF94_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Leon salvaje
