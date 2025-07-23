@@ -25,7 +25,7 @@ http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/198789
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/275598
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347682
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
@@ -34,7 +34,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347682
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/198804
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
@@ -45,7 +45,7 @@ http://170.82.113.50:8899/play/a0g9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/469056
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
@@ -54,7 +54,7 @@ http://netlevel.online:8080/PabloFernandez21/TJMEQ/469056
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://177.234.230.206:8011/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/198806
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
@@ -82,7 +82,7 @@ https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
 http://177.234.230.206:8011/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/198809
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
@@ -152,7 +152,7 @@ http://177.234.230.206:8011/play/a097/index.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="" group-title="TV | Internacional",HISTORY 
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/242013
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
@@ -161,7 +161,7 @@ http://netlevel.online:8080/PabloFernandez21/TJMEQ/242013
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/439767
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 SD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 SD
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
@@ -170,7 +170,7 @@ http://netlevel.online:8080/PabloFernandez21/TJMEQ/439767
 
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/241996
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E SD
 http://181.119.111.25:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
@@ -194,9 +194,9 @@ http://181.119.111.25:8000/play/a0c0/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-http://mundod.ddns.me:2082/Beatrizvictor/FMc9St3fcWkf/2642
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/54282
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 http://181.119.111.25:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
@@ -214,25 +214,25 @@ http://177.234.230.206:8011/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414462
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/159126
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
-http://mundod.ddns.me:2082/Beatrizvictor/FMc9St3fcWkf/7011
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 LAT
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414465
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
 http://181.119.111.25:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-http://mundod.ddns.me:2082/Beatrizvictor/FMc9St3fcWkf/2644
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/439797
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY LATINO
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/198755
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
 http://181.119.111.25:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
@@ -240,7 +240,7 @@ http://181.119.111.25:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/185175
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 http://181.119.111.25:8000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
@@ -288,7 +288,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414480
 
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/9517
+
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
@@ -296,9 +296,9 @@ http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET SD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/452238
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/276310
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
@@ -319,41 +319,41 @@ http://netlevel.online:8080/PabloFernandez21/TJMEQ/276310
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
 http://190.60.56.41:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/273322
+
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H SD
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/10769
+
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILA
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/54283
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/36466
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION "  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/53051
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/53077
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD FHD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CIVILIZATION"  tvg-logo="" group-title="TV | Internacional",DISCOVERY CIVILIZATION
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/439788
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://190.60.56.41:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/54154
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-http://netlevel.online:8080/PabloFernandez21/TJMEQ/452237
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
@@ -925,7 +925,7 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536439
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
 http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
-http://tv.nousiptv.com:8080/Chifer90/Coche90/42456
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
@@ -1058,13 +1058,13 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167731
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 http://1play.cool:25461/TvClaudio1/64824f3156/76985
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/84793
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/528347
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528360
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-http://104.238.205.28:8989/278758_.m3u8
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1091366
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
@@ -1595,7 +1595,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308920
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 2
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/306527
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 1
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/306411
+
 #EXTINF:-1 tvg-id="" tvg-name="SAW" tvg-logo="" group-title="24/7 | 24/7",Volver al futuro
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308474
 #EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",Chucky
