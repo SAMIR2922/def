@@ -857,9 +857,9 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1155888
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513236.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536427.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://38.41.8.1:8000/play/a06r
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -877,7 +877,7 @@ http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167724
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://38.41.8.1:8000/play/a07q
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536475.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
@@ -885,11 +885,11 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536431
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1155890
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513245.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
 http://181.78.12.164:9000/play/a03w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536432.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
@@ -903,7 +903,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1118360
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513249.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536436
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 HD" tvg-logo="" group-title="TV | Deportes",ESPN 5 HD
@@ -911,7 +911,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1198287
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 CENTRAL
 http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513252.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
@@ -922,12 +922,14 @@ http://38.41.8.1:8000/play/a082
 http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1197851
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 PERU
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513254.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536439
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
 http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513255.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
@@ -1006,7 +1008,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/16139
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
 http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/308608
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513263.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
@@ -1018,7 +1020,7 @@ http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/308608
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://tv.nousiptv.com:8080/Chifer90/Coche90/33475
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513267.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
@@ -1060,13 +1062,13 @@ https://nxt.plus:8443/sofiargg/231015/244286.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 https://nxt.plus:8443/sofiargg/231015/116424.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513296.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/528347
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528360
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513295.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1091366
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
@@ -1092,7 +1094,7 @@ https://nxt.plus:8443/sofiargg/231015/244288.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1091368
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513298.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
@@ -1102,7 +1104,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1091368
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC 
 http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167743
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC SD
-
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513304.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",RALLY TV
 
 
@@ -1117,8 +1119,8 @@ http://38.41.8.1:8000/play/a050
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVISION SPORT" tvg-logo="" group-title="TV | Deportes",UNIVISION SPORT
 
-#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| PREMIER SPORT" tvg-logo="" group-title="TV | Deportes",PREMIER SPORT
-
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| PREMIER SPORT" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE
+http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513301.ts
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 
