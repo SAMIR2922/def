@@ -172,7 +172,7 @@ https://nxt.plus:8443/sofiargg/231015/9783.ts
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 http://38.41.8.1:8000/play/a07v
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E SD
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/186628
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
@@ -212,7 +212,7 @@ http://177.234.230.206:8011/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/159126
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/159126
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -226,7 +226,7 @@ https://nxt.plus:8443/sofiargg/231015/43537.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/439797
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/439797
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY LATINO
@@ -273,7 +273,7 @@ https://nxt.plus:8443/sofiargg/231015/16925.ts
 
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/55511
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO HD
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/55511
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO SD
@@ -281,7 +281,7 @@ http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/55511
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/439760
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/439760
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
@@ -357,7 +357,7 @@ https://nxt.plus:8443/sofiargg/231015/167088.ts
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/242027
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 https://nxt.plus:8443/sofiargg/231015/43534.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
@@ -371,7 +371,7 @@ https://nxt.plus:8443/sofiargg/231015/183277.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
 http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/9349
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE LATINO
 http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/9349
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
@@ -389,7 +389,7 @@ http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/67425
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 https://nxt.plus:8443/sofiargg/231015/196524.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/222829
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
 http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/439808
@@ -577,7 +577,7 @@ https://nxt.plus:8443/sofiargg/231015/24818.ts
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
 https://nxt.plus:8443/sofiargg/231015/172514.ts
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC HD
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/186852
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC LATINO
@@ -585,7 +585,7 @@ https://nxt.plus:8443/sofiargg/231015/172514.ts
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 https://nxt.plus:8443/sofiargg/231015/1021.ts
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",AXN 
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/439779
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
@@ -627,13 +627,13 @@ https://nxt.plus:8443/sofiargg/231015/172506.ts
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE 
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/225716
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/225716
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
 https://nxt.plus:8443/sofiargg/231015/16903.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/54167
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
@@ -694,7 +694,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA" tvg-logo="" group-title="TV | Internacional",DE PELICULA
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/53095
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA PLUS" tvg-logo="" group-title="TV | Internacional",DE PELICULA PLUS
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/53095
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
