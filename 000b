@@ -13,7 +13,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/53455
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/198789
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
-http://gama-mx.com:8080/Diegojama16/Djama04082022/280090
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
@@ -63,7 +63,7 @@ http://gama-mx.com:8080/Diegojama16/Djama04082022/280091
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://104.243.38.5:8989/279331_.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/347687
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://gama-mx.com:8080/Diegojama16/Djama04082022/381934
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
@@ -283,7 +283,7 @@ http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/439760
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414480
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
 
 
@@ -357,7 +357,7 @@ https://nxt.plus:8443/sofiargg/231015/167088.ts
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414507
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 https://nxt.plus:8443/sofiargg/231015/43534.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
@@ -365,7 +365,7 @@ http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/242027
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/242027
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/414510
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
 https://nxt.plus:8443/sofiargg/231015/183277.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE HD
@@ -396,18 +396,18 @@ http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/439808
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT HD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT HD
 http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/242033
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT SD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT SD
-http://181.119.111.25:8000/play/a0do/index.m3u8
+
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT FHD" tvg-logo="" group-title="TV | Internacional",PARAMOUNT FHD
 https://nxt.plus:8443/sofiargg/231015/3268.ts
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
-http://181.119.111.25:8000/play/a0g9/index.m3u8
+
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
 https://nxt.plus:8443/sofiargg/231015/188016.ts
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER HD" tvg-logo="" group-title="TV | Internacional",WARNER HD
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER FHD" tvg-logo="" group-title="TV | Internacional",WARNER FHD
-http://181.78.67.178:1010/play/a019/index.m3u8
+
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 https://nxt.plus:8443/sofiargg/231015/3271.ts
@@ -441,7 +441,7 @@ https://nxt.plus:8443/sofiargg/231015/43562.ts
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY CHILE
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
-http://181.119.111.25:8000/play/a0c7/index.m3u8
+
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES HD" tvg-logo="" group-title="TV | Internacional",SONY MOVIES HD
 https://nxt.plus:8443/sofiargg/231015/187966.ts
 
@@ -873,7 +873,7 @@ http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://tv.nousiptv.com:8080/Chifer90/Coche90/43637
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167724
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://38.41.8.1:8000/play/a07q
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
@@ -1062,13 +1062,13 @@ https://nxt.plus:8443/sofiargg/231015/244286.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 https://nxt.plus:8443/sofiargg/231015/116424.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513296.ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/528347
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528360
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513295.ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1091366
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
@@ -1084,9 +1084,9 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1091367
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167733
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528363
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9565
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -1102,7 +1102,7 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513298.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC 
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/167743
+
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC SD
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513304.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",RALLY TV
@@ -1120,7 +1120,7 @@ http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVISION SPORT" tvg-logo="" group-title="TV | Deportes",UNIVISION SPORT
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| PREMIER SPORT" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513301.ts
+
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 
@@ -1240,23 +1240,23 @@ http://ruvooidbk.cisantkdh.com:80/vod/43F61E1336FB40EFB61151F71161AC24_media.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",El juego del calamar S01 E01
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315581.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E02
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315582.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E03
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315583.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E04
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315584.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E05
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315585.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E06
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315586.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E07
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315587.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E08
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315588.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES",El juego del calamar S01 E09
-http://venuschiletv.lat:8880/series/2RxwbMTdpjLr/dsdjg2Lfpf35/315589.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES",Los anillos de poder S01 E01
 
@@ -1535,9 +1535,9 @@ https://nxt.plus:8443/sofiargg/231015/91928.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Alerta Aereopuerto
 
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 1
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308919
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 2
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308920
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Piratas del Caribe
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
@@ -1597,15 +1597,15 @@ https://nxt.plus:8443/sofiargg/231015/119347.ts
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
 
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 2
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/306527
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 1
 
 #EXTINF:-1 tvg-id="" tvg-name="SAW" tvg-logo="" group-title="24/7 | 24/7",Volver al futuro
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/308474
+
 #EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",Chucky
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/315936
+
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
-http://venuschiletv.lat:8880/2RxwbMTdpjLr/dsdjg2Lfpf35/305780
+
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
 
 #EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
@@ -1629,19 +1629,19 @@ http://ptccloud.lsdwedsfsc.site:80/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Un paseo para recordar 
 http://gama-mx.com:8080/movie/Diegojama16/Djama04082022/694927.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",G20
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/431813.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Operación Venganza 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/438188.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Implacable 
 http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/570047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El asesino del calendario
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/423694.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Turno Nocturno 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/431173.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Henry Danger
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/427207.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mufasa
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/422614.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones 2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alice
@@ -1649,9 +1649,9 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/C1477AC3755D4D17AE0DDD01D039DF94_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Leon salvaje
 http://tv.zapping.life:8080/movie/Juan1/DPDNFED9Xr/5052.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Sala de espera
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/259775.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Aprende a soltar
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/419992.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Moana 2
 http://playlist3456544.ddns.net:8080/movie/valentinrada589/9VnDJJyMqT/252779.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alerta extrema
@@ -1661,7 +1661,7 @@ http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/551444.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
 http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Una pequeña confusión 
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/431174.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Robot Salvaje.
 http://vddgcoud02.gd34fdldh.xyz:80/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Contagio
