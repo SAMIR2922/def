@@ -196,7 +196,7 @@ https://nxt.plus:8443/sofiargg/231015/15302.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
 http://195.66.210.10:8080/granAve/J3Z3mKUFMLWh/242029
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/54282
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
@@ -1040,7 +1040,7 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513267.ts
 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/198814
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://170.82.113.50:8899/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
@@ -1062,7 +1062,7 @@ https://nxt.plus:8443/sofiargg/231015/244286.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
 https://nxt.plus:8443/sofiargg/231015/116424.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/456658
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
 http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/528347
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
@@ -1096,7 +1096,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1091368
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513298.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
-
+http://195.66.210.10:8080/wilmer1701/RVKVN/310535
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
