@@ -835,7 +835,7 @@ http://205.235.6.29:8000/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 5
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",ZAPPING SPORTS 
-http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/532993
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
@@ -843,7 +843,7 @@ http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/532993
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
-http://gama-mx.com:8080/Diegojama16/Djama04082022/675591
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1155904
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
@@ -851,15 +851,15 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1155904
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536427
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN SUR
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1155888
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513236.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536427.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://38.41.8.1:8000/play/a06r
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -877,19 +877,19 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/43637
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
 http://38.41.8.1:8000/play/a07q
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536475.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536431
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1155890
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513245.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
 http://181.78.12.164:9000/play/a03w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536432.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
@@ -897,25 +897,25 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536432.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://205.235.6.29:8000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536433
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1118360
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513249.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536436
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 HD" tvg-logo="" group-title="TV | Deportes",ESPN 5 HD
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1198287
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 CENTRAL
 http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513252.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536437
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 HD
 http://38.41.8.1:8000/play/a082
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 SUR
@@ -923,13 +923,13 @@ http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1197851
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 PERU
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513254.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/536439
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
 http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513255.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
@@ -986,7 +986,7 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1092639
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
-https://nxt.plus:8443/sofiargg/231015/262027.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
@@ -1006,9 +1006,9 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/16139
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
-http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/308608
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513263.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
@@ -1020,7 +1020,7 @@ http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513263.ts
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://tv.nousiptv.com:8080/Chifer90/Coche90/33475
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513267.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
@@ -1058,15 +1058,15 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/109833
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 8
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-https://nxt.plus:8443/sofiargg/231015/244286.ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-https://nxt.plus:8443/sofiargg/231015/116424.ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://195.66.210.10:8080/wilmer1701/RVKVN/456658
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
-http://tvlatino.club:2082/Benites85/TtWVnk8BvaUN/528347
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/528360
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
@@ -1090,11 +1090,11 @@ http://tv.nousiptv.com:8080/Chifer90/Coche90/1091367
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9565
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-https://nxt.plus:8443/sofiargg/231015/244288.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://tv.nousiptv.com:8080/Chifer90/Coche90/1091368
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513298.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 http://195.66.210.10:8080/wilmer1701/RVKVN/310535
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
@@ -1104,7 +1104,7 @@ http://195.66.210.10:8080/wilmer1701/RVKVN/310535
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC SD
-http://tvlatino.club:2082/chu100/FrmxBkw4rN7p/513304.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",RALLY TV
 
 
@@ -1129,7 +1129,7 @@ http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER UNITED" tvg-logo="" group-title="TV | Deportes",MANCHESTER UNITED
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
-https://nxt.plus:8443/sofiargg/231015/192577.ts
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
 
 
@@ -1461,7 +1461,7 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Hasta que la plata nos separe
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
-https://nxt.plus:8443/sofiargg/231015/214265.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
 http://195.66.210.10:80/wilmer1701/RVKVN/169798
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",El payaso Plim PLim
@@ -1483,17 +1483,17 @@ http://195.66.210.10:80/wilmer1701/RVKVN/217550
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
 
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
-https://nxt.plus:8443/sofiargg/231015/256023.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
-https://nxt.plus:8443/sofiargg/231015/177641.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL 
 
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",La pantera rosa
-https://nxt.plus:8443/sofiargg/231015/140916.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",Bonanza
-https://nxt.plus:8443/sofiargg/231015/91928.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",CSI MIAMI
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Chicago Med
@@ -1545,11 +1545,11 @@ http://195.66.210.10:80/wilmer1701/RVKVN/531669
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Cantinflas
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
-http://195.66.210.10:80/wilmer1701/RVKVN/177326
+
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
-https://nxt.plus:8443/sofiargg/231015/119347.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
@@ -1621,19 +1621,19 @@ https://nxt.plus:8443/sofiargg/231015/119347.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Superman y crypto
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final lazos de sangre
-http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/576091.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Lilo Stich
 http://playlist3456544.ddns.net:8080/movie/valentinrada589/9VnDJJyMqT/266083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El abismo secreto 
 http://ptccloud.lsdwedsfsc.site:80/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp4?dev_id=d4b01e56a22baa88e714bf133b224674&user_id=163513436&trans_id=KcPwpsLAYss6_waiCbTgCYP2o&expired=1748970204&app_id=magmob&app_ver=51306&host=ptccloud.lsdwedsfsc.site&media_code=EB0FA76841BD42FE88BC2D90DE326252&auth_id=163513436_magmob__0&client_ip=66.231.70.113&Expires=1748970204&KeyName=&Signature=6k6rcHk0dJTnyhQ8g75CRIC5VHY=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Un paseo para recordar 
-http://gama-mx.com:8080/movie/Diegojama16/Djama04082022/694927.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",G20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Operación Venganza 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Implacable 
-http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/570047.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El asesino del calendario
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Turno Nocturno 
@@ -1657,7 +1657,7 @@ http://playlist3456544.ddns.net:8080/movie/valentinrada589/9VnDJJyMqT/252779.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alerta extrema
 http://vddgcoud02.gd34fdldh.xyz:80/vod/9C2E811F108547DEB70859FE6B73A82E_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Minecraft 
-http://tvlatino.club:2082/movie/chu100/FrmxBkw4rN7p/551444.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Proyecto extraccion
 http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Una pequeña confusión 
@@ -1891,9 +1891,9 @@ https://bank.bemtv.cn/vod01/Movies/vod16286wxNEtb/vod16286wxNEtb_720.mp4/index.m
 #EXTINF:-1 tvg-id="" tvg-name="Los extraños" tvg-logo="" group-title="VOD | Peliculas",Scarygirl
 
 #EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 1" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 1
-http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 3" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 3
-http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 4" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 4
 http://208.88.245.85/nuevo/los.indestructibles4.dual2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Up" tvg-logo="" group-title="VOD | Peliculas",Up
@@ -2016,11 +2016,11 @@ http://208.88.245.85/nuevo/megan.dual.2022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
 http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 1
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 2
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 3
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
 http://ruvooidbk.cisantkdh.com:80/vod/2ADCF4DDE96E4451A633E008FB5E843B_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
@@ -2034,7 +2034,7 @@ http://vod1.tdpsr.fyi/vauth/Rrg3ppD-1mjiyfPmR2n-tajUP-CJtgRH99NqtuemhR5RzvM9jVF5
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Terremoto
-http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 9
@@ -2042,7 +2042,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 10
 http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="" group-title="VOD | Peliculas",Escuadron suicida
-http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="" group-title="VOD | Peliculas",A prueba de fuego
@@ -2058,15 +2058,15 @@ http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
-http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
-http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight%20rises.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Correr o morir 1" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 1
-http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Correr o morir 2" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 2
-http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Correr o morir 3" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 3
-http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Transformers 1" tvg-logo="" group-title="VOD | Peliculas",Transformers 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Todopoderoso 1" tvg-logo="" group-title="VOD | Peliculas",Todopoderoso 1
@@ -2074,43 +2074,43 @@ http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman lejos de casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman lejos de casa
 
 #EXTINF:-1 tvg-id="" tvg-name="Depredador: la presa" tvg-logo="" group-title="VOD | Peliculas",Depredador: la presa
-http://vod.tuxchannel.mx/peliculas/720/prey%202022.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Alien vs Depredador" tvg-logo="" group-title="VOD | Peliculas",Alien vs Depredador
 
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 1" tvg-logo="" group-title="VOD | Peliculas",El transportador 1
-http://vod.tuxchannel.mx/peliculas/720/the%20transporter.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 2" tvg-logo="" group-title="VOD | Peliculas",El transportador 2
-http://vod.tuxchannel.mx/peliculas/720/the%20transporter%202.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
-http://vod.tuxchannel.mx/peliculas/720/transporter%203.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
-http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
-http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie 2" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie 2
-http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
-http://vod.tuxchannel.mx/peliculas/720/world%20war%20z%202013.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 2" tvg-logo="" group-title="VOD | Peliculas",Inframundo 2
-http://vod.tuxchannel.mx/peliculas/720/inframundo.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 3" tvg-logo="" group-title="VOD | Peliculas",Inframundo 3
-http://vod.tuxchannel.mx/peliculas/720/inframundo%20la%20evolucion.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
 
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 5" tvg-logo="" group-title="VOD | Peliculas",Inframundo 5
 
 #EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
-http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",Joker
 http://fina.dyndns.tv/Peliculas/Joker.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
 
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",Rambo  ultima sangre
-http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
 http://uyjj.xmqkychtb.com:80/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4?dev_id=d4b01e56a22baa88e714bf133b224674&user_id=163513436&trans_id=ChTsjaTzsB4_3bpPoXMr5ijh&expired=1756434289&app_id=magmob&app_ver=51306&host=uyjj.xmqkychtb.com&media_code=DCE39BE95A0C40889B3189F3CA0E0F97&auth_id=163513436_magmob__0&client_ip=177.234.217.54&Expires=1756434289&KeyName=&Signature=58XcmKYQ8up_6iWoIzTpgJbFI_I=
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
@@ -2118,7 +2118,7 @@ http://uyjj.xmqkychtb.com:80/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4?dev_
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Spirit el corcel indomable
 
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
-http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
 http://vddgcoud02.gd34fdldh.xyz:80/vod/23ADE9E17A064E12BEE75378DD91D194_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="" group-title="VOD | Peliculas",No manches Frida
@@ -2126,9 +2126,9 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/23ADE9E17A064E12BEE75378DD91D194_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 https://content-na.drive.amazonaws.com/cdproxy/share/xBf2JOWtOpnnhCWtWCAV3Ty3K041EDKRgblsrUqdir8/nodes/rkRLodYHTVCcDofVWbMCyg?nonce=4oyWAIeqTeWAETYsZWutoumgP5aohP_meHKgb-WR6E2uoUFegVQxWhQcucGVVSVH&download=true&ownerId=A1UL3LSS0WHJ1U
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Rascacielos
-http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
@@ -2150,7 +2150,7 @@ http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
 
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
-http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 1" tvg-logo="" group-title="VOD | Peliculas",Terminator 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 2" tvg-logo="" group-title="VOD | Peliculas",Terminator 2
@@ -2162,11 +2162,11 @@ http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
-http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",Madagascar 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Madagascar 2
@@ -2197,7 +2197,7 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/0297F3291CBD4B26A790CDC3C6BF128D_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Las locuras del emperador
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",La pasion de Cristo
-http://vod.tuxchannel.mx/peliculas/720/the%20passion%20of%20the%20christ.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
@@ -2223,11 +2223,11 @@ http://ia601507.us.archive.org/32/items/ElBoleroDeRaquelWWw.DescargateloCorp.CoM
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
 
 #EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
-http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
-http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 3
-http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la desolacion de smaug
 
@@ -2242,9 +2242,9 @@ http://vddgcoud02.gd34fdldh.xyz:80/vod/BCAC9F6398594FFAAC15CB6E33372161_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/284431.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
-http://venuschiletv.lat:8880/movie/2RxwbMTdpjLr/dsdjg2Lfpf35/293916.mp4
+
 
 
 
