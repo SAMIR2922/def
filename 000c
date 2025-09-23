@@ -1614,8 +1614,16 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/94985
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Riesgo
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Riesgo
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Velocidad salvaje
+http://195.66.210.10:8080/movie/Sergio1/ZERND/614975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Cocodrilos en el pantano 
+http://195.66.210.10:8080/movie/Sergio1/ZERND/615821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", En la línea de fuego
+http://195.66.210.10:8080/movie/Sergio1/ZERND/616356.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Riesgo bajo cero 2
 http://tv.nousiptv.com:8080/movie/Chifer90/Coche90/1253777.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Superman y crypto
