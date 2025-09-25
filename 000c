@@ -175,7 +175,7 @@ http://195.66.210.10:8080/wilmer1701/RVKVN/186628
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
-
+http://195.66.210.10:80/Sergio1/ZERND/186628
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E HQ
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
@@ -574,7 +574,7 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9717
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="" group-title="TV | Internacional",AMC HQ
 http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9619
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
-
+http://195.66.210.10:80/Sergio1/ZERND/439762
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC HD
 http://195.66.210.10:8080/wilmer1701/RVKVN/186852
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
@@ -586,7 +586,7 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/9622
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",AXN 
 http://195.66.210.10:8080/wilmer1701/RVKVN/439779
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
-
+http://195.66.210.10:80/Sergio1/ZERND/241995
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
@@ -1147,7 +1147,7 @@ http://195.66.210.10:80/wilmer1701/RVKVN/199538
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 3" tvg-logo="" group-title="TV | Deportes",DAZN 3
 http://195.66.210.10:80/wilmer1701/RVKVN/199537
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 3" tvg-logo="" group-title="TV | Deportes",DAZN 4
-
+http://195.66.210.10:80/Sergio1/ZERND/199536
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
@@ -1155,7 +1155,7 @@ http://195.66.210.10:80/wilmer1701/RVKVN/199537
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 http://195.66.210.10:80/wilmer1701/RVKVN/485252
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
-
+http://195.66.210.10:80/Sergio1/ZERND/485252
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 BOL
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN SPORT PLUS" tvg-logo="" group-title="TV | Deportes",WIN SPORT PLUS
@@ -1444,7 +1444,7 @@ http://ruvooidbk.cisantkdh.com:80/vod/43F61E1336FB40EFB61151F71161AC24_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Exponiendo infieles
 
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
-
+http://195.66.210.10:80/Sergio1/ZERND/531614
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
@@ -1476,7 +1476,7 @@ http://195.66.210.10:80/wilmer1701/RVKVN/169798
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
 
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",Kung fu panda
-
+http://195.66.210.10:80/Sergio1/ZERND/177183
 #EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Ranma
 http://195.66.210.10:80/wilmer1701/RVKVN/217550
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
@@ -1500,7 +1500,7 @@ http://tv.zapping.life:8080/Juan1/DPDNFED9Xr/94922
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Scooby doo
 http://195.66.210.10:80/wilmer1701/RVKVN/108059
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",El coyote y el correcaminos
-
+http://195.66.210.10:80/Sergio1/ZERND/216294
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Un hogar casi perfecto
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
