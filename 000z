@@ -18,14 +18,14 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360528
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/a23aca9a-2608-48ea-8d7e-87c5d9bfca1c.m3u
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
 
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360531
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/a58878a5-f63b-43e5-882b-7c831b9323c8.m3u
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/726.ts
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
@@ -38,7 +38,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/34986.ts
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360518
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/b8350ede-66cb-498f-bdcd-fc28ea16768e.m3u
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
 http://170.82.113.50:8899/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
@@ -56,7 +56,7 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8634
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360524
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/33f39794-01d9-49a2-96a8-bedbb03f54c2.m3u
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
@@ -84,7 +84,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360536
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/360523
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9cdd22df-e783-47b0-9da6-6cdb9b4e263d.m3u
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
@@ -175,7 +175,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/53483
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 http://38.41.8.1:8000/play/a07v
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9758a3c6-9fed-4a69-8026-e7b1e1210c84.m3u
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/5
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
@@ -215,7 +215,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/54581.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/129c8a38-2396-443b-bfc5-9f4328a0b53b.m3u
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/42
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -261,7 +261,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/45
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1244
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/a1ed04bf-2f9a-45eb-852f-15427b64ea28.m3u
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
@@ -284,7 +284,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/100681
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1252
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/20f8ec0a-53ad-4db9-b53a-e90173a24c13.m3u
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
@@ -364,7 +364,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1287
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1288
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/2a36ba28-f6f2-45b1-ab48-d4fca092a99f.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
@@ -376,11 +376,11 @@ http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/317528
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE LATINO
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/3d41d664-ec60-4542-8b46-f470b097e61f.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/0b2368d6-b121-4db4-b7e9-ccd4a28eafbb.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/53940
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
@@ -436,7 +436,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111419
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/6733.ts
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/2cca9a35-099a-46e7-b5a2-474eaedd5b74.m3u
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 2
@@ -459,7 +459,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/30
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
 http://38.41.8.1:8000/play/a04w
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/e76fbc1d-d28e-4be9-bbec-e6ba68f96849.m3u
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL FHD" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL FHD
@@ -526,9 +526,9 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/69264
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/69271
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/335341a6-6118-4b57-bcfb-06d5754eefdd.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/6777d0f3-0703-457c-909d-95d85ed9693d.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",SONY NOVELAS
@@ -570,7 +570,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22219.ts
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1280
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/44c8eb9b-6f2f-4c1c-b2c1-c39e18c82965.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE SUR
@@ -592,7 +592,7 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/9624
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/3e67c892-c401-4572-9d0b-ce5467709195.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
@@ -638,7 +638,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22166.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/7
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9adf08cb-f33f-4614-888d-26b3973992ad.m3u
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
@@ -786,7 +786,7 @@ http://38.41.8.1:8000/play/a058
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS" tvg-logo="" group-title="TV | Infantiles",DISCOVERY KIDS 
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/132702
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/8f5cf8f2-e01f-4377-973c-615600d22c07.m3u
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://i.ibb.co/ZgZx1My/natgeo-kids.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
@@ -798,7 +798,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/132689
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV SD
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/7a20352b-0d29-4e90-b43a-e1e573d5c16c.m3u
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST SD
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| SEMILLITAS" tvg-logo="" group-title="TV | Infantiles",BOOMERANG
@@ -862,7 +862,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306384
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22111.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/b96685fc-3ccc-4f13-b85a-6c279423fd24.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 http://38.41.8.1:8000/play/a06r
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -872,7 +872,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92722.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="TV | Deportes",ESPN 2 
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/028bb80d-d68c-40a2-806b-a2d1914bfd07.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/81258
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
@@ -888,7 +888,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95574.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306388
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/5b830542-3303-4fd8-ad41-8c699e9ba3df.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
 http://181.78.12.164:9000/play/a03w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
@@ -898,7 +898,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22113.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/f1b4eb1d-6368-4851-96f1-9e604d050404.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95575.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
@@ -914,7 +914,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306392
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 CENTRAL
 http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/25c682e1-6306-4707-a98c-ddc7c4923d46.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
@@ -926,7 +926,7 @@ http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306394
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 PERU
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/2c22bcd5-e7b3-4086-84f8-ddad989468ee.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306396
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
@@ -934,7 +934,7 @@ http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22108.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/52bdea01-2c7b-43a2-ac75-6bde91279c07.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
@@ -991,7 +991,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/90082.ts
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/4e1ad266-63e2-41cf-b98c-1acefba4276a.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50506
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
@@ -1015,7 +1015,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/34588.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/bed2a180-9784-4a9b-93a3-c36a433e9dcd.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CENTRAL
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
@@ -1027,7 +1027,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/34589.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50508
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/709dd0b1-5bcc-46c6-91e2-42b267c36b16.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 SUR
@@ -1049,9 +1049,9 @@ http://170.82.113.50:8899/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/107639
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/e319b9ad-9248-46ad-93d0-eeff0ff813df.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/64dfc67a-1a42-4293-97d4-9721b25716c2.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 6
@@ -1075,7 +1075,7 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8625
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50724
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/231150d2-d876-4057-9f13-9a11067c97b1.m3u
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -1089,7 +1089,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50726
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/065b0e39-e720-4344-b266-618be35eb66c.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -1179,9 +1179,9 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/81252
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| DEXERY" tvg-logo="" group-title="TV | Deportes",WWE NETWORK
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ebde71cb-fee2-461c-8fc5-7f8085f266b3.m3u
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/75af040a-85ea-4cb1-8664-ce3a372c26c3.m3u
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
