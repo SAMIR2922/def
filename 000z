@@ -1452,7 +1452,7 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/94993
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
-
+http://flx.lat:8080//live/Clemente2024/J5XtVRb6KPLj/126518.ts
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/366253
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
@@ -1536,7 +1536,7 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/94859
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/317129
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Alerta Aereopuerto
-
+http://flx.lat:8080//live/Clemente2024/J5XtVRb6KPLj/124252.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 1
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/317132
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 2
@@ -1635,6 +1635,16 @@ http://daleplaytv.vip/movie/CarlosVasconez/Amalie33/407463.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final lazos de sangre
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 5
+http://flx.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/1220.avi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 4
+http://flx.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/1219.avi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 3
+http://flx.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/1218.avi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 2
+http://flx.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/1217.avi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 1
+http://flx.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/1216.avi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Lilo Stich
 http://playlist3456544.ddns.net:8080/movie/valentinrada589/9VnDJJyMqT/266083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El abismo secreto 
