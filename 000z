@@ -197,7 +197,7 @@ http://38.183.182.166:8000/play/a0rs/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-
+http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
@@ -209,7 +209,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/54
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1242
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
-
+http://38.183.182.166:8000/play/a0vx/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="" group-title="TV | Internacional",HBO POP HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/54581.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
@@ -219,7 +219,7 @@ http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/129c8a38-2396-443b-bfc5-9f4
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/42
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
-
+http://45.5.119.43:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 FHD"  tvg-logo="" group-title="TV | Internacional",HBO 2 LAT
@@ -227,7 +227,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/42
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/29066.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY SD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY SD
-
+http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
@@ -239,7 +239,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22209.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/49
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
-
+http://45.5.119.43:4000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS FHD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS FHD
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
@@ -247,17 +247,17 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/55754.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/47
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
-
+http://38.49.128.38:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
-
+http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-
+http://177.234.230.206:8011/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI HD
-
+http://38.183.182.166:8000/play/a0t2/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/45
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE HD
-
+http://177.234.230.206:8011/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1244
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
@@ -286,7 +286,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1252
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/20f8ec0a-53ad-4db9-b53a-e90173a24c13.m3u
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
-
+http://38.183.182.166:8000/play/a0vf/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
 
 
@@ -366,7 +366,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1288
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/2a36ba28-f6f2-45b1-ab48-d4fca092a99f.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
-
+http://181.119.64.227:5070/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92603.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
@@ -378,7 +378,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/317528
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE LATINO
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/3d41d664-ec60-4542-8b46-f470b097e61f.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
-
+http://181.119.64.227:5070/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/0b2368d6-b121-4db4-b7e9-ccd4a28eafbb.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
@@ -389,6 +389,8 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/53940
 http://181.78.12.164:9000/play/a07e
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1293
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN PREMIER HD
+http://200.115.96.66:4000/play/a01r/index.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92605.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
@@ -410,7 +412,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92959.ts
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER HD" tvg-logo="" group-title="TV | Internacional",WARNER HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1259
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER FHD" tvg-logo="" group-title="TV | Internacional",WARNER FHD
-
+http://38.183.182.166:8000/play/a0vh/index.m3u8
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://179.49.163.34:45000/play/a01x/index.m3u8
@@ -423,7 +425,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111420
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111421
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA HD"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA HD
-
+http://38.159.227.122:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111422
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
@@ -431,7 +433,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111417
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/111419
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
-
+http://38.159.227.122:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/6733.ts
@@ -489,21 +491,21 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/86095
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
-
+http://45.177.179.227:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/93059
-#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",MIX MUSIC
-
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",TELEHIT
+http://190.0.247.38:8000/play/a022
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| ZONA LATINA" tvg-logo="" group-title="TV | Internacional",ZONA LATINA
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
-
+http://38.183.182.166:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| METAL TV" tvg-logo="" group-title="TV | Internacional",VEVO
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/93081
-#EXTINF:-1 tvg-id="mtv.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",LOLLY KIDS
-
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",EXA TV
+http://45.5.119.43:4000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
-
+http://177.234.230.206:8011/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
 http://181.78.12.164:9000/play/ch55
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
@@ -582,11 +584,11 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/6696.ts
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC 
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/9619
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC" tvg-logo="" group-title="TV | Internacional",AMC HD
-
+http://38.183.182.166:8000/play/a0vm/index.m3u8
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC LATINO
-
+http://45.5.119.43:4000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/1257
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",AXN 
@@ -642,7 +644,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/7
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9adf08cb-f33f-4614-888d-26b3973992ad.m3u
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
-
+http://190.90.22.42:5280/play/a0fb
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
@@ -675,9 +677,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/69260
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
-
+http://179.49.163.34:45000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA HD
-
+http://45.186.106.220:5550/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="" group-title="TV | Internacional",COMEDY CENTRAL
@@ -703,9 +705,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
-
+http://38.191.43.69:8000/play/a05w/index.m3u
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
-
+http://38.183.182.166:8000/play/a12r/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
@@ -822,7 +824,7 @@ http://190.90.22.42:5280/play/a0de
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
-
+http://38.183.182.166:8000/play/a12q/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
@@ -870,7 +872,7 @@ http://38.41.8.1:8000/play/a06r
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92722.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-
+http://45.232.176.17:8000/play/a00s
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="TV | Deportes",ESPN 2 
@@ -884,7 +886,7 @@ http://38.41.8.1:8000/play/a07q
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 CENTRAL FHD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306386
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 CENTRAL FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 MEX
-
+http://45.232.176.17:8000/play/a023
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95574.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
@@ -898,7 +900,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22113.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 MEX " tvg-logo="" group-title="TV | Deportes",ESPN 3 MEX
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
-
+http://45.232.176.17:8000/play/a01l
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/f1b4eb1d-6368-4851-96f1-9e604d050404.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
@@ -909,6 +911,8 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/306390
 http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92721.ts
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 PERU
+http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5" tvg-logo="" group-title="TV | Deportes",ESPN 5
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/99969.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 HD" tvg-logo="" group-title="TV | Deportes",ESPN 5 HD
@@ -918,7 +922,7 @@ http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/25c682e1-6306-4707-a98c-ddc7c4923d46.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
-
+http://45.232.176.17:8000/play/a026
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92554.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 HD
@@ -938,7 +942,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22108.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/52bdea01-2c7b-43a2-ac75-6bde91279c07.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
-
+http://45.232.176.17:8000/play/a025
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
@@ -999,11 +1003,11 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50506
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/556.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
-
+http://45.5.151.251:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
-
+http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
-
+http://181.13.112.203:8100/play/a07j/index.m3
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ECU
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
@@ -1015,15 +1019,15 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92724.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CHILE
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/34588.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 COL" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 COL
-
+http://45.5.151.251:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ECU" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ECU
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/bed2a180-9784-4a9b-93a3-c36a433e9dcd.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CENTRAL
-
+http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
-
+http://181.13.112.203:8100/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
-
+http://45.5.151.251:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/34589.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
@@ -1031,7 +1035,7 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50508
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/709dd0b1-5bcc-46c6-91e2-42b267c36b16.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 MEX
-
+http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 SUR
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92723.ts
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM MEX " tvg-logo="" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX 
@@ -1079,17 +1083,17 @@ http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50724
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/231150d2-d876-4057-9f13-9a11067c97b1.m3u
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
-
+http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50725
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
-
+http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/11029.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/50726
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-
+http://199.188.103.176:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/065b0e39-e720-4344-b266-618be35eb66c.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -1099,7 +1103,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22689.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://daleplaytv.vip:80/CarlosVasconez/Amalie33/54471
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-
+http://199.188.103.176:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
