@@ -459,7 +459,7 @@ http://38.41.8.1:8000/play/a05n
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL 
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9720
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
 http://38.41.8.1:8000/play/a04w
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
@@ -572,7 +572,7 @@ http://200.125.170.120:8000/play/a05t
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22219.ts
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE LATINO" tvg-logo="" group-title="TV | Internacional",SPACE LATINO
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9717
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE HD" tvg-logo="" group-title="TV | Internacional",SPACE HD
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/44c8eb9b-6f2f-4c1c-b2c1-c39e18c82965.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE FHD" tvg-logo="" group-title="TV | Internacional",SPACE FHD
@@ -1564,13 +1564,13 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56296.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56290.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95607
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 5
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95611
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 6
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95620
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 7
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95621
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 8
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/95607
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 9
@@ -1586,9 +1586,9 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/95628
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 14
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/95629
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 15
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95633
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
-
+http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/95623
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA 2
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="" group-title="24/7 | 24/7",CINEMA 3
