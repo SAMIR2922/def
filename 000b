@@ -1625,12 +1625,12 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/94960
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Dejame estar contigo 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Avatar fuego y ceniza
+http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Depredador tierra salvaje
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Vuelo mortal 
-
+http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Guerreras del Kpop
+https://visionalista.digital:8080/movie/eduardo12345/eduardo12345/267616.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Al filo de las sombras
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", La tormenta perfecta 
@@ -2273,7 +2273,7 @@ http://ptccloud.lsdwedsfsc.site:80/vod/5A15E694AB644C878524B1A6994CCCF6_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
-
+http://visionalista.digital:8080/movie/eduardo12345/eduardo12345/45744.mp4
 
 
 
