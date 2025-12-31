@@ -755,6 +755,94 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9709
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Netflix",Opcion 4
 
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316158.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 2
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316159.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 3
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316160.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 4
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316161.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 5
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316162.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 6
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316163.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 7
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316164.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN PREMIUM
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316571.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",A3 SERIES
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400073.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",A&E
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400071.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",AMC
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400072.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",AXN
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400074.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ANIMAL PLANET
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400076.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",CARTOON NETWORK
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400090.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",CARACOL
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400089.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",CINECANAL
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400091.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",COMEDY CENTRAL
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400093.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",DISCOVERY CHANNEL
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400098.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",DISCOVERY
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400100.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",DISCOVERY KIDS
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400101.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",CINECANAL
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",CINECANAL
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",DISNEY
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400105.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",DISNEY JUNIOR
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400106.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",EL GORMET
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400117.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",FX
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400120.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400125.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO 2
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400123.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO FAMILY
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400124.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO PLUS
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400126.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO POP
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400127.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HBO XTREME
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400129.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HOLA TV
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400130.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HISTORY
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400132.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HISTORY 2
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400131.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ID
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400133.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",KANAL DE DRAMA
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400134.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",LIGA 1
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400135.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",LIGA MAX
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400136.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",LAS ESTRELLAS
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400137.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",LATINA
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400138.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",NAT GEO
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400153.ts
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",PASIONES
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400155.ts
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="" group-title="TV | Infantiles",NICK JR HQ
@@ -1460,11 +1548,11 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/366253.ts
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
 
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/366250.ts
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
 
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Rebelde
@@ -1472,7 +1560,7 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/362432.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",El payaso Plim PLim
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Tom y Jerry
@@ -1515,8 +1603,8 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol
 
-#EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Paw patrol 2
-
+#EXTINF:-1 tvg-id="" tvg-name="Vivos Ecuador" tvg-logo="" group-title="24/7 | 24/7",Bebe tiburon
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/407508.ts
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Bluey
 
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
@@ -1532,7 +1620,7 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar 1
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",CREPUSCULO
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317117.ts
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
@@ -1540,11 +1628,11 @@ http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",John Wick
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317129.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Alerta Aereopuerto
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316938.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 1
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317132.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",KARATE KID
@@ -1597,10 +1685,10 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56290.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA 5
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL" tvg-logo="" group-title="24/7 | 24/7",CINEMA MARVEL
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",ESTRENOS
-
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL" tvg-logo="" group-title="24/7 | 24/7",Karate kid
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317133.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",Shrek
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317150.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",BATMAN
 
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
@@ -1608,19 +1696,19 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56290.ts
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 1
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317146.ts
 #EXTINF:-1 tvg-id="" tvg-name="SAW" tvg-logo="" group-title="24/7 | 24/7",Volver al futuro
 
-#EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",Chucky
-
+#EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",CANTINFLAS
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316972.ts
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317147.ts
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317126.ts
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",Los anillos de poder
 
-#EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Jackie Chan
-
+#EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Saw
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317149.ts
 
 
 
