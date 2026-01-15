@@ -11,7 +11,7 @@ http://45.225.90.239:18000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8629
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8626
+
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8651
@@ -34,24 +34,24 @@ http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8636
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8640
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://45.225.90.239:18000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/b8350ede-66cb-498f-bdcd-fc28ea16768e.m3u
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
-http://170.82.113.50:8899/play/a0g9/index.m3u8
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
 
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://38.41.8.1:8000/play/a045
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8634
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR COSTA
-http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8634
+
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://170.244.209.30:8000/play/a0ub/index.m3u8
@@ -179,7 +179,7 @@ http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9758a3c6-9fed-4a69-8026-e7b
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
-http://45.184.87.142:8000/play/a004
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E HQ
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
@@ -190,7 +190,7 @@ http://170.244.209.30:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9646
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
-http://45.184.87.142:8000/play/a027
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E FHD
 http://45.5.151.62:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E FHD"  tvg-logo="" group-title="TV | Internacional",E LATINO
@@ -261,7 +261,7 @@ http://177.234.230.206:8011/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/a1ed04bf-2f9a-45eb-852f-15427b64ea28.m3u
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
@@ -291,7 +291,7 @@ http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/20f8ec0a-53ad-4db9-b53a-e90
 
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET 
-http://daleplaytv.vip/737474ndbfvvd/73737bdbrbf73/54172
+
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET HD
 http://181.78.12.164:9000/play/a08g
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET FHD" tvg-logo="" group-title="TV | Internacional",ANIMAL PLANET FHD
@@ -322,7 +322,7 @@ http://170.244.209.30:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H 
 http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch23.playlist.m3u8
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
-http://170.244.209.30:8000/play/a0w0/index.m3u8
+
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H SD
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
@@ -350,7 +350,7 @@ http://45.5.151.62:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
 http://45.5.151.62:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
-http://104.194.8.54:9090/278637_.m3u8
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
@@ -360,7 +360,7 @@ http://104.194.8.54:9090/278637_.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
-http://104.194.8.54:9090/278479_.m3u8
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
 http://38.137.192.250:8000/play/a01n
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
@@ -388,7 +388,7 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9658
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS FHD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS FHD
 http://181.78.12.164:9000/play/a07e
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9664
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN PREMIER HD
 http://170.244.209.30:8000/play/a0ty/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
@@ -415,7 +415,7 @@ http://45.5.151.62:8000/play/a08w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
-http://179.49.163.34:45000/play/a01x/index.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CHANEL
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9753
 #EXTINF:-1 tvg-id="universal.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CHANNEL SD
@@ -459,7 +459,7 @@ http://38.41.8.1:8000/play/a05n
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL FHD" tvg-logo="" group-title="TV | Internacional",STUDIO UNIVERSAL 
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL HQ
-http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9720
+
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL
 http://38.41.8.1:8000/play/a04w
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL 2" tvg-logo="" group-title="TV | Internacional",STAR CHANNEL 2
@@ -515,7 +515,7 @@ http://181.78.12.164:9000/play/ch54
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",POPULAR TV
 http://181.78.12.164:9000/play/ch56
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",URBANO TV
@@ -608,7 +608,7 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9652
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="" group-title="TV | Internacional",Film & Arts
-http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9649
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="" group-title="TV | Internacional",Film & Arts SD
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
@@ -679,7 +679,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
 http://179.49.163.34:45000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA HD
-http://45.186.106.220:5550/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="" group-title="TV | Internacional",COMEDY CENTRAL
@@ -858,11 +858,11 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400155.ts
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
 http://170.244.209.30:8000/play/a0x4/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
-http://170.82.113.50:8899/play/a0l2/index.m3u8
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://45.5.151.62:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
-http://45.184.87.142:8000/play/a01o
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
@@ -926,13 +926,13 @@ http://104.238.205.28:9090/278551_.m3u8
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 6
-http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/84794
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 5
-http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/84793
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",ZAPPING SPORTS 
-http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/153978
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
-http://streamingtv.vip:80/12MPremiumFeb34/385622df15de9387/314941
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
@@ -950,7 +950,7 @@ http://170.244.209.30:8000/play/a0wh/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN" tvg-logo="" group-title="TV | Deportes",ESPN SUR
 http://45.5.151.62:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN CENTRAL
-http://199.127.63.105:9090/278578_.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22111.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
@@ -1040,7 +1040,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22108.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM HD
-http://170.244.209.30:8000/play/a0vp/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM ARG
 http://45.5.151.62:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM SD
@@ -1139,15 +1139,15 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92723.ts
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/93328.ts
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://170.82.113.50:8899/play/a0j1/index.m3u8
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/107639
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/e319b9ad-9248-46ad-93d0-eeff0ff813df.m3u
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/64dfc67a-1a42-4293-97d4-9721b25716c2.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
-http://daleplaytv.vip/737474ndbfvvd/73737bdbrbf73/314940
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 6
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 7
@@ -1165,7 +1165,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95570.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/8625
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
@@ -1746,7 +1746,7 @@ http://ptccloud.lsdwedsfsc.site:80/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Ola de zombies
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Vivo o muerto
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/538106.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Operación Venganza 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Implacable 
@@ -2078,7 +2078,7 @@ http://flx.lat:8080/movie/FRANCHESCOTV/Daleplaytv/168050.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
 
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/702518.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Flaminhot
 
 #EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
@@ -2086,7 +2086,7 @@ http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/702518.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/431899.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Infierno blanco
 
 #EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
@@ -2223,7 +2223,7 @@ http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/431899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
 
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",Jefes de Estado
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/693875.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
 
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",Rambo  ultima sangre
@@ -2324,7 +2324,7 @@ http://ptccloud.lsdwedsfsc.site:80/vod/36E0B781D2644CCEA52F2BF3A4040C46_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 2" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Titanic
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/435193.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Una esposa de mentira
 
 #EXTINF:-1 tvg-id="" tvg-name="El ejecutador" tvg-logo="" group-title="VOD | Peliculas",Mision Submarino 
@@ -2332,7 +2332,7 @@ http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/435193.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",El perfume historia de un asesino
 
 #EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas", Asesinos 
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/430795.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
 http://flx.lat:8080/movie/FRANCHESCOTV/Daleplaytv/297013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
@@ -2344,9 +2344,9 @@ http://live.proyectoxpro.com:8080/movie/JohnCamposIPTVCLUB/V1ZdbFABA1/126795.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
 http://ptccloud.lsdwedsfsc.site:80/vod/5A15E694AB644C878524B1A6994CCCF6_media.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 3
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/506592.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 4
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/497138.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la desolacion de smaug
 
 #EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",El hobbit, la batalla de los 5 ejercitos
@@ -2356,11 +2356,11 @@ http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/497138.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
 http://live.proyectoxpro.com:8080/movie/JohnCamposIPTVCLUB/V1ZdbFABA1/46866.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/431151.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
-http://fhh54d.vidacristiana.info/movie/joh583qui/383cneeSp/488741.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
 http://visionalista.digital:8080/movie/eduardo12345/eduardo12345/45744.mp4
 
