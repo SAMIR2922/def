@@ -1562,7 +1562,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://playlist3456544.ddns.net:8080/valentinrada589/9VnDJJyMqT/35826
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316942.ts
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/366253.ts
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
@@ -1583,8 +1583,8 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/362432.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bluey
 
-#EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron
-
+#EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Baby shark
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/407508.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
 
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
@@ -1596,13 +1596,13 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/362432.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
 
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316941.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL 
-
+http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/316973.ts
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",La pantera rosa
 
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",Bonanza
@@ -1729,6 +1729,13 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317149.ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Juegos de seduccion
+http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/425795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Exterminio
+http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/427422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", El gran diluvio
+http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/428374.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Avatar fuego y ceniza
 http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Depredador tierra salvaje
