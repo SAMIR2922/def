@@ -38,7 +38,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360518.ts
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://45.225.90.239:18000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/b8350ede-66cb-498f-bdcd-fc28ea16768e.m3u
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
@@ -84,7 +84,7 @@ http://170.244.209.30:8000/play/a0ua/index.m3u8
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU SD " tvg-logo="" group-title="TV | Ecuador",RTU SD
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9cdd22df-e783-47b0-9da6-6cdb9b4e263d.m3u
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU HD
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU HD" tvg-logo="" group-title="TV | Ecuador",RTU FHD
@@ -104,7 +104,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360537.ts
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",MANAVISION
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360536.ts
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| QUEVEDO TV "  tvg-logo="" group-title="TV | Ecuador",ASOMAVISION
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",NARANJAL TV.
@@ -175,7 +175,7 @@ http://38.137.192.250:8000/play/a01o
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
 http://38.41.8.1:8000/play/a07v
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E SD
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9758a3c6-9fed-4a69-8026-e7b1e1210c84.m3u
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
@@ -251,13 +251,13 @@ http://38.49.128.38:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-http://177.234.230.206:8011/play/a0lq/index.m3u8
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI HD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9682
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9692
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE HD
-http://177.234.230.206:8011/play/a0lp/index.m3u8
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
@@ -471,7 +471,7 @@ http://181.78.12.164:9000/play/a067
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="" group-title="TV | Internacional",CNN HQ
-http://fortv.cc:8080/Alan/Alan1234/57619
+
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| DW ESPAÑOL" tvg-logo="" group-title="TV | Internacional",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
@@ -505,7 +505,7 @@ http://45.5.151.62:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",EXA TV
 http://45.5.119.43:4000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
-http://177.234.230.206:8011/play/a0i5/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
 http://181.78.12.164:9000/play/ch55
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
@@ -970,7 +970,7 @@ http://45.5.151.62:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22111.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/b96685fc-3ccc-4f13-b85a-6c279423fd24.m3u
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
@@ -1024,7 +1024,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306877.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 CENTRAL
 http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/25c682e1-6306-4707-a98c-ddc7c4923d46.m3u
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
@@ -1036,7 +1036,7 @@ http://181.78.12.164:9000/play/a03x
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 ECUADOR
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306879.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 PERU
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/2c22bcd5-e7b3-4086-84f8-ddad989468ee.m3u
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
@@ -1099,7 +1099,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/276341.ts
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/276332.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/4e1ad266-63e2-41cf-b98c-1acefba4276a.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
@@ -1159,7 +1159,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/314940.ts
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/107639
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/401842.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/64dfc67a-1a42-4293-97d4-9721b25716c2.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
@@ -1265,7 +1265,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/406699.ts
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306893.ts
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
@@ -1584,7 +1584,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/362432.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bluey
 
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Baby shark
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/407508.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
 
 #EXTINF:-1 tvg-id="" tvg-name="Los padrinos magicos" tvg-logo="" group-title="24/7 | 24/7",El pajaro loco
@@ -2091,7 +2091,7 @@ https://bank.bemtv.cn/vod01/Movies/vod16286wxNEtb/vod16286wxNEtb_720.mp4/index.m
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 10
 
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 
-http://flx.lat:8080/movie/FRANCHESCOTV/Daleplaytv/168050.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
@@ -2357,7 +2357,7 @@ http://ptccloud.lsdwedsfsc.site:80/vod/36E0B781D2644CCEA52F2BF3A4040C46_media.mp
 #EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas", Asesinos 
 
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
-http://flx.lat:8080/movie/FRANCHESCOTV/Daleplaytv/297013.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
 http://live.proyectoxpro.com:8080/movie/JohnCamposIPTVCLUB/V1ZdbFABA1/126795.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
