@@ -545,7 +545,7 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9747
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
 http://38.137.192.250:8000/play/a05t
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV FHD" tvg-logo="" group-title="TV | Internacional",HOLA TV FHD
-
+http://104.238.205.28:25461/get/CL1YZxiKduwLkWXxq4-IqmkzYjdHRUFiRkE3c3V2Y1NhSllrTW1ZaEdSYVp5OTc3NkhNUERYYmJObEY5aTg2RDEyRmg0NDRGM0x3eSsyMUVqY1pUVzVvd2czMHEwMCtIdU5XbWp3PT0.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
@@ -679,7 +679,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
 http://179.49.163.34:45000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA HD
-
+http://104.238.205.28:25461/get/usNO0vNB-gWIIfGHLzroRDk3YTYveWFoQXFETVQ0cnJ2YTVuVlZQc0xSbDBkS1JSQ3o2ZFhQYzE4YXk4RENGQ05keWV5MXNZNTNjQlBhYkRJdlFqNmdJWXZ1L243bjI0MUl2SmhnPT0.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="" group-title="TV | Internacional",COMEDY CENTRAL
@@ -1181,7 +1181,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95570.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/e0e151cb-86c8-4b8b-a47c-6848d0dfab4d.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV CHILE" tvg-logo="" group-title="TV | Deportes",DIRECTV CHILE
-
+http://canal-pro.xyz:8080/marcelovergara/Mar152080/250857
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306883.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV URUGUAY" tvg-logo="" group-title="TV | Deportes",DIRECTV URUGUAY
