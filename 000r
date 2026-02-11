@@ -158,7 +158,7 @@ http://45.5.151.62:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/a5d69a30-8f69-44de-8e42-eb006d4174ca.ts
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/a5d69a30-8f69-44de-8e42-eb006d4174ca.m3u
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
@@ -168,7 +168,7 @@ http://38.137.192.250:8000/play/a01o
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 SD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 SD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/f78ce468-c9ff-462f-9e50-7f82d89c9479.ts
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/f78ce468-c9ff-462f-9e50-7f82d89c9479.m3u
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 FHD
 
 
@@ -179,7 +179,7 @@ http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/35b0ee9d-c7fb-4c01-8f89
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E FHD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/35b0ee9d-c7fb-4c01-8f89-d20e8acc6fc8.m3u
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E FHD"  tvg-logo="" group-title="TV | Internacional",A&E HQ
 http://live.proyectoxpro.com:8080/JohnCamposIPTVCLUB/V1ZdbFABA1/9614
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
@@ -199,7 +199,7 @@ http://170.244.209.30:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/e7c58a77-e1e7-4503-be45-865566194deb.m3u
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="" group-title="TV | Internacional",INT| HBO HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/32894.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FHD"  tvg-logo="" group-title="TV | Internacional",INT| HBO FHD
@@ -209,13 +209,13 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9668
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="" group-title="TV | Internacional",HBO POP 
 http://45.5.151.62:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP SD"  tvg-logo="" group-title="TV | Internacional",HBO POP SD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/e543eb4f-05f0-466c-9ac1-899431d3829d.m3u
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="" group-title="TV | Internacional",HBO POP HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/54581.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP FHD"  tvg-logo="" group-title="TV | Internacional",HBO POP FHD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9689
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/845e93fd-f009-4aab-afdd-4dbffee605ec.m3u
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 SD"  tvg-logo="" group-title="TV | Internacional",HBO 2 SD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9671
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -233,7 +233,7 @@ http://170.244.209.30:8000/play/a0mp/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY FHD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY FHD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9676
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY LATINO
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/9ce7e172-c23e-49f2-b272-fe44c587cfa6.m3u
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22209.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS SD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS SD
@@ -257,7 +257,7 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9682
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9692
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE HD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/4fc23356-9bcf-4002-bfaa-bc1cd54ebfee.m3u
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
@@ -267,24 +267,24 @@ http://45.5.119.43:4000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT FHD"  tvg-logo="" group-title="TV | Internacional",TNT  FHD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9742
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/8fe101be-d9a7-472f-841f-4fb69545f049.m3u
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="" group-title="TV | Internacional",TNT SERIES
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9748
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES HD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/8aee835e-8916-4eb0-b3ca-5847a6949278.ts
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES FHD"  tvg-logo="" group-title="TV | Internacional",TNT SERIES FHD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/8aee835e-8916-4eb0-b3ca-5847a6949278.m3u
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9626
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO HD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/94c71137-2a7b-409e-838d-a29b77d08e21.m3u
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="" group-title="TV | Internacional",CINE LATINO SD
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9629
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL LAT" tvg-logo="" group-title="TV | Internacional",CINECANAL LAT
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/70b1b9e5-b03b-43ec-880b-8be08f732245.m3u
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINECANAL FHD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/70b1b9e5-b03b-43ec-880b-8be08f732245.ts
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL FHD" tvg-logo="" group-title="TV | Internacional",CINE DINAMITA
@@ -324,13 +324,13 @@ http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch23.playlis
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H FHD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/749a80fd-b31d-4478-a088-dbc7e58ba050.ts
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H FHD" tvg-logo="" group-title="TV | Internacional",DISCOVERY H&H SD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILY
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/0d3eb1e5-c4e9-4647-802a-8ae2ce07e8f3.ts
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY FAMILY" tvg-logo="" group-title="TV | Internacional",DISCOVERY FAMILA
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/0d3eb1e5-c4e9-4647-802a-8ae2ce07e8f3.m3u
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/69734230-1a67-41dd-8d15-8de7460fdc8d.m3u
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 http://45.5.151.62:8000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE HD"  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE HD
@@ -352,7 +352,7 @@ http://45.5.151.62:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/cd60a497-60b5-4518-9f55-f9f5adbd687f.ts
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO FHD "  tvg-logo="" group-title="TV | Internacional",NATGEO FHD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/6458fd4c-89ac-4279-941e-2b3ae2903fa6.m3u
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
@@ -366,7 +366,7 @@ http://38.137.192.250:8000/play/a01n
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/4359ac08-9fab-48a2-9e5d-a7c998a7ee72.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92603.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE
@@ -376,7 +376,7 @@ http://181.78.12.164:9000/play/a07y
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9660
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE LATINO
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/45a3965f-1f8b-421b-ab28-45f30e2f69da.m3u
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
@@ -394,7 +394,7 @@ http://170.244.209.30:8000/play/a0ty/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92605.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/6c7133d3-7f7a-40f5-8852-de3551f0a363.m3u
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9705
@@ -438,7 +438,7 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9768
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/6733.ts
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY SD" tvg-logo="" group-title="TV | Internacional",SONY SD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/55b4609b-3c46-44c3-ac75-a088fe722346.m3u
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
 http://45.5.119.43:4000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 2
@@ -483,11 +483,11 @@ http://38.137.192.250:8000/play/a027
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
 
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/816b6591-31e7-4bc9-8275-636f75628f7d.m3u
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
@@ -515,7 +515,7 @@ http://181.78.12.164:9000/play/ch54
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="" tvg-logo="" group-title="TV | Internacional",POPULAR TV
 http://181.78.12.164:9000/play/ch56
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VEVO" tvg-logo="" group-title="TV | Internacional",VEVO
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/5f5f61dd-09bd-485d-b406-9a0ee9cd06ea.m3u
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| TELEHIT" tvg-logo="" group-title="TV | Internacional",URBANO TV
@@ -530,20 +530,20 @@ http://38.137.192.250:8000/play/a00j
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TELENOVELAS
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/6636e7d4-cfe0-43b5-8c80-e0c10028ce5e.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9747
-#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",SONY NOVELAS
-
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",DORAMA TV
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/6d6c1fae-4d71-44cd-95a2-dda93d302229.m3u
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO HD" tvg-logo="" group-title="TV | Internacional",TELEMUNDO HD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/2504c6f2-373d-4447-b22f-ec8805cd7135.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV FHD" tvg-logo="" group-title="TV | Internacional",HOLA TV FHD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
@@ -602,7 +602,7 @@ http://170.244.209.30:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
 http://181.78.12.164:9000/play/a04e
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/d7143235-a62e-4851-b0f0-7b6b939b45bf.m3u
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX 3
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9652
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
@@ -618,9 +618,9 @@ http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9652
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://45.5.151.62:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TLC LATINO" tvg-logo="" group-title="TV | Internacional",TLC LATINO
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/a4fdc451-f468-4b41-896a-c6e77def0d51.m3u
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/f07f02cf-8df2-43b7-83a5-7c64d6c83da3.m3u
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM HD
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM SD
@@ -642,7 +642,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22166.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://45.5.151.62:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/0fe88a29-dcd2-4128-ac7f-1ad34d5beed6.m3u
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
 http://tv.zapping.life:8080/VictorSalas07/WHw95ZHeQR/9635
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
@@ -756,7 +756,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92542.ts
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Netflix",Opcion 4
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/69bb2902-2627-4e79-a544-efed31f472dd.m3u
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 2
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 3
@@ -864,7 +864,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/400193.ts
 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="" group-title="TV | Infantiles",NICK JR HQ
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/bde1a892-a80a-43da-9074-2eb6cdf127eb.m3u
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR " tvg-logo="" group-title="TV | Infantiles",NICK JR 
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
@@ -876,7 +876,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/132691.ts
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
 http://170.244.209.30:8000/play/a0x4/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/6d1f6f66-c8f2-4c71-b960-fe45f9644b4d.m3u
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://45.5.151.62:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
@@ -896,7 +896,7 @@ http://45.5.151.62:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS" tvg-logo="" group-title="TV | Infantiles",DISCOVERY KIDS 
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/132701.ts
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/cc4a2526-cc6b-40c7-879f-0f2849ca7274.m3u
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
 http://45.5.151.62:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://i.ibb.co/ZgZx1My/natgeo-kids.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
@@ -940,7 +940,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/143797.ts
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PREMIER KIDS" tvg-logo="" group-title="TV | Infantiles",PREMIER KIDS
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ANIME ZONE" tvg-logo="" group-title="TV | Infantiles",PLIM PLIM 
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/1393f1c2-19ec-4413-b222-ae9743b8ce44.m3u
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 6
@@ -974,7 +974,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22111.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COLOMBIA" tvg-logo="" group-title="TV | Deportes",ESPN COLOMBIA
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/81c4da50-0803-4098-b5f8-416c0d1be389.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ECUADOR" tvg-logo="" group-title="TV | Deportes",ESPN ECUADOR
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/92722.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
@@ -984,7 +984,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306869.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="TV | Deportes",ESPN 2 
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/97621138-97ba-463b-a74f-df3671b3da3b.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95573.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 2 FHD
@@ -998,7 +998,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95574.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://45.5.151.62:8000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 FHD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/054efa57-fc92-4360-81aa-6ad5f6573d78.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 FHD " tvg-logo="" group-title="TV | Deportes",ESPN 3 ARG
 http://181.78.12.164:9000/play/a03w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 ECU " tvg-logo="" group-title="TV | Deportes",ESPN 3 ECU
@@ -1012,7 +1012,7 @@ http://45.5.151.62:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/95575.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/48380e33-4337-414b-b2af-2179a471ea70.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 FHD" tvg-logo="" group-title="TV | Deportes",ESPN 4 FHD
@@ -1026,7 +1026,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306877.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 CENTRAL
 http://181.78.12.164:9000/play/a044
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 ECU
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/2682ae18-fa3c-439e-a13d-d5e727caba92.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 5 CENTRAL" tvg-logo="" group-title="TV | Deportes",ESPN 5 SD
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6
@@ -1058,7 +1058,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306881.ts
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM HD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/787bc6f8-15e9-466b-b879-963f069b4546.m3u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM ARG
 http://45.5.151.62:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM SD
@@ -1103,7 +1103,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22591.ts
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/dd2b0233-443e-4f2c-bfdd-368381df1ab5.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 http://vodlat.top:80/live/RicardoAulestia23/TeETaNRapc2M/ea3acb4e-ebaa-4386-99e1-a22f87e12121.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
@@ -1113,7 +1113,7 @@ http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch16.playlis
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
 http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/ea3acb4e-ebaa-4386-99e1-a22f87e12121.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ECU
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/99836.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 HD
@@ -1131,7 +1131,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/100116.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 CENTRAL
 http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 FHD
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/9a5dfb17-cd9c-4477-b1e1-a2052ffe6e56.m3u
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
@@ -1197,7 +1197,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306885.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/11029.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/d859f21f-70d2-4c7a-a948-1caaa41e2892.m3u
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 http://199.188.103.176:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
@@ -1310,7 +1310,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/362472.ts
 
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
-
+http://vodlat.top:80/live/wilsonc322/PwDCNYZ8ardP/f69ce923-9838-4d33-a1d3-928adfc19e82.m3u
 #EXTINF:-1 tvg-id="bull.ec" tvg-name="DEP| RED BULL TV" tvg-logo="" group-title="TV | Deportes",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="bull.ec" tvg-name="NBA TV" tvg-logo="" group-title="TV | Deportes",NBA TV
