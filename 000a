@@ -1657,8 +1657,8 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317132.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
 
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Cantinflas
-
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Inframundo 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164992
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
@@ -1710,7 +1710,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317150.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="24/7 | 24/7",BATMAN
 
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS" tvg-logo="" group-title="24/7 | 24/7",Resident evil
-
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164991
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS HD" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda implacable" tvg-logo="" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS 1
@@ -1723,8 +1723,8 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317146.ts
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317147.ts
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317126.ts
-#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",Los anillos de poder
-
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7", Aliens
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164990
 #EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves" tvg-logo="" group-title="24/7 | 24/7",Saw
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317149.ts
 
