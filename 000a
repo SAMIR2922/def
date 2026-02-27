@@ -1639,38 +1639,38 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/407508.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",CREPUSCULO
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
-
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
-
-#EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",John Wick
-
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Scooby Doo
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169574
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7", La sirenita 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169551
+#EXTINF:-1 tvg-id="" tvg-name="La Usurpadora" tvg-logo="" group-title="24/7 | 24/7",Jimmy Neutron 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169547
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="" group-title="24/7 | 24/7",Harry Potter
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317129.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Alerta Aereopuerto
-
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7", Hotel Transylvania 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169546
 #EXTINF:-1 tvg-id="" tvg-name="Bruce Lee" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 1
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Jurasic Park 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",KARATE KID
-
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Spiderman
-
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Gravity falls 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169544
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Dinosaurios 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169542
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Los looney tunes 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169577
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Inframundo 
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164992
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7",Mision imposible
-
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7", El pajaro loco 
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169541
+#EXTINF:-1 tvg-id="" tvg-name="Mision imposible" tvg-logo="" group-title="24/7 | 24/7", Bob esponja
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169536
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/108616.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56296.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56290.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
-
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7", La era de hielo
+http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164985
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7", Madagascar 
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164984
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7", Kick boxer
