@@ -29,7 +29,7 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/360531.ts
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360531.ts
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175949
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
 
 
@@ -49,7 +49,7 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/360516.ts
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360516.ts
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175935
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR COSTA
 
 
@@ -99,7 +99,7 @@ http://170.244.209.30:8000/play/a0ua/index.m3u8
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/443039.ts
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360537.ts
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",COLORADOS TV
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175894
 
@@ -115,7 +115,7 @@ http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175906
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
 http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360525.ts
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360539.ts
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador", GUAYAQUIL DIGITAL TV
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175910
@@ -147,7 +147,7 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/360541.ts
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",ÑUKA TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",CANAl del SUR TV
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175890
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",CIRACU TV
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175892
 
@@ -164,7 +164,7 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/53481.ts
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
-http://38.137.192.250:8000/play/a01o
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 SD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 SD
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/53483.ts
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
@@ -247,7 +247,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/55754.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME SD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME SD
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/47.ts
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
-http://38.49.128.38:8000/play/a096/index.m3u8
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
@@ -301,7 +301,7 @@ http://170.244.209.30:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
-http://38.137.192.250:8000/play/a00i
+
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE HD" tvg-logo="" group-title="TV | Internacional",LOVE NATURE HD
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/118747.ts
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
@@ -360,9 +360,9 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/53489.ts
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name=""  tvg-logo="" group-title="TV | Internacional",NATGEO WILD HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
-http://mundo2.pro:80//live/eromero2121/s1stemas13579/53940.ts
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HD" tvg-logo="" group-title="TV | Internacional",GOLDEN HD
-http://38.137.192.250:8000/play/a01n
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN SD" tvg-logo="" group-title="TV | Internacional",GOLDEN SD
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/1287.ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
@@ -479,7 +479,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
-http://38.137.192.250:8000/play/a027
+
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
@@ -634,13 +634,13 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/1266.ts
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE 
 http://170.244.209.30:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
-http://mundo2.pro:80//live/eromero2121/s1stemas13579/400290.ts
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22166.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
-http://45.5.151.62:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/435991.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX FHD" tvg-logo="" group-title="TV | Internacional",CINEMAX FHD
@@ -950,13 +950,13 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/314942.ts
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",ZAPPING SPORTS 
 http://mundo2.pro:80//live/eromero2121/s1stemas13579/314941.ts
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 3
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/180288
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 2
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/180289
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR 1
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/174448
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/174447
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
@@ -1207,7 +1207,7 @@ http://mundo2.pro:80//live/eromero2121/s1stemas13579/306885.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/22689.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/306887.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
@@ -1670,7 +1670,7 @@ https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56296.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
 https://2244.site:8443/live/raulvazquez/bU3p6ae6jQ/56290.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7", La era de hielo
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164985
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7", Madagascar 
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/164984
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7", Kick boxer
@@ -1737,7 +1737,7 @@ http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/425795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Exterminio
 http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/427422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Equipo demolición 
-http://goldtv.lat/movie/9C00D37FA685/D37FA6859C00/442017.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Avatar fuego y ceniza
 http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Depredador tierra salvaje
