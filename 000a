@@ -1737,8 +1737,8 @@ http://goldtv.lat:80//live/9C00D37FA685/D37FA6859C00/317149.ts
 http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/425795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Exterminio
 http://goldtv.lat:80/movie/9C00D37FA685/D37FA6859C00/427422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Equipo demolición 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Scream 7
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/435991.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Avatar fuego y ceniza
 http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Depredador tierra salvaje
@@ -1747,8 +1747,8 @@ http://miarea.vip:8080/movie/FlorFava/Kcr6HQNG5Vq3/629446.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Al filo de las sombras
 http://goldtv.lat/movie/9C00D37FA685/D37FA6859C00/422753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Steam el chip del futuro 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", El templo de los huesos 
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/429476.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Riesgo bajo cero 2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", El torito ferdinando
@@ -1771,8 +1771,8 @@ http://goldtv.lat/movie/9C00D37FA685/D37FA6859C00/351043.mkv
 http://ptccloud.lsdwedsfsc.site:80/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp4?dev_id=d4b01e56a22baa88e714bf133b224674&user_id=163513436&trans_id=KcPwpsLAYss6_waiCbTgCYP2o&expired=1748970204&app_id=magmob&app_ver=51306&host=ptccloud.lsdwedsfsc.site&media_code=EB0FA76841BD42FE88BC2D90DE326252&auth_id=163513436_magmob__0&client_ip=66.231.70.113&Expires=1748970204&KeyName=&Signature=6k6rcHk0dJTnyhQ8g75CRIC5VHY=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Ola de zombies
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Vivo o muerto
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El día del fin del mundo
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/412713.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Operación Venganza 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Implacable 
@@ -1787,10 +1787,10 @@ http://ptccloud.lsdwedsfsc.site:80/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones 2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Alice
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Leon salvaje
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La empleada 
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/419200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Primate
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/429475.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Sala de espera
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Aprende a soltar
@@ -2334,8 +2334,8 @@ http://goldtv.lat/movie/9C00D37FA685/D37FA6859C00/346987.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose: los sueños del faraon
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Viejos
-
+#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Nowhere en algun lugar
+http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/370232.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Las locuras del emperador
 
