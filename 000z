@@ -11,7 +11,7 @@ http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175904
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 http://www.1play.cool:60001/9092137917/7b9a62b76b/29923
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
-
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347673
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8651
@@ -31,7 +31,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250870
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142768.ts
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS SIERRA
-
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347668
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://www.1play.cool:60001/9092137917/7b9a62b76b/30379
@@ -40,7 +40,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250874
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8642
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC FHD
-
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347679
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SIERRA
 
 
@@ -1561,9 +1561,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Exponiendo infieles
 
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 
-
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/520908
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/520909
 #EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="" group-title="24/7 | 24/7",Futurama
 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Miraculous
@@ -1835,8 +1835,8 @@ http://visuales.xyz:8080/movie/all@e9*3R/qGpfHSW/763021.mkv
 http://hdshost.vip:8880/movie/granAve/J3Z3mKUFMLWh/2202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Casino Royale 
 http://hdshost.vip:8880/movie/granAve/J3Z3mKUFMLWh/3998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Intensamente 2
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", En busca de Harry Potter 
+http://rlatinop.com:8880/movie/pandusertv0083432/Z7TtUrMB6d9s/522099.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys 3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Bad boys 4
