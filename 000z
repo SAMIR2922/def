@@ -58,7 +58,7 @@ http://170.244.209.30:8000/play/a0ub/index.m3u8
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
 http://www.1play.cool:60001/9092137917/7b9a62b76b/134482
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
-http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250864
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142767.ts
 
@@ -102,7 +102,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250873
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",LATACUNGA TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name=""  tvg-logo="" group-title="TV | Ecuador",COLORADOS TV
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175894
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",CURIQUINGUE TV
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175895
@@ -258,7 +258,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/142
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/150
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE HD
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/120060.ts
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT
 http://181.205.130.194:4000/play/a06n
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SD"  tvg-logo="" group-title="TV | Internacional",TNT SD
@@ -393,7 +393,7 @@ http://181.78.12.164:9000/play/a07e
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN PREMIER HD
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
-http://190.14.10.19:16000/play/a08q/index.m3u8
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN MULTIPLEX " tvg-logo="" group-title="TV | Internacional",GOLDEN MULTIPLEX
 
 
@@ -639,7 +639,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/121
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
-http://38.44.109.41:8003/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/120054.ts
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 4
@@ -664,11 +664,11 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/118
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME HD
-http://190.14.10.19:16000/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME 2
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",MULTIPREMIER
-http://190.14.10.19:16000/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
 http://45.5.117.57:8200/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE HD
@@ -759,11 +759,11 @@ http://181.78.12.164:9000/play/ch52
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN
 http://181.205.130.194:4000/play/a08n
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 2
-http://45.184.109.11/auth/HxEfnbBaTdGFdGOY68MjolSFIAhfvmX5ymh66fNgmNbMqu9xGaYmZosnQdn2jRVC8iC2KhUw9pg2rT11N1DgihWjwnGziIdDGqbHsqAQe-NRYgfLKyt7-1o1W_2vJVLjs8A-auvVu-HfazPhGgQ-DpT-LR4zkEtz_QwIRuQSDditC4PUXRVRMhQZzQxt3IIrXT3ilUxXQLSbVpsLsYYMsv2aEXbO6EMTnzLigXZPZXI0e912MJ7b6q7lKEVu8YZefFGmZ4RIJQ0QBWi4IiMjTl_Cs5WU0_sI2OguR8BgXR9d1lUNHBAdr2PdbQkcB6B_KA33s0Xkgv9fVUV-l5HFgcigbXQMRswKHjjPqVJfIYhftceJOUxUTOoLY958m7iaX7qndI8SCN6VL76Lf4CPI6XllEvZn7MTI0zRgGEUYZ-Zdjsi_rROBFd1Pmg0oRmmj5PUpT7O7tZsLyG9W_Z5Jwt9GT2ND7L7gnlNzjHaZe-bCwBj-8_v7nXRYhEEYmMqrGQBqBr7VQGIbMfTDYdmiXU5qGRB43SD7_e8U8D_oEBJtzi-17BQ0JC0g4g-eAHd0MKnwXEORJMJQiKg2W6AiBEFMkEEUQTyBfkBdnenMUT1qXxoUktG0UllNKk7Kafu
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 3
-http://45.184.109.11/auth/lIcpiscobIpcWNYjtlrQZbnxonQm7PBltP-bc386EHmgVhWJxBdIDy0Pl6mU8HmOgS0fcmKxqAYbt96leoDq4CFBfvsrbaqi0sG6P_eJjWMHKCGsntUKShrl-fe_fNAQJgTIz5G5Ynr3Ia7Gmoz-n4pnCLyASbB0JcWrdtdSCr9CBlIQ9E_SKiOZfdimph0MWGFGiVSfwVuSG-2_eMW95nwVXsRADFgdaNMg4jeqYof2V1l75ggfnsv8GnR_gqviv_DMixBD80WvRkx1gWSoe0TcreG2AfkKMEQdBREE7uEpeZn16IwftUuCy13SfB60ca4qhp9X29DKgMJd0nK9O6RtP2qvhS5TU1AJWM58Kp30SWzt8ZyQRmrGqQYaVDBL3vKDLLLNCUFeERt9r9nOoyPYOkjpKGYWH0AzshTTkEEhPZfBxou-8N721A4NMUgyJb4fsb6SlrGwPe59cO0UtD-q6--n6LjL8jYSeOBsCWY6s-KqFMLGZSAzG8EyIbu_e1QNGbr-6pg8j3upFA-XdFn5sMj9j5FbNwMykZnemckjXqFpjzqzEKcZEAn-o8_Qw8X2SlcRCOPRQTnV9s4mRG5b81nl_Nk17ipVLJoT9GfMSIrqFFejMT6r7oHPYAHp
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 4
-http://45.184.109.11/auth/ufibtddpaJzm6kTjO01cJZKGK-70v0ohekXGpSNsKBdieY5qBWkX2sYzPZtVCMgPBrG6ghhPF99xTIywO4nw_BcQk1RUXJEhuWUV1hSEzJCyYhn9WJBRWx8f70t5RY7QLatsdo2ahVtSsuX91P4ebmVbPqxj1T_nS2VO5q8j9HCnCicoyBFSIjhlXMaho5K50mU1DVOzEnmBO2GNVYJBVU-Bl4ICy2_TMtGRYxR_6_o6pjTczgQr9GwqkoR36NKxc4rfPOqPADyHHZvpvAf5CXAjTQntEYpSj7wszFvs5nn8TEBHA1agdLrWcw_Z9iHjl9pMuoJYRXfpEKJ6UubOzF6w6_2geapeaaGss5LCuL-cOIk0zVWRXjH4VgpNWPdBRT4A8Cmv52_a_bVyN5_qu2Xy1tksmyHcNth8GdIXNVX_SdMwv80ZP6SdY3FRcLbWdlUu_J3WHtkuXCk-qIHUyqhK_iGEwYarxJoUt6ILdCsS4XQRzcDzK6CjTqpQQZ_TpoeYjElVc5PWfwMa3TUpgsSb1RWb_jP2TtEx4IW4OqZHZxPfCXbp9RUHzhVLKWY8iEf88MNVzgd6GhjGXDOu2ZiSwlWvnXtssnidv1lKx2vjjRFAC5WqOKezxaVS3SlO
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 5
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ESPN 6
@@ -959,7 +959,7 @@ http://vodlat.top:8080/FL2620ALEJANDROM/nvePBpa2pUg3/533909
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/199255.ts
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
@@ -1106,9 +1106,9 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/459
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 MEX
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/199172.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
-http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/457
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 CHILE
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 FHD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 FHD
@@ -1138,7 +1138,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/537
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 LATAM
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/199282.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/199186.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3FHD " tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 MEX
@@ -1176,7 +1176,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250885
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/480
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/249514.ts
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
@@ -1200,7 +1200,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/464
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/249520.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/473
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -1210,11 +1210,11 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/473
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/466
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/199276.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV MOTOS
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="" group-title="TV | Deportes",UFC 
@@ -1254,7 +1254,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/492
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/269271.ts
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 1" tvg-logo="" group-title="TV | Deportes",DAZN 1
@@ -1655,7 +1655,7 @@ http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169546
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7",Gravity falls 
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169544
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Dinosaurios 
-http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169542
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Los looney tunes 
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/169577
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="24/7 | 24/7", Inframundo 
@@ -1752,7 +1752,7 @@ http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/280236.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Cortafuego
 http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/280138.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", El torito ferdinando
-http://vodlat.top:8080/movie/FL2620ALEJANDROM/nvePBpa2pUg3/602099.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Acusada
 http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/280139.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Destino final 5
@@ -2255,7 +2255,7 @@ http://visuales.xyz:8080/movie/all@e9*3R/qGpfHSW/743653.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",Rambo  ultima sangre
 http://visuales.xyz:8080/movie/all@e9*3R/qGpfHSW/730697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-http://smarterstv99.dyndns.tv:25461/movie/IselaGranad24/CbgVfaaXAqSj/342177.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 
 #EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas", El guardian 
