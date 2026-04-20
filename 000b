@@ -9,14 +9,14 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250860
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="" group-title="TV | Ecuador",ECUAVISA HD
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/175904
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
-http://www.1play.cool:60001/9092137917/7b9a62b76b/29923
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347673
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8651
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HD" tvg-logo="" group-title="TV | Ecuador",TVC HD
-http://www.1play.cool:60001/9092137917/7b9a62b76b/134483
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142810.ts
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
@@ -25,7 +25,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250881
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://tv.proyectox.vip:8080/juliodavid56b/23cd2baf0cf0/8635
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS HD
-http://www.1play.cool:60001/9092137917/7b9a62b76b/29925
+
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS SD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="TV | Ecuador",RTS SD
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250870
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="" group-title="TV | Ecuador",RTS COSTA
@@ -34,7 +34,7 @@ http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142768.ts
 http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347668
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
-http://www.1play.cool:60001/9092137917/7b9a62b76b/30379
+
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="" group-title="TV | Ecuador",TC HD
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250874
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC SD"  tvg-logo="" group-title="TV | Ecuador",TC SD
@@ -45,7 +45,7 @@ http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/347679
 
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://www.1play.cool:60001/9092137917/7b9a62b76b/30522
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
@@ -54,20 +54,20 @@ http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142757.ts
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250869
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
-http://170.244.209.30:8000/play/a0ub/index.m3u8
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION TV"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION TV
-http://www.1play.cool:60001/9092137917/7b9a62b76b/134482
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION HD
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HD"  tvg-logo="" group-title="TV | Ecuador",GAMAVISION FHD
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142767.ts
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS
-http://www.1play.cool:60001/9092137917/7b9a62b76b/30381
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://www.1play.cool:60001/9092137917/7b9a62b76b/134478
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS QUITO
-http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250877
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS FHD
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/250879
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS GUAYAQUIL
@@ -78,7 +78,7 @@ http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/256344.ts
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV HD
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV SD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV SD
-http://170.244.209.30:8000/play/a0ua/index.m3u8
+
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| MULTICANAL " tvg-logo="" group-title="TV | Ecuador",MULTICANAL
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/142786.ts
 
@@ -432,7 +432,7 @@ http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/120105.ts
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://45.5.117.57:8999/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-http://200.115.96.66:4000/play/a035/index.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
 http://45.5.117.57:8999/play/a03j/index.m3u8
 
@@ -525,7 +525,7 @@ http://181.78.12.164:9000/play/ch56
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES" tvg-logo="" group-title="TV | Internacional",PASIONES 
-http://181.78.12.119:16123/play/ch35/index.m3u8
+
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HD" tvg-logo="" group-title="TV | Internacional",PASIONES HD
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
@@ -702,7 +702,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA" tvg-logo="" group-title="TV | Internacional",DE PELICULA
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/120111.ts
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA PLUS" tvg-logo="" group-title="TV | Internacional",DE PELICULA PLUS
-http://190.60.33.237:1010/play/a0ec/index.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
@@ -875,7 +875,7 @@ http://181.205.130.194:4000/play/a07r
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD" tvg-logo="" group-title="TV | Infantiles",DISNEY XD 
-http://170.244.209.30:8000/play/a0x4/index.m3u8
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD USA" tvg-logo="" group-title="TV | Infantiles",DISNEY XD USA
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
@@ -1059,7 +1059,7 @@ http://181.78.12.164:9000/play/a045
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/542
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM HD
-http://flexlive.lat:8080//live/Carloslegalpro/DfdPCS3PqSjt/192186.ts
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM ARG
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM SD
@@ -1206,7 +1206,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/473
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://flexlive.lat:8080//live/Carloslegalpro/DfdPCS3PqSjt/249521.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://flexlive.lat:8080//live/Carloslegalpro/DfdPCS3PqSjt/249532.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
@@ -1258,7 +1258,7 @@ http://tvhomesmart.xyz:8080/1601.NIKKO7718xbae/2026.DANIELA8929ggs/492
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 http://flexlive.lat:8080//live/Carloslegalpro/DfdPCS3PqSjt/124782.ts
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 1" tvg-logo="" group-title="TV | Deportes",DAZN 1
-http://flexlive.lat:8080//live/Carloslegalpro/DfdPCS3PqSjt/124772.ts
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 2" tvg-logo="" group-title="TV | Deportes",DAZN 2
 http://flexlive.lat:8080//live/Javier14/RVrX3Arp2ZYf/124772.ts
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 3" tvg-logo="" group-title="TV | Deportes",DAZN 3
@@ -1778,7 +1778,7 @@ http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/279705.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Equipo demolicion
 http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/279706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Agentes del desorden 
-http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/2056.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Sin piedad
 http://tvhomesmart.xyz:8080/movie/1601.NIKKO7718xbae/2026.DANIELA8929ggs/280014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El templo de los huesos
@@ -1948,7 +1948,7 @@ http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/320350.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El arca de Noe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Agentes Vanguard
-http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/315889.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Imposible
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Madame web
@@ -2275,15 +2275,15 @@ http://flexlive.lat:8080/movie/Javier14/RVrX3Arp2ZYf/440595.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
-http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/337924.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/337925.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/340750.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas", Instinto Implacable 
 http://cinemagold.club/movie/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/474947.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",Gigantes de acero
-http://www.1play.cool:25461/movie/9092137917/7b9a62b76b/316439.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 2" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 2
