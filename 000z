@@ -11,7 +11,7 @@ http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/65217
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 http://45.185.163.75:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
-
+http://starlatino.tv:8880/LucasSCTuko/5EZMJbvds4vE/347673
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/2086679
@@ -20,7 +20,7 @@ http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/54748
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://45.173.229.190:8083/play/a0rl/index.m3u8
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
-
+http://starlatino.tv:8880/LucasSCTuko/5EZMJbvds4vE/347666
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://103.23.62.238:8000/play/a029
@@ -63,7 +63,7 @@ http://45.185.163.75:8000/play/a00u/index.m3u8
 http://45.173.229.190:8083/play/a0rj/index.m3u8
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS
-
+http://starlatino.tv:8880/LucasSCTuko/5EZMJbvds4vE/347670
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS QUITO
@@ -956,7 +956,7 @@ http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/2316735
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes", Mundial 2026
 http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/2316738
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",FUTBOL ECUADOR
-
+http://starlatino.tv:8880/LucasSCTuko/5EZMJbvds4vE/520015
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://mymoontools.xyz:8080/jose.weibptv/oNKQqpVch2/1130770
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
@@ -1786,10 +1786,10 @@ http://mymoontools.xyz:8080/movie/jose.weibptv/oNKQqpVch2/1139282.mkv
 http://mymoontools.xyz:8080/movie/jose.weibptv/oNKQqpVch2/1137301.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa 
 http://mymoontools.xyz:8080/movie/jose.weibptv/oNKQqpVch2/91169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Proyecto extraccion
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Primate
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", La odisea 
+http://starlatino.tv:8880/movie/LucasSCTuko/5EZMJbvds4vE/545862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Moana
+http://starlatino.tv:8880/movie/LucasSCTuko/5EZMJbvds4vE/545517.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Zootopia 2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Codigo de venganza
