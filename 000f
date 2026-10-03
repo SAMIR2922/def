@@ -151,7 +151,7 @@ http://45.236.104.80:25020/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY SD"  tvg-logo="" group-title="TV | Internacional",HISTORY SD
 http://177.53.152.117:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
-http://hdshost.vip:8880/live/granAve/J3Z3mKUFMLWh/53074.ts
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY FHD"  tvg-logo="" group-title="TV | Internacional",HISTORY FHD
 
 
