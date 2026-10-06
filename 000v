@@ -2394,14 +2394,14 @@ http://myultratv.com:8080/movie/8712479/7T8g5r4ED6F/283107.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
 
-#EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones
-
-#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas",Agente bajo fuego 3
-
+#EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",PAW Patrol DINOSAURIO 
+http://iptvpremium.ink:55577/movie/Nuevo2026/Peru2026/549441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas", RUTA DE ESCAPE 
+http://iptvpremium.ink:55577/movie/Nuevo2026/Peru2026/525130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas", MÁQUINA DE GUERRA 
+http://iptvpremium.ink:55577/movie/Nuevo2026/Peru2026/525131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 3" tvg-logo="" group-title="VOD | Peliculas", CABLE MORTAL 
+http://iptvpremium.ink:55577/movie/Nuevo2026/Peru2026/552816.mp4
 
 
 
