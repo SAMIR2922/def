@@ -244,7 +244,7 @@ http://177.53.152.117:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://iptvpremium.ink:55577/Nuevo2026/Peru2026/167526
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME FHD"  tvg-logo="" group-title="TV | Internacional",HBO XTREME FHD
-
+http://181.78.79.131:8000/play/a0qy
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
 http://177.53.152.117:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI HD
@@ -379,7 +379,7 @@ http://200.24.139.202:4576/play/a0yf
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HD" tvg-logo="" group-title="TV | Internacional",GOLDEN EDGE SUR
 http://181.78.12.119:16123/play/ch47/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
-
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS SD" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS SD
@@ -484,17 +484,17 @@ http://45.167.1.137:8000/play/a01k
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
-
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",RCN
-
+http://181.78.17.228:8081/RCN-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
-
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
-
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
-
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",TELEHIT
@@ -539,7 +539,7 @@ http://138.121.15.230:8081/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| UNIVISION TELENOVELAS" tvg-logo="" group-title="TV | Internacional",UNIVISION TELENOVELAS
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",TNT NOVELAS
-
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELENOVELAS" tvg-logo="" group-title="TV | Internacional",DORAMA TV
 
 
@@ -564,9 +564,9 @@ http://177.53.152.117:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MUNDO Y SABOR" tvg-logo="" group-title="TV | Internacional",MUNDO Y SABOR
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
-
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS HD
-
+http://181.78.79.131:8000/play/a0qu
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MAS CHIC HD
@@ -670,7 +670,7 @@ http://38.137.192.250:8000/play/a0by
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME
 http://138.121.15.230:8081/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME HD
-
+http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME 2
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",MULTIPREMIER
@@ -684,7 +684,7 @@ http://45.228.234.62:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
-
+http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA HD
@@ -836,8 +836,8 @@ http://190.108.83.69:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",HISTORY 2
 http://138.121.15.230:8081/HISTORY-2/index.m3u8
-#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",ID
-
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",INFANTIL
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",KANAL DE DRAMA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="" tvg-logo="" group-title="TV | Canal 4K",LIGA 1
@@ -1023,6 +1023,8 @@ http://190.61.47.54:8000/play/a02u/index.m3u8
 http://myultratv.com:8080/8712479/7T8g5r4ED6F/512
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 CENTRAL
 http://45.166.93.156:9999/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 CENTRAL " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
+http://181.78.79.131:8000/play/a0s6
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://177.53.152.117:8000/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4 HD
@@ -1055,6 +1057,8 @@ http://177.53.152.117:8000/play/a043/index.m3u8
 http://38.137.192.250:8000/play/a036
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 PERU
 https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 6" tvg-logo="" group-title="TV | Deportes",ESPN 6 SUR
+http://181.78.79.131:8000/play/a0s3
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7
 http://177.53.152.117:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7" tvg-logo="" group-title="TV | Deportes",ESPN 7 HD
@@ -1062,11 +1066,11 @@ http://38.137.192.250:8000/play/a03o
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 ECUA
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 CENTRAL
-
+http://181.78.79.131:8000/play/a0s8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 7 ECUA" tvg-logo="" group-title="TV | Deportes",ESPN 7 SUR
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
-
+http://181.78.79.131:8000/play/a0r2
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA FHD" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA MEX
@@ -1794,608 +1798,28 @@ http://visiona2.digital/movie/1234567890/0987654321/351570.mp4
 http://visiona2.digital/movie/1234567890/0987654321/351559.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", MISIÓN DE RESCATE 1
 http://visiona2.digital/movie/1234567890/0987654321/61348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", TE EXTRAÑO TE AMO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", EL ULTIMO AMANECER
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA REALIDAD PARALELA DE HOMERO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",TODO LO QUE NUNCA FUIMOS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", ENGENDRO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA CAPTURA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", BESAR ES FACIL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La BESTIA A PUÑO LIMPIO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", EL FINAL DE LA CALLE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", FURIOSOS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", UN HIJO PROPIO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", EL TURNO DE PAPA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",NANDO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",EMBOSCADA SALVAJE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", JACKASS LA ULTIMA Y NOS VAMOS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA ULTIMA CASA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", EL DIABLO EN LLAMAS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", TORMENTA EN PLAZA SESAMO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", SPIDERMAN UN NUEVO DIA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", NUNCA DEBIMOS ENTRAR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA BESTIA DEL PANTANO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", TE QUIERO DESDE SIEMPRE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA ODISEA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", LA VOLUNTAD DE DIOS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", UN SUEÑO POSIBLE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", DESEO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Maximo riesgo 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Casino Royale 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", NO ENTRAR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",ABUELA TREMENDA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",23000 VIDAS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", MOANA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",EL PASAJERO DEL DIABLO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", PESADILLA EN EL MAR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", PROYECTO EL INTERNADO
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", SUPERGIRL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", TOY STORY 5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Invicto 4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",South Park el fin de los gordos
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El reino del planeta de los simios
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La primera profecia
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Furiosa la saga de Mad Max
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Titanic
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Nahir
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Mi querida Oni
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",En buenas manos 2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Scrambled
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Beatles
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Float
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El especialista
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Dragones en el aire
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Lisa Frankenstein
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Juguete diabolico
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate imposible
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Kung fu panda 4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El viaje
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El pajaro loco se va de campamento
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Duna parte dos
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La liga de la justicia parte dos
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La cazadora
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La secta del fin del mundo
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Atrapados en lo profundo
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",City hunter
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Tiempos futuros
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Te llevo en el alma
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Chicas Millers
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Angeles ordinarios
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Apocalipsis fantasma
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Abigail
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",bebe tiburon la gran película 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El podcast
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Noche de bodas
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Se busca
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Historia de lo oculto
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La madre de la novia
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Lazos de vida
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Regresame de la muerte
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Velocidad sin limites
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Castigos de la traicion
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Colateral
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Agentes del desorden 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El arca de Noe
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas", Agentes Vanguard
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Rescate Imposible
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Madame web
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",The windigo
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",El correo
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Cariño
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Los juegos del amor
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Cinco citas a ciegas
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",primera clase
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",La gran noche del pop
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD | Peliculas",Orion y la oscuridad
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",TikTok in the mix
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Pollitos en fuga 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",VHS 85
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",La generacion capsula
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Despertar del duelo
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Intruso
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Godzilla minus one
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",La sociedad de la nieve
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Cripto estafas
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Sin ver
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",South Park no apto para menores
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Rescate de noche buena
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Donde nos perdimos
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Paw patrol la super pelicula
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Section 8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Mavka guardiana del bosque
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Dejar el mundo atrás
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",La calle de la navidad
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Paw patrol la pelicula
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Escape bajo fuego
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",(Wish)El poder de los deseos
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",La lista de los besos
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Muerte infinita
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Sin aire
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Gran turismo
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Nadie te salvará
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",El rapto
-
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere.en algun lugar" tvg-logo="" group-title="VOD | Peliculas",Nowhere, en algun lugar
-
-#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Saw X
-
-#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Messi
-
-#EXTINF:-1 tvg-id="" tvg-name="Quantumania" tvg-logo="" group-title="VOD | Peliculas",Rituales mortales
-
-#EXTINF:-1 tvg-id="" tvg-name="Los extraños" tvg-logo="" group-title="VOD | Peliculas",Scarygirl
-
-#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 1" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 3" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Los indestructibles 4" tvg-logo="" group-title="VOD | Peliculas",Los indestructibles 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Up" tvg-logo="" group-title="VOD | Peliculas",Up
-
-#EXTINF:-1 tvg-id="" tvg-name="Contrareloj" tvg-logo="" group-title="VOD | Peliculas",Contrareloj
-
-#EXTINF:-1 tvg-id="" tvg-name="Alerta roja" tvg-logo="" group-title="VOD | Peliculas",Alerta roja
-
-#EXTINF:-1 tvg-id="" tvg-name="La monja 2" tvg-logo="" group-title="VOD | Peliculas",La monja 2
-
-#EXTINF:-1 tvg-id="" tvg-name="La memoria infinita" tvg-logo="" group-title="VOD | Peliculas",La memoria infinita
-
-#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="" group-title="VOD | Peliculas",Blue Beetle
-
-#EXTINF:-1 tvg-id="" tvg-name="El piloto" tvg-logo="" group-title="VOD | Peliculas",El piloto
-
-#EXTINF:-1 tvg-id="" tvg-name="Residente Evil y la isla e la muerte" tvg-logo="" group-title="VOD | Peliculas",Residente Evil y la isla e la muerte
-
-#EXTINF:-1 tvg-id="" tvg-name="Los 3 deseos de Cenicienta" tvg-logo="" group-title="VOD | Peliculas",Mortal kombat
-
-#EXTINF:-1 tvg-id="" tvg-name="El abismo" tvg-logo="" group-title="VOD | Peliculas",El abismo
-
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dia del destino" tvg-logo="" group-title="VOD | Peliculas",Indiana Jones y el dia del destino
-
-#EXTINF:-1 tvg-id="" tvg-name="Agente Stone" tvg-logo="" group-title="VOD | Peliculas",Agente Stone
-
-#EXTINF:-1 tvg-id="" tvg-name="65" tvg-logo="" group-title="VOD | Peliculas",Al borde de la extincion
-
-#EXTINF:-1 tvg-id="" tvg-name="Una boda explosiva" tvg-logo="" group-title="VOD | Peliculas",Una boda explosiva
-
-#EXTINF:-1 tvg-id="" tvg-name="Mi novio es un zombie" tvg-logo="" group-title="VOD | Peliculas",Mi novio es un zombie
-
-#EXTINF:-1 tvg-id="" tvg-name="El rey mono" tvg-logo="" group-title="VOD | Peliculas",Ola  de zombies 
-
-#EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="" group-title="VOD | Peliculas",Apocalypto
-
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 1
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55355.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Malum" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 2
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55356.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mansión encantada" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 3
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55357.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elemental" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 4
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55358.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El atrapa almas" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 5
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55359.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El expediente ruso" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 6
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Insidious la puerta roja" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 7
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55361.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 8
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55362.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 9
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55363.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso 10
-
-#EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 
-
-#EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="VOD | Peliculas",Megalodon 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="" group-title="VOD | Peliculas",Oppenheimer
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="" group-title="VOD | Peliculas",Barbie
-
-#EXTINF:-1 tvg-id="" tvg-name="Sonidos de libertad" tvg-logo="" group-title="VOD | Peliculas",Sonidos de libertad
-
-#EXTINF:-1 tvg-id="" tvg-name="Mision imposible sentencia mortal" tvg-logo="" group-title="VOD | Peliculas",Mision imposible sentencia mortal
-
-#EXTINF:-1 tvg-id="" tvg-name="Up una aventura de altura" tvg-logo="" group-title="VOD | Peliculas",Flaminhot
-
-#EXTINF:-1 tvg-id="" tvg-name="Operación kandahar" tvg-logo="" group-title="VOD | Peliculas",Operación kandahar
-
-#EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 1" tvg-logo="" group-title="VOD | Peliculas",Misión de rescate 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Quien esta ahi" tvg-logo="" group-title="VOD | Peliculas",Infierno blanco
-
-#EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="" group-title="VOD | Peliculas",Flash
-
-#EXTINF:-1 tvg-id="" tvg-name="Demonio negro" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
-
-#EXTINF:-1 tvg-id="" tvg-name="Día de la madre" tvg-logo="" group-title="VOD | Peliculas",Peter Pan
-
-#EXTINF:-1 tvg-id="" tvg-name="Transformer el despertar de las bestias" tvg-logo="" group-title="VOD | Peliculas",Transformer el despertar de las bestias
-
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman cruzando el multiverso" tvg-logo="" group-title="VOD | Peliculas",Spiderman sin retorno a casa
-
-#EXTINF:-1 tvg-id="" tvg-name="Black warrant" tvg-logo="" group-title="VOD | Peliculas",Black warrant
-
-#EXTINF:-1 tvg-id="" tvg-name="El ultimo vagon" tvg-logo="" group-title="VOD | Peliculas",Kung fu
-
-#EXTINF:-1 tvg-id="" tvg-name="La princesa cisne" tvg-logo="" group-title="VOD | Peliculas",Asesino sin memoria
-
-#EXTINF:-1 tvg-id="" tvg-name="Crater un viaje inolvidable" tvg-logo="" group-title="VOD | Peliculas",Destino final 1
-
-#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa" tvg-logo="" group-title="VOD | Peliculas",Destino final 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Clock" tvg-logo="" group-title="VOD | Peliculas",Destino final 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Grito 6" tvg-logo="" group-title="VOD | Peliculas",Dedicada a mi ex Enchufetv
-
-#EXTINF:-1 tvg-id="" tvg-name="Tin y Tina" tvg-logo="" group-title="VOD | Peliculas",Tin y Tina
-
-#EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Shazam la furia de los dioses" tvg-logo="" group-title="VOD | Peliculas",Shazam 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Extraviada" tvg-logo="" group-title="VOD | Peliculas",No se aceptan devoluciones
-
-#EXTINF:-1 tvg-id="" tvg-name="Jhon Wick 4" tvg-logo="" group-title="VOD | Peliculas",Jhon Wick 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas"Guardianes de la galaxia 3" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del zodiaco" tvg-logo="" group-title="VOD | Peliculas",Los Caballeros del Zodiaco
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MEGAN" tvg-logo="" group-title="VOD | Peliculas",MEGAN
-
-#EXTINF:-1 tvg-id="" tvg-name="La sirenita" tvg-logo="" group-title="VOD | Peliculas",La sirenita
-
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 10" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Alicia atraves del espejo" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="VOD | Peliculas",Que paso ayer 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros" tvg-logo="" group-title="VOD | Peliculas",Super Mario Bros
-
-#EXTINF:-1 tvg-id="" tvg-name="El gato con botas:el ultimo deseo" tvg-logo="" group-title="VOD | Peliculas",El gato con botas: el ultimo deseo
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
-
-#EXTINF:-1 tvg-id="" tvg-name="La biblia en el inicio" tvg-logo="" group-title="VOD | Peliculas",La biblia en el inicio
-
-#EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",No te olvidaré 
-
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Terremoto
-
-#EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
-
-#EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 9
-
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 10
-
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="" group-title="VOD | Peliculas",Escuadron suicida
-
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
-
-#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="" group-title="VOD | Peliculas",Grito 7 
-
-#EXTINF:-1 tvg-id="" tvg-name="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
-
-#EXTINF:-1 tvg-id="" tvg-name="Venom " tvg-logo="" group-title="VOD | Peliculas",Venom 
-
-#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Troya
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman:inicia" tvg-logo="" group-title="VOD | Peliculas",Batman:inicia
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
-
-#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 1" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 2" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Correr o morir 3" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Transformers 1" tvg-logo="" group-title="VOD | Peliculas",Transformers 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Todopoderoso 1" tvg-logo="" group-title="VOD | Peliculas",Todopoderoso 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman lejos de casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman lejos de casa
-
-#EXTINF:-1 tvg-id="" tvg-name="Depredador: la presa" tvg-logo="" group-title="VOD | Peliculas",Depredador: la presa
-
-#EXTINF:-1 tvg-id="" tvg-name="Alien vs Depredador" tvg-logo="" group-title="VOD | Peliculas",Alien vs Depredador
-
-#EXTINF:-1 tvg-id="" tvg-name="El transportador 1" tvg-logo="" group-title="VOD | Peliculas",El transportador 1
-
-#EXTINF:-1 tvg-id="" tvg-name="El transportador 2" tvg-logo="" group-title="VOD | Peliculas",El transportador 2
-
-#EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
-
-#EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
-
-#EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
-
-#EXTINF:-1 tvg-id="" tvg-name="Estacion zombie 2" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
-
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 2" tvg-logo="" group-title="VOD | Peliculas",Inframundo 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3" tvg-logo="" group-title="VOD | Peliculas",Inframundo 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5" tvg-logo="" group-title="VOD | Peliculas",Inframundo 5
-
-#EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
-
-#EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",Jefes de Estado
-
-#EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
-
-#EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",Rambo  ultima sangre
-
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-
-#EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",VENGADORES INFINITY WAR
-
-#EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas", LA LIGA DE LA JUSTICIA
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
-
-#EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
-
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="" group-title="VOD | Peliculas",No manches Frida
-
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-
-#EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Rascacielos
-
-#EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas", Instinto Implacable 
-
-#EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",Gigantes de acero
-
-#EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 2" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",donde estan las rubias
-
-#EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
-
-#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 1" tvg-logo="" group-title="VOD | Peliculas",Terminator 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 2" tvg-logo="" group-title="VOD | Peliculas",Terminator 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 3" tvg-logo="" group-title="VOD | Peliculas",Terminator 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 4" tvg-logo="" group-title="VOD | Peliculas",Terminator 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 5" tvg-logo="" group-title="VOD | Peliculas",Terminator 5
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
-
-#EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",Madagascar 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Madagascar 2
-
-#EXTINF:-1 tvg-id="" tvg-name="No mires arriba" tvg-logo="" group-title="VOD | Peliculas",Madagascar 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Dioses de Egipto 
-
-#EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
-
-#EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 1" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas", Operación sombra 
-
-#EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
-
-#EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
-
-#EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
-
-#EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose: los sueños del faraon
-
-#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Nowhere en algun lugar
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Avatar el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Las locuras del emperador
-
-#EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",La pasion de Cristo
-
-#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
-
-#EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 1" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 1
-
-#EXTINF:-1 tvg-id="" tvg-name="El padre de la novia 2" tvg-logo="" group-title="VOD | Peliculas",El padre de la novia 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Titanic
-
-#EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Una esposa de mentira
-
-#EXTINF:-1 tvg-id="" tvg-name="El ejecutador" tvg-logo="" group-title="VOD | Peliculas",Mision Submarino 
-
-#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",El perfume historia de un asesino
-
-#EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas", Asesinos 
-
-#EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
-
-#EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="" group-title="VOD | Peliculas",Norbit
-
-#EXTINF:-1 tvg-id="" tvg-name="Shaolin soccer" tvg-logo="" group-title="VOD | Peliculas",Shaolin soccer
-
-#EXTINF:-1 tvg-id="" tvg-name="La visita" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Al filo del abismo" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 3
-
-#EXTINF:-1 tvg-id="" tvg-name="Imperio de luz" tvg-logo="" group-title="VOD | Peliculas",Hotel Transilvania 4
-
-#EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas", Misión de rescate 
-
-#EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",Rescate en las alturas 
-
-#EXTINF:-1 tvg-id="" tvg-name="El dia despues de mañana" tvg-logo="" group-title="VOD | Peliculas",El extranjero 
-
-#EXTINF:-1 tvg-id="" tvg-name="Vértigo" tvg-logo="" group-title="VOD | Peliculas",Vértigo
-
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto extraccion" tvg-logo="" group-title="VOD | Peliculas",Rapido y furioso Hoobs y Shaw
+http://myultratv.com:8080/movie/978537638tv/bt458fdv/55364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="" group-title="VOD | Peliculas",PAW Patrol DINOSAURIO 
 http://iptvpremium.ink:55577/movie/Nuevo2026/Peru2026/549441.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego 2" tvg-logo="" group-title="VOD | Peliculas", RUTA DE ESCAPE 
