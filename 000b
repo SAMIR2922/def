@@ -13,7 +13,7 @@ http://45.185.163.75:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA
 http://ecuatvip.com/live/ALFREDO123ARRIAGADA/sgc9bFpS5u/2407.ts
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="" group-title="TV | Ecuador",ECUAVISA COSTA HD
-
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/67613
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="" group-title="TV | Ecuador",TVC
 http://myultratv.com:8080/8712479/7T8g5r4ED6F/250882
@@ -22,7 +22,7 @@ http://200.24.139.202:4576/play/a0zj
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC SD
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC SD" tvg-logo="" group-title="TV | Ecuador",TVC FHD
-
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/67620
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://181.119.185.32:8000/play/a00c/index.m3u8?hls
@@ -51,7 +51,7 @@ http://myultratv.com:8080/8712479/7T8g5r4ED6F/250869
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="" group-title="TV | Ecuador",OROMAR
 http://45.185.163.75:8000/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR SD
-
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/67623
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR SD"  tvg-logo="" group-title="TV | Ecuador",OROMAR COSTA
 http://45.224.97.181:9999/Oromar/index.m3u8
 
@@ -1285,7 +1285,7 @@ http://181.119.177.253:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 1" tvg-logo="" group-title="TV | Deportes",DAZN 1
-
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/278233
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 2" tvg-logo="" group-title="TV | Deportes",DAZN 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN 3" tvg-logo="" group-title="TV | Deportes",DAZN 3
@@ -1621,12 +1621,12 @@ http://ecuatvip.com/live/ALFREDO123ARRIAGADA/sgc9bFpS5u/575807.ts
 http://ecuatvip.com/live/ALFREDO123ARRIAGADA/sgc9bFpS5u/582503.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kung fu panda" tvg-logo="" group-title="24/7 | 24/7",BOB ESPONJA
 http://ecuatvip.com/live/ALFREDO123ARRIAGADA/sgc9bFpS5u/582505.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7",Los 3 chiflados
-
+#EXTINF:-1 tvg-id="" tvg-name="Ranma" tvg-logo="" group-title="24/7 | 24/7", PAW PATROL
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/406754
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",Doraemon
 
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
-
+http://play.pelusa.online:8080/alvarodelregil/hMAwmKHQYKpt/225009
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL SUPER
